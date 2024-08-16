@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "4"
+	"mapversion" "5"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "4"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -246180,7 +246180,7 @@ entity
 		{
 			"id" "16467"
 			"plane" "(3058 -1432 40) (3058 -1432 12) (3104 -1432 12)"
-			"material" "TOOLS/TOOLSSKIP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -370202,8 +370202,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1602.32 64.9155 226.994]"
-		"look" "[1650.94 248.921 40.6186]"
+		"position" "[3046.29 -1464.17 52.1891]"
+		"look" "[2904.51 -1671.23 141.547]"
 	}
 }
 cordon
