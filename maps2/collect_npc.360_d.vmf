@@ -1,0 +1,6138 @@
+world
+{
+	"id" "1"
+	"skyname" "hub2"
+	"maxpropscreenwidth" "-1"
+	"detailvbsp" "detail.vbsp"
+	"detailmaterial" "detail/detailsprites"
+	"mapversion" "88"
+	"comment" "Decompiled by BSPSource v1.4.5 from collect_npc.360"
+	"classname" "worldspawn"
+	solid
+	{
+		"id" "2"
+		side
+		{
+			"id" "4"
+			"plane" "(-1024 -1408 16) (-1024 -1408 -0) (-1024 896 -0)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "5"
+			"plane" "(1024 896 16) (1024 896 -0) (1024 -1408 -0)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "6"
+			"plane" "(1024 -1408 16) (1024 -1408 -0) (-1024 -1408 -0)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "7"
+			"plane" "(-1024 896 16) (-1024 896 -0) (1024 896 -0)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "8"
+			"plane" "(-1024 896 0) (-1024 -1408 0) (1024 -1408 0)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "9"
+			"plane" "(-1024 -1408 16) (-1024 896 16) (1024 896 16)"
+			"smoothing_groups" "0"
+			"material" "ground/road_a03"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "10"
+		side
+		{
+			"id" "11"
+			"plane" "(-1024 -64 144) (-1024 -64 16) (-1024 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "12"
+			"plane" "(-1008 880 144) (-1008 880 16) (-1008 -64 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_yellow_brks_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "13"
+			"plane" "(-1008 -64 144) (-1008 -64 16) (-1024 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "14"
+			"plane" "(-1024 880 144) (-1024 880 16) (-1008 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "15"
+			"plane" "(-1024 880 16) (-1024 -64 16) (-1008 -64 16)"
+			"smoothing_groups" "0"
+			"material" "ground/road_a03"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "16"
+			"plane" "(-1024 -64 144) (-1024 880 144) (-1008 880 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "17"
+		side
+		{
+			"id" "18"
+			"plane" "(1008 896 16) (1008 -256 16) (1024 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "19"
+			"plane" "(1008 -256 144) (1008 896 144) (1024 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "20"
+			"plane" "(1008 -256 144) (1008 -256 16) (1008 896 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_white_brks_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "21"
+			"plane" "(1024 896 144) (1024 896 16) (1024 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "22"
+			"plane" "(1024 -256 144) (1024 -256 16) (1008 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "23"
+			"plane" "(1008 896 144) (1008 896 16) (1024 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "24"
+		side
+		{
+			"id" "25"
+			"plane" "(-1024 880 144) (-1024 880 16) (-1024 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "26"
+			"plane" "(-112 896 144) (-112 896 16) (-112 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "27"
+			"plane" "(-112 880 144) (-112 880 16) (-1024 880 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_yellow_brks_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "28"
+			"plane" "(-1024 896 144) (-1024 896 16) (-112 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "29"
+			"plane" "(-1024 896 16) (-1024 880 16) (-112 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "30"
+			"plane" "(-1024 880 144) (-1024 896 144) (-112 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "31"
+		side
+		{
+			"id" "32"
+			"plane" "(-1008 -1408 144) (-1008 -1408 16) (-1008 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "33"
+			"plane" "(-112 -1392 144) (-112 -1392 16) (-112 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "34"
+			"plane" "(-112 -1408 144) (-112 -1408 16) (-1008 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "36"
+			"plane" "(-1008 -1392 144) (-1008 -1392 16) (-112 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "concrete/concrete_yellow_inner_wall_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "37"
+			"plane" "(-1008 -1392 16) (-1008 -1408 16) (-112 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "38"
+			"plane" "(-1008 -1408 144) (-1008 -1392 144) (-112 -1392 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "39"
+		side
+		{
+			"id" "40"
+			"plane" "(1008 -256 144) (1008 -256 16) (-96 -256 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/fence_05_wall_01_a_up"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "41"
+			"plane" "(-96 -240 144) (-96 -240 16) (1008 -240 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_white_brks_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "42"
+			"plane" "(-96 -240 16) (-96 -256 16) (1008 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "43"
+			"plane" "(-96 -256 144) (-96 -240 144) (1008 -240 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "44"
+			"plane" "(-96 -256 144) (-96 -256 16) (-96 -240 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "45"
+			"plane" "(1008 -240 144) (1008 -240 16) (1008 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "46"
+		side
+		{
+			"id" "47"
+			"plane" "(-112 -256 144) (-112 -256 16) (-112 -48 16)"
+			"smoothing_groups" "0"
+			"material" "city/wall_city_tile07"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "48"
+			"plane" "(-96 -48 144) (-96 -48 16) (-96 -256 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_white_brks_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "49"
+			"plane" "(-96 -256 144) (-96 -256 16) (-112 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "50"
+			"plane" "(-112 -48 144) (-112 -48 16) (-96 -48 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "51"
+			"plane" "(-112 -48 16) (-112 -256 16) (-96 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "52"
+			"plane" "(-112 -256 144) (-112 -48 144) (-96 -48 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "53"
+		side
+		{
+			"id" "54"
+			"plane" "(-1008 -64 144) (-1008 -64 16) (-1008 -48 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "55"
+			"plane" "(-416 -48 144) (-416 -48 16) (-416 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "56"
+			"plane" "(-416 -64 144) (-416 -64 16) (-1008 -64 16)"
+			"smoothing_groups" "0"
+			"material" "largemart/lm_wall_s"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "57"
+			"plane" "(-1008 -48 144) (-1008 -48 16) (-416 -48 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_yellow_brks_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "58"
+			"plane" "(-1008 -48 16) (-1008 -64 16) (-416 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "59"
+			"plane" "(-1008 -64 144) (-1008 -48 144) (-416 -48 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "60"
+		side
+		{
+			"id" "61"
+			"plane" "(-1008 -480 144) (-1008 -480 16) (-1008 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "62"
+			"plane" "(-416 -464 144) (-416 -464 16) (-416 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "63"
+			"plane" "(-416 -480 144) (-416 -480 16) (-1008 -480 16)"
+			"smoothing_groups" "0"
+			"material" "concrete/concrete_yellow_inner_wall_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "64"
+			"plane" "(-1008 -464 144) (-1008 -464 16) (-416 -464 16)"
+			"smoothing_groups" "0"
+			"material" "largemart/lm_wall_s"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "65"
+			"plane" "(-1008 -464 16) (-1008 -480 16) (-416 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "66"
+			"plane" "(-1008 -480 144) (-1008 -464 144) (-416 -464 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "67"
+		side
+		{
+			"id" "68"
+			"plane" "(-432 -464 144) (-432 -464 16) (-432 -64 16)"
+			"smoothing_groups" "0"
+			"material" "largemart/lm_wall_s"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "69"
+			"plane" "(-416 -64 144) (-416 -64 16) (-416 -464 16)"
+			"smoothing_groups" "0"
+			"material" "city/wall_city_tile07"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "70"
+			"plane" "(-416 -464 144) (-416 -464 16) (-432 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "71"
+			"plane" "(-432 -64 144) (-432 -64 16) (-416 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "72"
+			"plane" "(-432 -64 16) (-432 -464 16) (-416 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "73"
+			"plane" "(-432 -464 144) (-432 -64 144) (-416 -64 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "74"
+		side
+		{
+			"id" "75"
+			"plane" "(-416 -48 16) (-416 -64 16) (-112 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "76"
+			"plane" "(-416 -64 144) (-416 -48 144) (-112 -48 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "77"
+			"plane" "(-416 -64 144) (-416 -64 16) (-416 -48 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "78"
+			"plane" "(-112 -48 144) (-112 -48 16) (-112 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "79"
+			"plane" "(-112 -64 144) (-112 -64 16) (-416 -64 16)"
+			"smoothing_groups" "0"
+			"material" "city/wall_city_tile07"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "80"
+			"plane" "(-416 -48 144) (-416 -48 16) (-112 -48 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_yellow_brks_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "81"
+		side
+		{
+			"id" "82"
+			"plane" "(-416 -480 144) (-416 -480 16) (-416 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "83"
+			"plane" "(-112 -464 144) (-112 -464 16) (-112 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "84"
+			"plane" "(-112 -480 144) (-112 -480 16) (-416 -480 16)"
+			"smoothing_groups" "0"
+			"material" "concrete/concrete_yellow_inner_wall_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "85"
+			"plane" "(-416 -464 144) (-416 -464 16) (-112 -464 16)"
+			"smoothing_groups" "0"
+			"material" "city/wall_city_tile07"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "86"
+			"plane" "(-416 -464 16) (-416 -480 16) (-112 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "87"
+			"plane" "(-416 -480 144) (-416 -464 144) (-112 -464 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "88"
+		side
+		{
+			"id" "90"
+			"plane" "(-112 -48 144) (-112 -48 16) (-112 896 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_yellow_brks_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "91"
+			"plane" "(-96 896 144) (-96 896 16) (-96 -48 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_white_brks_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "92"
+			"plane" "(-96 -48 144) (-96 -48 16) (-112 -48 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "93"
+			"plane" "(-112 896 144) (-112 896 16) (-96 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "94"
+			"plane" "(-112 896 16) (-112 -48 16) (-96 -48 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "95"
+			"plane" "(-112 -48 144) (-112 896 144) (-96 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "96"
+		side
+		{
+			"id" "97"
+			"plane" "(-96 -1408 144) (-96 -1408 16) (-112 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "98"
+			"plane" "(-112 -480 144) (-112 -480 16) (-96 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "99"
+			"plane" "(-112 -480 16) (-112 -1408 16) (-96 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "100"
+			"plane" "(-112 -1408 144) (-112 -480 144) (-96 -480 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "101"
+			"plane" "(-112 -1408 144) (-112 -1408 16) (-112 -480 16)"
+			"smoothing_groups" "0"
+			"material" "concrete/concrete_yellow_inner_wall_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "102"
+			"plane" "(-96 -480 144) (-96 -480 16) (-96 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/fence_05_wall_01_a_up"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "103"
+		side
+		{
+			"id" "104"
+			"plane" "(-96 880 144) (-96 880 16) (-96 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "105"
+			"plane" "(1008 896 144) (1008 896 16) (1008 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "106"
+			"plane" "(1008 880 144) (1008 880 16) (-96 880 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/wall_white_brks_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "107"
+			"plane" "(-96 896 144) (-96 896 16) (1008 896 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "108"
+			"plane" "(-96 896 16) (-96 880 16) (1008 880 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "109"
+			"plane" "(-96 880 144) (-96 896 144) (1008 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "110"
+		side
+		{
+			"id" "111"
+			"plane" "(1008 -1392 144) (1008 -1392 16) (1008 -256 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/fence_05_wall_01_a_up"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "112"
+			"plane" "(1024 -256 144) (1024 -256 16) (1024 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "113"
+			"plane" "(1024 -1392 144) (1024 -1392 16) (1008 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "114"
+			"plane" "(1008 -256 144) (1008 -256 16) (1024 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "115"
+			"plane" "(1008 -256 16) (1008 -1392 16) (1024 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "116"
+			"plane" "(1008 -1392 144) (1008 -256 144) (1024 -256 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "117"
+		side
+		{
+			"id" "118"
+			"plane" "(-96 -1408 144) (-96 -1408 16) (-96 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "119"
+			"plane" "(1024 -1392 144) (1024 -1392 16) (1024 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "120"
+			"plane" "(1024 -1408 144) (1024 -1408 16) (-96 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "121"
+			"plane" "(-96 -1392 144) (-96 -1392 16) (1024 -1392 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/fence_05_wall_01_a_up"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "122"
+			"plane" "(-96 -1392 16) (-96 -1408 16) (1024 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "123"
+			"plane" "(-96 -1408 144) (-96 -1392 144) (1024 -1392 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "124"
+		side
+		{
+			"id" "125"
+			"plane" "(-1024 -464 144) (-1024 -464 16) (-1024 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "127"
+			"plane" "(-1008 -64 144) (-1008 -64 16) (-1008 -464 16)"
+			"smoothing_groups" "0"
+			"material" "largemart/lm_wall_s"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "128"
+			"plane" "(-1008 -464 144) (-1008 -464 16) (-1024 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "129"
+			"plane" "(-1024 -64 144) (-1024 -64 16) (-1008 -64 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "130"
+			"plane" "(-1024 -64 16) (-1024 -464 16) (-1008 -464 16)"
+			"smoothing_groups" "0"
+			"material" "ground/road_a03"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "131"
+			"plane" "(-1024 -464 144) (-1024 -64 144) (-1008 -64 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "132"
+		side
+		{
+			"id" "133"
+			"plane" "(-1024 -464 16) (-1024 -1408 16) (-1008 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "ground/road_a03"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "134"
+			"plane" "(-1024 -1408 144) (-1024 -464 144) (-1008 -464 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "135"
+			"plane" "(-1024 -1408 144) (-1024 -1408 16) (-1024 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "136"
+			"plane" "(-1008 -464 144) (-1008 -464 16) (-1008 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "concrete/concrete_yellow_inner_wall_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "137"
+			"plane" "(-1008 -1408 144) (-1008 -1408 16) (-1024 -1408 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "138"
+			"plane" "(-1024 -464 144) (-1024 -464 16) (-1008 -464 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "139"
+		side
+		{
+			"id" "140"
+			"plane" "(-112 -480 144) (-112 -480 16) (-112 -256 16)"
+			"smoothing_groups" "0"
+			"material" "city/wall_city_tile07"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "141"
+			"plane" "(-96 -256 144) (-96 -256 16) (-96 -480 16)"
+			"smoothing_groups" "0"
+			"material" "bricks/fence_05_wall_01_a_up"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "142"
+			"plane" "(-96 -480 144) (-96 -480 16) (-112 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "143"
+			"plane" "(-112 -256 144) (-112 -256 16) (-96 -256 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "144"
+			"plane" "(-112 -256 16) (-112 -480 16) (-96 -480 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "145"
+			"plane" "(-112 -480 144) (-112 -256 144) (-96 -256 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+	solid
+	{
+		"id" "146"
+		side
+		{
+			"id" "147"
+			"plane" "(-1024 -1408 160) (-1024 -1408 144) (-1024 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "148"
+			"plane" "(1024 896 160) (1024 896 144) (1024 -1408 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[0 1 -0 0] 0.25"
+			"vaxis" "[0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "149"
+			"plane" "(1024 -1408 160) (1024 -1408 144) (-1024 -1408 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "150"
+			"plane" "(-1024 896 160) (-1024 896 144) (1024 896 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[-0 -0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "151"
+			"plane" "(-1024 896 144) (-1024 -1408 144) (1024 -1408 144)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsskybox"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "152"
+			"plane" "(-1024 -1408 160) (-1024 896 160) (1024 896 160)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[1 -0 0 0] 0.25"
+			"vaxis" "[0 -1 -0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "3"
+	"origin" "-320 -256 16"
+	"angles" "0 0 0"
+	"classname" "info_player_start"
+}
+entity
+{
+	"id" "35"
+	"origin" "-240 -292.07 32"
+	"SunSpreadAngle" "0"
+	"pitch" "-60"
+	"angles" "0 0 0"
+	"_lightscaleHDR" "1"
+	"_lightHDR" "-1 -1 -1 1"
+	"_light" "255 255 255 200"
+	"_AmbientScaleHDR" "1"
+	"_ambientHDR" "-1 -1 -1 1"
+	"_ambient" "255 255 255 20"
+	"classname" "light_environment"
+}
+entity
+{
+	"id" "126"
+	"origin" "-4 -352 17"
+	"targetname" "m_avg_target"
+	"angles" "0 315 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "218"
+	"uv3" "64 -64 0"
+	"uv2" "64 64 0"
+	"uv1" "-64 64 0"
+	"uv0" "-64 -64 0"
+	"StartV" "0"
+	"StartU" "1"
+	"spawnflags" "1"
+	"sides" "82"
+	"origin" "-112 -326.73 70.16"
+	"material" "bricks/wall_yellow_brks_01"
+	"fademindist" "-1"
+	"EndV" "1"
+	"EndU" "0"
+	"BasisV" "0 0 -1"
+	"BasisU" "0 1 0"
+	"BasisOrigin" "-112 -326.733 70.1553"
+	"BasisNormal" "-1 0 0"
+	"classname" "trigger_remove"
+}
+entity
+{
+	"id" "89"
+	"targetname" "m_avg_trigger"
+	"target" "m_avg_target"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-144 -320 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "153"
+		side
+		{
+			"id" "154"
+			"plane" "(-156 -332 88) (-156 -332 16) (-156 -308 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "155"
+			"plane" "(-132 -308 88) (-132 -308 16) (-132 -332 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "156"
+			"plane" "(-132 -332 88) (-132 -332 16) (-156 -332 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "157"
+			"plane" "(-156 -308 88) (-156 -308 16) (-132 -308 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "158"
+			"plane" "(-156 -308 16) (-156 -332 16) (-132 -332 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "159"
+			"plane" "(-156 -332 88) (-156 -308 88) (-132 -308 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "450"
+	"origin" "-112 -320 72"
+	"texture" "overlays/zone_01_m_avg"
+	"angles" "0 0 0"
+	"classname" "infodecal"
+}
+entity
+{
+	"id" "460"
+	"origin" "-320 -272 17"
+	"targetname" "main_destination"
+	"angles" "0 0 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "468"
+	"targetname" "m_avg_back_trigger"
+	"target" "main_destination"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-64 -288 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "160"
+		side
+		{
+			"id" "161"
+			"plane" "(-47.0312 -287.9961 16) (-80.9727 -287.9961 16) (-63.9992 -304.97 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "162"
+			"plane" "(-64 -304.9766 88) (-80.9766 -288 88) (-64 -271.0312 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "163"
+			"plane" "(-64 -304.9688 16) (-80.9727 -287.9961 16) (-80.9688 -288 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "164"
+			"plane" "(-64.0039 -271.0273 16) (-47.0307 -288.001 16) (-47.0312 -288 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "165"
+			"plane" "(-80.9688 -288 16) (-64 -271.0312 88) (-80.9727 -288.0039 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "166"
+			"plane" "(-47.0312 -288 16) (-64.0039 -304.9727 88) (-47.0307 -287.999 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "508"
+	"targetname" "f_avg_trigger"
+	"target" "f_avg_target"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-144 -224 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "167"
+		side
+		{
+			"id" "168"
+			"plane" "(-156 -236 88) (-156 -236 16) (-156 -212 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "169"
+			"plane" "(-132 -212 88) (-132 -212 16) (-132 -236 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "170"
+			"plane" "(-132 -236 88) (-132 -236 16) (-156 -236 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "171"
+			"plane" "(-156 -212 88) (-156 -212 16) (-132 -212 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "172"
+			"plane" "(-156 -212 16) (-156 -236 16) (-132 -236 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "173"
+			"plane" "(-156 -236 88) (-156 -212 88) (-132 -212 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "517"
+	"origin" "-112 -224 72"
+	"texture" "overlays/zone_01_f_avg"
+	"angles" "0 0 0"
+	"classname" "infodecal"
+}
+entity
+{
+	"id" "541"
+	"targetname" "m_avg_back_trigger"
+	"target" "main_destination"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-62.62 -193.38 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "174"
+		side
+		{
+			"id" "175"
+			"plane" "(-45.6591 -193.3683 16) (-79.6005 -193.3722 16) (-62.6282 -210.3438 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "176"
+			"plane" "(-62.6317 -210.3409 88) (-62.6278 -176.4034 88) (-45.6578 -193.3739 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "177"
+			"plane" "(-62.6239 -210.3409 16) (-79.6005 -193.3683 88) (-62.6263 -210.3419 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "178"
+			"plane" "(-62.6317 -176.3995 16) (-45.6578 -193.3739 16) (-45.6591 -193.3761 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "179"
+			"plane" "(-79.5966 -193.3722 16) (-62.6278 -176.4034 88) (-79.6005 -193.3761 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "180"
+			"plane" "(-45.6591 -193.3722 16) (-62.6317 -210.3448 16) (-62.6278 -210.3409 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "619"
+	"origin" "-4 -128 17"
+	"targetname" "f_avg_target"
+	"angles" "0 45 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "747"
+	"targetname" "f_other_trigger"
+	"target" "f_other_target"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-144 -128 44"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "181"
+		side
+		{
+			"id" "182"
+			"plane" "(-156 -140 80) (-156 -116 80) (-132 -116 80)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "183"
+			"plane" "(-156 -140 80) (-156 -140 8) (-156 -116 8)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "184"
+			"plane" "(-132 -116 80) (-132 -116 8) (-132 -140 8)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "185"
+			"plane" "(-132 -140 80) (-132 -140 8) (-156 -140 8)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "186"
+			"plane" "(-156 -116 80) (-156 -116 8) (-132 -116 8)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "187"
+			"plane" "(-156 -116 8) (-156 -140 8) (-132 -140 8)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "754"
+	"targetname" "f_other_back_trigger"
+	"target" "main_destination"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-969.37 454.62 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "188"
+		side
+		{
+			"id" "189"
+			"plane" "(-952.4012 454.6239 16) (-986.3427 454.6239 16) (-969.3692 437.65 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "190"
+			"plane" "(-969.3739 437.6473 88) (-969.37 471.5887 88) (-952.4006 454.619 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "191"
+			"plane" "(-969.37 437.6512 16) (-986.3427 454.6239 16) (-986.3387 454.62 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "192"
+			"plane" "(-969.37 471.5887 16) (-952.4012 454.62 88) (-969.3739 471.5927 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "193"
+			"plane" "(-986.3387 454.62 16) (-969.37 471.5887 88) (-986.3427 454.6161 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "194"
+			"plane" "(-952.4012 454.62 16) (-969.3739 437.6473 88) (-952.4006 454.621 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "769"
+	"origin" "-928 416 17"
+	"targetname" "f_other_target"
+	"angles" "0 315 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "804"
+	"targetname" "m_other_trigger"
+	"target" "m_other_target"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-144 -400 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "195"
+		side
+		{
+			"id" "196"
+			"plane" "(-156 -412 88) (-156 -388 88) (-132 -388 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "197"
+			"plane" "(-156 -412 88) (-156 -412 16) (-156 -388 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "198"
+			"plane" "(-132 -388 88) (-132 -388 16) (-132 -412 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "199"
+			"plane" "(-132 -412 88) (-132 -412 16) (-156 -412 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "200"
+			"plane" "(-156 -388 88) (-156 -388 16) (-132 -388 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "201"
+			"plane" "(-156 -388 16) (-156 -412 16) (-132 -412 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "822"
+	"targetname" "m_other_back_trigger"
+	"target" "main_destination"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-966.62 -966.64 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "202"
+		side
+		{
+			"id" "203"
+			"plane" "(-949.6473 -966.6439 16) (-966.6278 -949.6595 16) (-983.6044 -966.6283 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "204"
+			"plane" "(-966.6161 -983.6127 88) (-983.6005 -966.6322 88) (-966.6317 -949.6556 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "205"
+			"plane" "(-966.62 -983.6088 16) (-983.6005 -966.6283 88) (-966.6187 -983.6095 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "206"
+			"plane" "(-966.6317 -949.6595 16) (-949.6509 -966.6414 16) (-949.6512 -966.64 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "207"
+			"plane" "(-983.5966 -966.6322 16) (-966.6278 -949.6635 88) (-983.6005 -966.6361 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "208"
+			"plane" "(-949.6512 -966.64 16) (-966.6239 -983.6127 16) (-966.62 -983.6088 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "844"
+	"origin" "-912 -912 17"
+	"targetname" "m_other_target"
+	"angles" "0 45 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "902"
+	"targetname" "unique_trigger"
+	"target" "unique_target"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-320 -432 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "209"
+		side
+		{
+			"id" "210"
+			"plane" "(-332 -420 16) (-332 -444 16) (-308 -444 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "211"
+			"plane" "(-332 -444 88) (-332 -420 88) (-308 -420 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "212"
+			"plane" "(-332 -444 88) (-332 -444 16) (-332 -420 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "213"
+			"plane" "(-308 -420 88) (-308 -420 16) (-308 -444 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "214"
+			"plane" "(-308 -444 88) (-308 -444 16) (-332 -444 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "215"
+			"plane" "(-332 -420 88) (-332 -420 16) (-308 -420 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "916"
+	"targetname" "unique_back_trigger"
+	"target" "main_destination"
+	"StartDisabled" "0"
+	"spawnflags" "1"
+	"origin" "-976 -256 52"
+	"classname" "trigger_teleport"
+	solid
+	{
+		"id" "216"
+		side
+		{
+			"id" "217"
+			"plane" "(-988 -268 88) (-988 -268 16) (-988 -244 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "219"
+			"plane" "(-964 -244 88) (-964 -244 16) (-964 -268 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "220"
+			"plane" "(-964 -268 88) (-964 -268 16) (-988 -268 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "221"
+			"plane" "(-988 -244 88) (-988 -244 16) (-964 -244 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "222"
+			"plane" "(-988 -244 16) (-988 -268 16) (-964 -268 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "223"
+			"plane" "(-988 -268 88) (-988 -244 88) (-964 -244 88)"
+			"smoothing_groups" "0"
+			"material" "tools/toolstrigger"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "960"
+	"origin" "-896 -256 17"
+	"targetname" "unique_target"
+	"angles" "0 0 0"
+	"classname" "info_teleport_destination"
+}
+entity
+{
+	"id" "1063"
+	"origin" "-112 -400 64"
+	"texture" "overlays/zone_01_m_other"
+	"angles" "0 0 0"
+	"classname" "infodecal"
+}
+entity
+{
+	"id" "1089"
+	"origin" "-112 -128 64"
+	"texture" "overlays/zone_01_f_other"
+	"angles" "0 0 0"
+	"classname" "infodecal"
+}
+entity
+{
+	"id" "1200"
+	"origin" "-208 384 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_white_01"
+	"model" "models/characters/F_Fat/F_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1227"
+	"origin" "-208 320 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_white_02"
+	"model" "models/characters/F_Fat/F_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1233"
+	"origin" "-208 256 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#suit_white_01"
+	"model" "models/characters/F_Fat/F_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1239"
+	"origin" "-208 192 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#suit_white_02"
+	"model" "models/characters/F_Fat/F_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1290"
+	"origin" "768 352 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1299"
+	"origin" "768 464 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_eco_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1305"
+	"origin" "928 320 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_largemart_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1321"
+	"origin" "928 16 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_mom_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1329"
+	"origin" "928 -48 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_mom_02"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1343"
+	"origin" "768 288 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1345"
+	"origin" "768 416 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_eco_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1347"
+	"origin" "928 272 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_largemart_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1351"
+	"origin" "928 -112 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_mom_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1353"
+	"origin" "928 -176 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_mom_02"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1443"
+	"origin" "640 0 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1481"
+	"origin" "640 -64 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_02"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1487"
+	"origin" "640 -128 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_03"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1493"
+	"origin" "640 -192 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_gangsta"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1499"
+	"origin" "704 -192 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_b_gangsta"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1501"
+	"origin" "704 -128 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_b_03"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1503"
+	"origin" "704 -64 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_b_02"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1505"
+	"origin" "704 0 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_b_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1523"
+	"origin" "576 416 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_w_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1531"
+	"origin" "576 352 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_w_02"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1537"
+	"origin" "576 288 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_b_01"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1632"
+	"origin" "-480 -128 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#Ron"
+	"model" "models/Characters/M_Avg_Ron/M_Avg_Ron.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1639"
+	"origin" "-480 -192 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#Milan"
+	"model" "models/Characters/M_Avg_Milan/M_Avg_Milan.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1716"
+	"origin" "-160 -560 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_fastfood"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1729"
+	"origin" "-160 -608 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_thug"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1737"
+	"origin" "-160 -656 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_jogger"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1743"
+	"origin" "-160 -704 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_comicbook"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1749"
+	"origin" "-160 -800 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#suit_w_blue"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1755"
+	"origin" "-160 -864 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#suit_w_black"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1761"
+	"origin" "-272 -944 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_w_01"
+	"model" "models/Characters/M_Fat/M_Fat.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1845"
+	"origin" "-384 -544 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_chopper"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1854"
+	"origin" "-384 -608 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_01"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1860"
+	"origin" "-384 -672 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_sport"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1866"
+	"origin" "-384 -736 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_dealmaker"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1872"
+	"origin" "-384 -800 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_prison"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1878"
+	"origin" "-384 -864 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_02"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1886"
+	"origin" "-464 -800 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_prison"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1888"
+	"origin" "-464 -864 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_02"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1890"
+	"origin" "-464 -736 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_dealmaker"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1892"
+	"origin" "-464 -672 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_sport"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1894"
+	"origin" "-464 -608 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_01"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1896"
+	"origin" "-464 -544 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_b_chopper"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1924"
+	"origin" "-560 -864 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_02"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1926"
+	"origin" "-560 -800 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_prison"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1928"
+	"origin" "-560 -736 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_dealmaker"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1930"
+	"origin" "-560 -672 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_sport"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1932"
+	"origin" "-560 -608 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_01"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "1934"
+	"origin" "-560 -544 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_chopper"
+	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2199"
+	"origin" "-640 -304 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#champ"
+	"model" "models/characters/champ/champ.mdl"
+	"Manner" "Dog"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"Faction" "Animals"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_dog"
+}
+entity
+{
+	"id" "2330"
+	"origin" "-640 -272 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pitbull_dark"
+	"model" "models/characters/champ/champ.mdl"
+	"Manner" "Dog"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"Faction" "Animals"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_dog"
+}
+entity
+{
+	"id" "2336"
+	"origin" "-640 -240 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pitbull_light"
+	"model" "models/characters/champ/champ.mdl"
+	"Manner" "Dog"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"Faction" "Animals"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_dog"
+}
+entity
+{
+	"id" "2443"
+	"origin" "-160 -1056 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_comic"
+	"model" "models/characters/M_Thin_SS_Shorts/M_Thin_SS_Shorts.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2452"
+	"origin" "-160 -1104 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_starving"
+	"model" "models/characters/M_Thin_SS_Shorts/M_Thin_SS_Shorts.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2554"
+	"origin" "496 416 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#f_nude_nazi"
+	"model" "models/characters/F_Nude/F_Nude.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180.5 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2579"
+	"origin" "496 352 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#f_nude_arabian"
+	"model" "models/characters/F_Nude/F_Nude.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180.5 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2585"
+	"origin" "496 288 16"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "262144"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#f_nude_castro"
+	"model" "models/characters/F_Nude/F_Nude.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180.5 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2690"
+	"origin" "576 0 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_04"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2796"
+	"origin" "576 -64 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_05"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "2802"
+	"origin" "576 -128 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_06"
+	"model" "models/characters/F_Avg/f_avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3674"
+	"origin" "640 -592 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3946"
+	"origin" "640 -672 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_eco_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3948"
+	"origin" "640 -752 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_largemart_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3950"
+	"origin" "640 -832 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_apron_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3952"
+	"origin" "560 -816 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_02"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3954"
+	"origin" "560 -720 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3976"
+	"origin" "560 -624 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_eco_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3978"
+	"origin" "480 -784 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_03"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3980"
+	"origin" "480 -880 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_m_02"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "3990"
+	"origin" "480 -960 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_07"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4000"
+	"origin" "400 -1008 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_gangsta"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4002"
+	"origin" "400 -816 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_02"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4004"
+	"origin" "400 -912 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_03"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4006"
+	"origin" "480 -672 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#shorts_w_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4042"
+	"origin" "560 -912 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#suit_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4078"
+	"origin" "320 -784 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_w_02"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4080"
+	"origin" "400 -720 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_w_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4082"
+	"origin" "320 -880 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#cop_m_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4084"
+	"origin" "320 -960 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#SWAT_01"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4092"
+	"origin" "320 -1040 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#SWAT_02"
+	"model" "models/Characters/M_Avg/M_Avg.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4220"
+	"origin" "-208 464 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#pants_w_01"
+	"model" "models/characters/f_old_ss_pants/F_Old_SS_Pants.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "4360"
+	"origin" "-640 -368 17"
+	"wakesquad" "0"
+	"wakeradius" "0"
+	"spawnflags" "0"
+	"sleepstate" "0"
+	"rendermode" "0"
+	"renderfx" "0"
+	"rendercolor" "255 255 255"
+	"renderamt" "255"
+	"physdamagescale" "1.0"
+	"npc_prefab" "0"
+	"notifynavfailblocked" "0"
+	"neverleaveplayersquad" "0"
+	"NeutralViewRange" "320"
+	"NeutralHearRange" "960"
+	"ModelTemplate" "#Dude_raincoat_01"
+	"model" "models/characters/M_Avg_Postal_Dude/M_Avg_Postal_Dude.mdl"
+	"ignoreunseenenemies" "0"
+	"hintlimiting" "0"
+	"habitatid" "-1"
+	"GameEndAlly" "No"
+	"DontUseSpeechSemaphore" "0"
+	"DontPickupWeapons" "No"
+	"disableshadows" "0"
+	"disablereceiveshadows" "0"
+	"angles" "0 180 0"
+	"ammosupply" "SMG1"
+	"ammoamount" "1"
+	"AlwaysTransition" "No"
+	"AlertViewRange" "960"
+	"AlertHearRange" "960"
+	"additionalequipment" "0"
+	"classname" "p3_npc_citizen"
+}
+entity
+{
+	"id" "224"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "225"
+		side
+		{
+			"id" "226"
+			"plane" "(-85.2617 -193.3711 16) (-62.6299 -216.0025 16) (-62.625 -170.7461 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[-0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "227"
+			"plane" "(-62.6289 -216.0039 20) (-62.6328 -170.7383 20) (-39.9994 -193.3723 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "228"
+			"plane" "(-62.6289 -216 16) (-85.2539 -193.3711 20) (-62.626 -215.9986 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "229"
+			"plane" "(-62.6289 -170.7461 16) (-40.0013 -193.3743 16) (-40 -193.3711 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "230"
+			"plane" "(-85.2539 -193.3711 16) (-62.625 -170.7422 20) (-85.2539 -193.3711 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "231"
+			"plane" "(-40 -193.3711 16) (-62.625 -216 20) (-39.9988 -193.3742 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "232"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "233"
+		side
+		{
+			"id" "234"
+			"plane" "(-128 -336 20) (-128 -336 16) (-160 -336 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "235"
+			"plane" "(-160 -304 20) (-160 -304 16) (-128 -304 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "236"
+			"plane" "(-160 -304 16) (-160 -336 16) (-128 -336 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "237"
+			"plane" "(-160 -336 20) (-160 -304 20) (-128 -304 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "238"
+			"plane" "(-160 -336 20) (-160 -336 16) (-160 -304 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "239"
+			"plane" "(-128 -304 20) (-128 -304 16) (-128 -336 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "240"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "241"
+		side
+		{
+			"id" "242"
+			"plane" "(-128 -240 20) (-128 -240 16) (-160 -240 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "243"
+			"plane" "(-160 -208 20) (-160 -208 16) (-128 -208 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "244"
+			"plane" "(-160 -208 16) (-160 -240 16) (-128 -240 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "245"
+			"plane" "(-160 -240 20) (-160 -208 20) (-128 -208 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "246"
+			"plane" "(-160 -240 20) (-160 -240 16) (-160 -208 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "247"
+			"plane" "(-128 -208 20) (-128 -208 16) (-128 -240 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "248"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "249"
+		side
+		{
+			"id" "250"
+			"plane" "(-128 -144 20) (-128 -144 16) (-160 -144 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "251"
+			"plane" "(-160 -112 20) (-160 -112 16) (-128 -112 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "252"
+			"plane" "(-160 -112 16) (-160 -144 16) (-128 -144 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "253"
+			"plane" "(-160 -144 20) (-160 -112 20) (-128 -112 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "254"
+			"plane" "(-160 -144 20) (-160 -144 16) (-160 -112 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "255"
+			"plane" "(-128 -112 20) (-128 -112 16) (-128 -144 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "256"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "257"
+		side
+		{
+			"id" "258"
+			"plane" "(-86.6328 -287.9961 16) (-41.3711 -287.9961 16) (-64.0039 -265.3633 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "259"
+			"plane" "(-64.0039 -310.6289 20) (-64 -265.3672 20) (-41.3697 -287.9971 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "260"
+			"plane" "(-64 -310.625 16) (-86.6289 -288 20) (-64.0008 -310.6277 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "261"
+			"plane" "(-64 -265.375 16) (-41.3711 -288.0039 20) (-64 -265.375 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "262"
+			"plane" "(-86.6289 -288 16) (-64.0008 -265.3723 16) (-64.0039 -265.375 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "263"
+			"plane" "(-41.375 -288 16) (-64 -310.6289 20) (-41.3717 -288.0009 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "264"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "265"
+		side
+		{
+			"id" "266"
+			"plane" "(-992 454.6289 16) (-969.3715 432.0014 16) (-969.3672 477.2539 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[-0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "267"
+			"plane" "(-969.375 432 20) (-992.0078 454.6328 20) (-946.747 454.627 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "268"
+			"plane" "(-969.3711 432 16) (-992 454.6289 16) (-991.9961 454.625 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "269"
+			"plane" "(-969.3711 477.2539 16) (-946.7461 454.625 20) (-969.375 477.2539 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "270"
+			"plane" "(-992.0039 454.6289 16) (-969.3754 477.2564 16) (-991.9961 454.6328 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "271"
+			"plane" "(-946.7461 454.6289 16) (-969.3711 432 16) (-946.7451 454.627 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "272"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "273"
+		side
+		{
+			"id" "274"
+			"plane" "(-992 -272 20) (-992 -272 16) (-992 -240 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "275"
+			"plane" "(-960 -240 20) (-960 -240 16) (-960 -272 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "276"
+			"plane" "(-960 -272 20) (-960 -272 16) (-992 -272 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "277"
+			"plane" "(-992 -240 20) (-992 -240 16) (-960 -240 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "278"
+			"plane" "(-992 -240 16) (-992 -272 16) (-960 -272 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "279"
+			"plane" "(-992 -272 20) (-992 -240 20) (-960 -240 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "280"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "281"
+		side
+		{
+			"id" "282"
+			"plane" "(-304 -448 20) (-304 -448 16) (-336 -448 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "283"
+			"plane" "(-336 -416 20) (-336 -416 16) (-304 -416 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "284"
+			"plane" "(-336 -416 16) (-336 -448 16) (-304 -448 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "285"
+			"plane" "(-336 -448 20) (-336 -416 20) (-304 -416 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "286"
+			"plane" "(-336 -448 20) (-336 -448 16) (-336 -416 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "287"
+			"plane" "(-304 -416 20) (-304 -416 16) (-304 -448 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "288"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "289"
+		side
+		{
+			"id" "290"
+			"plane" "(-128 -416 20) (-128 -416 16) (-160 -416 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "291"
+			"plane" "(-160 -384 20) (-160 -384 16) (-128 -384 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "292"
+			"plane" "(-160 -384 16) (-160 -416 16) (-128 -416 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "293"
+			"plane" "(-160 -416 20) (-160 -384 20) (-128 -384 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "294"
+			"plane" "(-160 -416 20) (-160 -416 16) (-160 -384 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "295"
+			"plane" "(-128 -384 20) (-128 -384 16) (-128 -416 16)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "296"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "297"
+		side
+		{
+			"id" "298"
+			"plane" "(-989.2578 -966.6211 16) (-966.6271 -989.2518 16) (-944 -966.625 16)"
+			"smoothing_groups" "0"
+			"material" "tools/toolsnodraw"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "299"
+			"plane" "(-966.6289 -989.25 20) (-966.6328 -943.9961 20) (-944.0021 -966.6268 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "300"
+			"plane" "(-966.6289 -989.2539 16) (-989.2578 -966.625 16) (-989.2578 -966.625 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "301"
+			"plane" "(-966.6328 -943.9961 16) (-944.0021 -966.6269 16) (-944.0039 -966.625 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "302"
+			"plane" "(-989.2578 -966.6289 16) (-966.6294 -943.9995 16) (-966.6289 -944 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+		side
+		{
+			"id" "303"
+			"plane" "(-944.0039 -966.625 16) (-966.6328 -989.2578 20) (-944.002 -966.6271 20)"
+			"smoothing_groups" "0"
+			"material" "vgui/selfillum_blue"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"lightmapscale" "16"
+		}
+	}
+}
+entity
+{
+	"id" "304"
+	"classname" "info_overlay"
+	"material" "overlays/zone_01_unique"
+	"StartU" "1"
+	"EndU" "0"
+	"StartV" "0"
+	"EndV" "1"
+	"BasisOrigin" "-320 -464 71.4875"
+	"BasisU" "1 0 0"
+	"BasisV" "0 0 -1"
+	"BasisNormal" "-0 1 0"
+	"origin" "-320 -464 71.4875"
+	"fademindist" "-1"
+	"fademaxdist" "0"
+	"uv0" "-32 -32 0"
+	"uv1" "-32 32 0"
+	"uv2" "32 32 0"
+	"uv3" "32 -32 0"
+	"RenderOrder" "0"
+	"sides" "85"
+}
+entity
+{
+	"id" "305"
+	"classname" "env_cubemap"
+	"origin" "-720 -256 80"
+	"cubemapsize" "0"
+	"sides" "69 85 140 47 79"
+}
+entity
+{
+	"id" "306"
+	"classname" "env_cubemap"
+	"origin" "-592 224 80"
+	"cubemapsize" "0"
+}
+entity
+{
+	"id" "307"
+	"classname" "env_cubemap"
+	"origin" "-560 -768 80"
+	"cubemapsize" "0"
+}
+entity
+{
+	"id" "308"
+	"classname" "env_cubemap"
+	"origin" "512 -640 80"
+	"cubemapsize" "0"
+}
+entity
+{
+	"id" "309"
+	"classname" "env_cubemap"
+	"origin" "512 128 80"
+	"cubemapsize" "0"
+}
+entity
+{
+	"id" "310"
+	"classname" "env_cubemap"
+	"origin" "-256 -256 80"
+	"cubemapsize" "0"
+}
+visgroups
+{
+}
+cameras
+{
+	"activecamera" "0"
+	camera
+	{
+		"position" "[-380.7157 -256 100.2386]"
+		"look" "[-128 -256 16]"
+	}
+}
