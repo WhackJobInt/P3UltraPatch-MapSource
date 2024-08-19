@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "2"
+	"mapversion" "5"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"briefing" "#P3_PDB_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pdb"
@@ -470110,13 +470110,36 @@ entity
 		"logicalpos" "[13000 -10268]"
 	}
 }
+entity
+{
+	"id" "1613866"
+	"classname" "point_camera"
+	"active" "1"
+	"angles" "-0.416862 297.927 -2.3451"
+	"fogColor" "0 0 0"
+	"fogEnd" "4096"
+	"fogMaxDensity" "1"
+	"fogStart" "2048"
+	"FOV" "90"
+	"spawnflags" "0"
+	"targetname" "camera1"
+	"UseScreenAspectRatio" "0"
+	"origin" "-699.537 7263.63 369.986"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[1500 -9268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[175.492 -5264.53 191.236]"
-		"look" "[73.1802 -5025.8 132.059]"
+		"position" "[-1120.81 7004.34 256.458]"
+		"look" "[-1332.11 6851.45 310.636]"
 	}
 	camera
 	{
