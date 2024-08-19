@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "5"
+	"mapversion" "6"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "5"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"briefing" "#P3_MC_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc"
@@ -363688,9 +363688,9 @@ entity
 		{
 			"id" "27063"
 			"plane" "(5110 -1941.65 662.25) (5110 -1941.65 442.25) (4730 -1941.65 442.25)"
-			"material" "POLICESTATION/PS_GIRLS_A"
-			"uaxis" "[1 0 0 -229] 0.7422"
-			"vaxis" "[0 0 -1 5] 0.4297"
+			"material" "DECALS/BILLBOARD_PERTURBED"
+			"uaxis" "[1 0 0 -114.526] 1.48438"
+			"vaxis" "[0 0 -1 1.30908] 1.71875"
 			"rotation" "0"
 			"lightmapscale" "64"
 			"smoothing_groups" "0"
@@ -371521,7 +371521,7 @@ entity
 	"id" "27555"
 	"classname" "info_overlay"
 	"BasisNormal" "0 0 1"
-	"BasisOrigin" "1920.05 -2808.34 8"
+	"BasisOrigin" "1920.05 -2808.35 8"
 	"BasisU" "-1 0 0"
 	"BasisV" "-0 -1 0"
 	"EndU" "2"
@@ -371551,7 +371551,7 @@ entity
 	"id" "27556"
 	"classname" "info_overlay"
 	"BasisNormal" "-0.1903 0.0474 0.9806"
-	"BasisOrigin" "1278.55 -2703.64 85.0899"
+	"BasisOrigin" "1278.55 -2703.64 85.09"
 	"BasisU" "-0.9515 0.2372 -0.1961"
 	"BasisV" "-0.2419 -0.9703 -0"
 	"EndU" "3"
@@ -414518,8 +414518,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1766.04 -2628.89 41.2603]"
-		"look" "[1507.2 -2645.18 -19.5685]"
+		"position" "[4761.84 -2178.83 505.139]"
+		"look" "[4861.5 -1932.13 518.154]"
 	}
 }
 cordon
