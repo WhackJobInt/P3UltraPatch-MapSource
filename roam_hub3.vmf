@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "25"
+	"mapversion" "26"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "26"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub3"
 	"detailmaterial" "detail/detailsprites"
@@ -128139,6 +128139,82 @@ world
 		editor
 		{
 			"color" "0 117 226"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "2079883"
+		side
+		{
+			"id" "40710"
+			"plane" "(-1864 2376 32) (-1864 2376 28) (-1864 2472 28)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "40709"
+			"plane" "(-1840 2472 32) (-1840 2472 28) (-1840 2376 28)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "40708"
+			"plane" "(-1840 2376 32) (-1840 2376 28) (-1864 2376 28)"
+			"material" "CITY/WALL_CITY_TILE02"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "40707"
+			"plane" "(-1864 2472 32) (-1864 2472 28) (-1840 2472 28)"
+			"material" "CITY/WALL_CITY_TILE02"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "40706"
+			"plane" "(-1864 2472 28) (-1864 2376 28) (-1840 2376 28)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "40705"
+			"plane" "(-1864 2376 32) (-1864 2472 32) (-1840 2472 32)"
+			"material" "HUB/HUB_BASE_04"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -523630,8 +523706,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-820.066 2738.7 77.9052]"
-		"look" "[-936.535 2603.77 -120.058]"
+		"position" "[-1791.49 2441.39 116.55]"
+		"look" "[-1942.32 2412.62 -101.125]"
 	}
 	camera
 	{
