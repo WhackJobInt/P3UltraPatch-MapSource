@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "26"
+	"mapversion" "28"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "26"
+	"mapversion" "28"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub3"
 	"detailmaterial" "detail/detailsprites"
@@ -128214,7 +128214,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 113 206"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -510266,6 +510266,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightingorigin" "sprp_lighting_3"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/doors_windows/win_door_01a_single.mdl"
@@ -514443,6 +514444,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightingorigin" "sprp_lighting_3"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/doors_windows/win_door_01a_single.mdl"
@@ -523706,8 +523708,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1791.49 2441.39 116.55]"
-		"look" "[-1942.32 2412.62 -101.125]"
+		"position" "[-2541.94 756.461 159.281]"
+		"look" "[-2413.21 944.464 21.2838]"
 	}
 	camera
 	{
