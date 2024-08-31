@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "7"
+	"mapversion" "8"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "7"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"briefing" "#P3_MC_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc"
@@ -3990,7 +3990,7 @@ world
 		side
 		{
 			"id" "367"
-			"plane" "(3648 188 60) (3648 188 24) (3632 188 24)"
+			"plane" "(3648 188 24) (3632 188 24) (3632 188 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4001,7 +4001,7 @@ world
 		side
 		{
 			"id" "368"
-			"plane" "(3632 244 60) (3632 244 24) (3648 244 24)"
+			"plane" "(3632 244 24) (3648 244 24) (3648 244 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4012,7 +4012,7 @@ world
 		side
 		{
 			"id" "369"
-			"plane" "(3632 244 24) (3632 188 24) (3648 188 24)"
+			"plane" "(3648 244 24) (3632 244 24) (3632 188 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4023,7 +4023,7 @@ world
 		side
 		{
 			"id" "370"
-			"plane" "(3632 188 60) (3632 244 60) (3648 244 60)"
+			"plane" "(3648 188 61) (3632 188 61) (3632 244 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4034,7 +4034,7 @@ world
 		side
 		{
 			"id" "371"
-			"plane" "(3632 188 60) (3632 188 24) (3632 244 24)"
+			"plane" "(3632 188 61) (3632 188 24) (3632 244 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4045,7 +4045,7 @@ world
 		side
 		{
 			"id" "372"
-			"plane" "(3648 244 60) (3648 244 24) (3648 188 24)"
+			"plane" "(3648 244 61) (3648 244 24) (3648 188 24)"
 			"material" "HUB/SHOP_BRICK_01"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -414518,8 +414518,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1812.99 -1016.76 149.178]"
-		"look" "[1706.7 -1037.81 -94.1783]"
+		"position" "[3679.51 160.562 53.8867]"
+		"look" "[3515.57 370.391 46.4506]"
 	}
 }
 cordon
