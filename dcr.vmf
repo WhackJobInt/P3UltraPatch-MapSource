@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -44932,7 +44932,7 @@ world
 		side
 		{
 			"id" "4138"
-			"plane" "(1762 -1028 128) (1762 -1028 28) (1762 -1023 28)"
+			"plane" "(1762 -1028 128) (1762 -1028 28) (1762 -1024 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -44943,7 +44943,7 @@ world
 		side
 		{
 			"id" "4139"
-			"plane" "(1822 -1023 128) (1822 -1023 28) (1822 -1028 28)"
+			"plane" "(1822 -1024 128) (1822 -1024 28) (1822 -1028 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -44965,7 +44965,7 @@ world
 		side
 		{
 			"id" "4141"
-			"plane" "(1762 -1023 128) (1762 -1023 28) (1822 -1023 28)"
+			"plane" "(1762 -1024 128) (1762 -1024 28) (1822 -1024 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -44976,7 +44976,7 @@ world
 		side
 		{
 			"id" "4142"
-			"plane" "(1762 -1023 28) (1762 -1028 28) (1822 -1028 28)"
+			"plane" "(1762 -1024 28) (1762 -1028 28) (1822 -1028 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -44987,7 +44987,7 @@ world
 		side
 		{
 			"id" "4143"
-			"plane" "(1762 -1028 128) (1762 -1023 128) (1822 -1023 128)"
+			"plane" "(1762 -1028 128) (1762 -1024 128) (1822 -1024 128)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -331802,7 +331802,7 @@ entity
 	"id" "24177"
 	"classname" "info_overlay"
 	"BasisNormal" "0.1911 -0.0441 0.9806"
-	"BasisOrigin" "1281.86 -2414.58 84.4279"
+	"BasisOrigin" "1281.86 -2414.58 84.428"
 	"BasisU" "0.9554 -0.2206 -0.1961"
 	"BasisV" "0.225 0.9744 -0"
 	"EndU" "3"
@@ -331832,7 +331832,7 @@ entity
 	"id" "24178"
 	"classname" "info_overlay"
 	"BasisNormal" "0 0 1"
-	"BasisOrigin" "1920.05 -2808.35 8"
+	"BasisOrigin" "1920.05 -2808.36 8"
 	"BasisU" "-1 0 0"
 	"BasisV" "-0 -1 0"
 	"EndU" "2"
@@ -331862,7 +331862,7 @@ entity
 	"id" "24179"
 	"classname" "info_overlay"
 	"BasisNormal" "-0.1903 0.0474 0.9806"
-	"BasisOrigin" "1278.55 -2703.64 85.0899"
+	"BasisOrigin" "1278.55 -2703.64 85.09"
 	"BasisU" "-0.9515 0.2372 -0.1961"
 	"BasisV" "-0.2419 -0.9703 -0"
 	"EndU" "3"
@@ -370202,8 +370202,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1793.73 -2654.05 59.9646]"
-		"look" "[1563.32 -2642.78 -73.2275]"
+		"position" "[1854.46 -1006.79 143.433]"
+		"look" "[1630.63 -1062.6 10.2407]"
 	}
 }
 cordon
