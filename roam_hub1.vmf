@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "19"
+	"mapversion" "20"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "19"
+	"mapversion" "20"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -5029,7 +5029,7 @@ world
 		side
 		{
 			"id" "463"
-			"plane" "(2112 -2880 -32) (2112 -2912 -32) (2240 -2880 -32)"
+			"plane" "(2112 -2888 -32) (2240 -2880 -32) (2240 -2848 -32)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -5040,7 +5040,7 @@ world
 		side
 		{
 			"id" "464"
-			"plane" "(2112 -2912 96) (2112 -2880 96) (2240 -2848 96)"
+			"plane" "(2112 -2880 96) (2240 -2848 96) (2240 -2880 96)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -5051,7 +5051,7 @@ world
 		side
 		{
 			"id" "465"
-			"plane" "(2240 -2880 96) (2240 -2880 -32) (2112 -2912 -32)"
+			"plane" "(2112 -2888 96) (2240 -2880 96) (2240 -2880 -32)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[0.9701 0.2425 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -5062,7 +5062,7 @@ world
 		side
 		{
 			"id" "466"
-			"plane" "(2112 -2880 96) (2112 -2880 -32) (2240 -2848 -32)"
+			"plane" "(2240 -2848 96) (2112 -2880 96) (2112 -2880 -32)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[-0.9701 -0.2425 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -5073,7 +5073,7 @@ world
 		side
 		{
 			"id" "467"
-			"plane" "(2112 -2912 -32) (2112 -2880 -32) (2112 -2880 96)"
+			"plane" "(2112 -2880 96) (2112 -2888 96) (2112 -2888 -32)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -5084,7 +5084,7 @@ world
 		side
 		{
 			"id" "468"
-			"plane" "(2240 -2848 -32) (2240 -2880 -32) (2240 -2880 96)"
+			"plane" "(2240 -2880 96) (2240 -2848 96) (2240 -2848 -32)"
 			"material" "TOOLS/TOOLSBLOCKLIGHT"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -418482,8 +418482,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3853.94 -2632.05 53.5692]"
-		"look" "[4089.67 -2721.61 -32.2803]"
+		"position" "[2260.35 -2941.68 169.766]"
+		"look" "[2073.65 -2872.24 -7.09215]"
 	}
 }
 cordon
