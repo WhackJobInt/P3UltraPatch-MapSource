@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "17"
+	"mapversion" "19"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "17"
+	"mapversion" "19"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -135642,6 +135642,7 @@ entity
 	connections
 	{
 		"OnNewGame" "mission_logic,FireFSMScriptEvent,OnNewGame,0,-1"
+		"OnMapSpawn" "rotated_dbjects,SetAnimation,idle,0,-1"
 	}
 	"origin" "3911.66 -2656.55 30.984"
 	editor
@@ -418481,8 +418482,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3732.64 207.343 60.2371]"
-		"look" "[3467.28 227.769 49.0774]"
+		"position" "[3853.94 -2632.05 53.5692]"
+		"look" "[4089.67 -2721.61 -32.2803]"
 	}
 }
 cordon
