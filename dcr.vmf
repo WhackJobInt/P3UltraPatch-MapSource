@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "8"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "8"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -5554,82 +5554,6 @@ world
 		editor
 		{
 			"color" "0 186 243"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "511"
-		side
-		{
-			"id" "512"
-			"plane" "(2112 -2912 -32) (2112 -2880 -32) (2112 -2880 96)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "513"
-			"plane" "(2240 -2848 -32) (2240 -2880 -32) (2240 -2880 96)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "514"
-			"plane" "(2112 -2880 -32) (2112 -2912 -32) (2240 -2880 -32)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "515"
-			"plane" "(2112 -2912 96) (2112 -2880 96) (2240 -2848 96)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "516"
-			"plane" "(2240 -2880 96) (2240 -2880 -32) (2112 -2912 -32)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[0.9701 0.2425 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "517"
-			"plane" "(2112 -2880 96) (2112 -2880 -32) (2240 -2848 -32)"
-			"material" "TOOLS/TOOLSBLOCKLIGHT"
-			"uaxis" "[-0.9701 -0.2425 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 192 177"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -83973,6 +83897,82 @@ world
 		editor
 		{
 			"color" "0 172 181"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "7180012"
+		side
+		{
+			"id" "24093"
+			"plane" "(2112 -2888 -32) (2240 -2880 -32) (2240 -2848 -32)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "24092"
+			"plane" "(2112 -2880 96) (2240 -2848 96) (2240 -2880 96)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "24091"
+			"plane" "(2112 -2888 96) (2240 -2880 96) (2240 -2880 -32)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[0.9701 0.2425 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "24090"
+			"plane" "(2240 -2848 96) (2112 -2880 96) (2112 -2880 -32)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[-0.9701 -0.2425 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "24089"
+			"plane" "(2112 -2880 96) (2112 -2888 96) (2112 -2888 -32)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "24088"
+			"plane" "(2240 -2880 96) (2240 -2848 96) (2240 -2848 -32)"
+			"material" "TOOLS/TOOLSBLOCKLIGHT"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 163 248"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -370202,8 +370202,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3691.6 182.134 68.6202]"
-		"look" "[3466.69 273.009 -41.4254]"
+		"position" "[2222.63 -2904.66 163.408]"
+		"look" "[2095.92 -2869.28 -68.2033]"
 	}
 }
 cordon
