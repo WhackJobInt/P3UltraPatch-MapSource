@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "13"
+	"mapversion" "14"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "14"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from aa2"
 	"detailmaterial" "detail/detailsprites"
@@ -3836,7 +3836,7 @@ world
 		side
 		{
 			"id" "353"
-			"plane" "(3632 188 60) (3632 188 24) (3632 244 24)"
+			"plane" "(3632 188 61) (3632 188 24) (3632 244 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3847,7 +3847,7 @@ world
 		side
 		{
 			"id" "354"
-			"plane" "(3648 244 60) (3648 244 24) (3648 188 24)"
+			"plane" "(3648 244 61) (3648 244 24) (3648 188 24)"
 			"material" "HUB/SHOP_BRICK_01"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3858,7 +3858,7 @@ world
 		side
 		{
 			"id" "355"
-			"plane" "(3648 188 60) (3648 188 24) (3632 188 24)"
+			"plane" "(3648 188 61) (3648 188 24) (3632 188 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3869,7 +3869,7 @@ world
 		side
 		{
 			"id" "356"
-			"plane" "(3632 244 60) (3632 244 24) (3648 244 24)"
+			"plane" "(3632 244 61) (3632 244 24) (3648 244 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3891,7 +3891,7 @@ world
 		side
 		{
 			"id" "358"
-			"plane" "(3632 188 60) (3632 244 60) (3648 244 60)"
+			"plane" "(3632 188 61) (3632 244 61) (3648 244 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -332049,7 +332049,7 @@ entity
 	"id" "24695"
 	"classname" "info_overlay"
 	"BasisNormal" "0.1911 -0.0441 0.9806"
-	"BasisOrigin" "1281.86 -2414.58 84.4279"
+	"BasisOrigin" "1281.86 -2414.58 84.428"
 	"BasisU" "0.9554 -0.2206 -0.1961"
 	"BasisV" "0.225 0.9744 -0"
 	"EndU" "3"
@@ -332079,7 +332079,7 @@ entity
 	"id" "24696"
 	"classname" "info_overlay"
 	"BasisNormal" "0 0 1"
-	"BasisOrigin" "1921.21 -2811.22 8"
+	"BasisOrigin" "1921.21 -2811.21 8"
 	"BasisU" "-1 0 0"
 	"BasisV" "-0 -1 0"
 	"EndU" "2"
@@ -332109,7 +332109,7 @@ entity
 	"id" "24697"
 	"classname" "info_overlay"
 	"BasisNormal" "-0.1903 0.0474 0.9806"
-	"BasisOrigin" "1278.55 -2703.64 85.0899"
+	"BasisOrigin" "1278.55 -2703.64 85.09"
 	"BasisU" "-0.9515 0.2372 -0.1961"
 	"BasisV" "-0.2419 -0.9703 -0"
 	"EndU" "3"
@@ -335319,7 +335319,7 @@ entity
 	"id" "24804"
 	"classname" "info_overlay"
 	"BasisNormal" "-0.1875 -0.0573 0.9806"
-	"BasisOrigin" "997.282 -2395.02 141.344"
+	"BasisOrigin" "997.282 -2395.02 141.343"
 	"BasisU" "-0.9377 -0.2867 -0.1961"
 	"BasisV" "0.2924 -0.9563 0"
 	"EndU" "1"
@@ -372877,8 +372877,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[4868.19 -2261.34 558.172]"
-		"look" "[4883.04 -1995.7 544.997]"
+		"position" "[3696.71 165.864 73.0858]"
+		"look" "[3517.81 343.512 -12.9135]"
 	}
 }
 cordon
