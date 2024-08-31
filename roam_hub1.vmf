@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -3987,7 +3987,7 @@ world
 		side
 		{
 			"id" "367"
-			"plane" "(3648 188 60) (3648 188 24) (3632 188 24)"
+			"plane" "(3648 188 24) (3632 188 24) (3632 188 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -3998,7 +3998,7 @@ world
 		side
 		{
 			"id" "368"
-			"plane" "(3632 244 60) (3632 244 24) (3648 244 24)"
+			"plane" "(3632 244 24) (3648 244 24) (3648 244 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4009,7 +4009,7 @@ world
 		side
 		{
 			"id" "369"
-			"plane" "(3632 244 24) (3632 188 24) (3648 188 24)"
+			"plane" "(3648 244 24) (3632 244 24) (3632 188 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4020,7 +4020,7 @@ world
 		side
 		{
 			"id" "370"
-			"plane" "(3632 188 60) (3632 244 60) (3648 244 60)"
+			"plane" "(3648 188 61) (3632 188 61) (3632 244 61)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -4031,7 +4031,7 @@ world
 		side
 		{
 			"id" "371"
-			"plane" "(3632 188 60) (3632 188 24) (3632 244 24)"
+			"plane" "(3632 188 61) (3632 188 24) (3632 244 24)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -4042,7 +4042,7 @@ world
 		side
 		{
 			"id" "372"
-			"plane" "(3648 244 60) (3648 244 24) (3648 188 24)"
+			"plane" "(3648 244 61) (3648 244 24) (3648 188 24)"
 			"material" "HUB/SHOP_BRICK_01"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -418481,8 +418481,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1827.97 -1020.19 145.939]"
-		"look" "[1657.35 -1046.6 -56.9264]"
+		"position" "[3732.64 207.343 60.2371]"
+		"look" "[3467.28 227.769 49.0774]"
 	}
 }
 cordon
