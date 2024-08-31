@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "15"
+	"mapversion" "16"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "15"
+	"mapversion" "16"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -35994,7 +35994,7 @@ world
 		side
 		{
 			"id" "3315"
-			"plane" "(1762 -1028 128) (1762 -1028 28) (1762 -1023 28)"
+			"plane" "(1762 -1028 128) (1762 -1028 28) (1762 -1024 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -36005,7 +36005,7 @@ world
 		side
 		{
 			"id" "3316"
-			"plane" "(1822 -1023 128) (1822 -1023 28) (1822 -1028 28)"
+			"plane" "(1822 -1024 128) (1822 -1024 28) (1822 -1028 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -36027,7 +36027,7 @@ world
 		side
 		{
 			"id" "3318"
-			"plane" "(1762 -1023 128) (1762 -1023 28) (1822 -1023 28)"
+			"plane" "(1762 -1024 128) (1762 -1024 28) (1822 -1024 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -36038,7 +36038,7 @@ world
 		side
 		{
 			"id" "3319"
-			"plane" "(1762 -1023 28) (1762 -1028 28) (1822 -1028 28)"
+			"plane" "(1762 -1024 28) (1762 -1028 28) (1822 -1028 28)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -36049,7 +36049,7 @@ world
 		side
 		{
 			"id" "3320"
-			"plane" "(1762 -1028 128) (1762 -1023 128) (1822 -1023 128)"
+			"plane" "(1762 -1028 128) (1762 -1024 128) (1822 -1024 128)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -418481,8 +418481,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[4723.59 -2160.02 537.247]"
-		"look" "[4841.81 -1921.89 553.969]"
+		"position" "[1827.97 -1020.19 145.939]"
+		"look" "[1657.35 -1046.6 -56.9264]"
 	}
 }
 cordon
