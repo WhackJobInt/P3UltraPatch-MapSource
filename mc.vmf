@@ -130778,7 +130778,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-1088.14 -2002 -220"
+	"origin" "6207.86 4202 82"
 	"parentname" "ps_02"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
@@ -130889,7 +130889,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-1088.14 -1966 -220"
+	"origin" "6207.86 4238 82"
 	"parentname" "ps_01"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
@@ -413843,8 +413843,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3720.68 6.20357 118.61]"
-		"look" "[3744.12 245.299 3.51337]"
+		"position" "[6132.59 4247.82 93.3277]"
+		"look" "[6395 4212.81 63.6407]"
 	}
 }
 cordon
