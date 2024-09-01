@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "22"
+	"mapversion" "23"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "22"
+	"mapversion" "23"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -130881,7 +130881,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-1088.14 -2002 -220"
+	"origin" "6207.86 4202 82"
 	"parentname" "ps_02"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
@@ -130992,7 +130992,7 @@ entity
 	"material" "0"
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
-	"origin" "-1088.14 -1966 -220"
+	"origin" "6207.86 4238 82"
 	"parentname" "ps_01"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
@@ -311044,7 +311044,7 @@ entity
 	"id" "27829"
 	"classname" "info_overlay"
 	"BasisNormal" "-0 0 1"
-	"BasisOrigin" "5272 3923.9099 -20.0781"
+	"BasisOrigin" "5272 3923.91 -20.0781"
 	"BasisU" "1 0 0"
 	"BasisV" "0 1 -0"
 	"EndU" "1"
@@ -417807,8 +417807,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3702.63 29.8832 122.64]"
-		"look" "[3755.5 262.549 4.1954]"
+		"position" "[6113.34 4230.38 130.569]"
+		"look" "[6342.1 4225.58 -5.83078]"
 	}
 }
 cordon
