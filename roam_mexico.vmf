@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "4"
+	"mapversion" "5"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "4"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_mexico"
 	"detailmaterial" "detail/detailsprites"
@@ -171985,7 +171985,7 @@ entity
 	"InitState" "st_init"
 	"Manner" "StGranny"
 	"model" "models/characters/f_old_ss_pants/F_Old_SS_Pants.mdl"
-	"ModelTemplate" "pf_F_Old_W"
+	"ModelTemplate" "pf_F_Old_Lady"
 	"NeutralHearRange" "960"
 	"NeutralViewRange" "320"
 	"neverleaveplayersquad" "0"
@@ -172188,7 +172188,7 @@ entity
 	"InitState" "st_init"
 	"Manner" "LameWanker"
 	"model" "models/Characters/M_Old_SS_Pants/m_old_ss_pants.mdl"
-	"ModelTemplate" "pf_M_Old_W"
+	"ModelTemplate" "pf_M_Old_Man"
 	"NeutralHearRange" "960"
 	"NeutralViewRange" "320"
 	"neverleaveplayersquad" "0"
@@ -419222,8 +419222,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1454.78 3021.58 353.451]"
-		"look" "[1638.08 3031.83 160.426]"
+		"position" "[1533.06 2846.74 213.836]"
+		"look" "[1761.79 2845.15 77.2918]"
 	}
 }
 cordon
