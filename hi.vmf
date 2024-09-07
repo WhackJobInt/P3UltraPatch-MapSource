@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "13"
+	"mapversion" "16"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "16"
 	"classname" "worldspawn"
 	"briefing" "#P3_HI_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from hi"
@@ -174995,7 +174995,7 @@ entity
 	"InitState" "st_init"
 	"Manner" "StGranny"
 	"model" "models/characters/f_old_ss_pants/F_Old_SS_Pants.mdl"
-	"ModelTemplate" "pf_F_Old_W"
+	"ModelTemplate" "pf_F_Old_Lady"
 	"NeutralHearRange" "960"
 	"NeutralViewRange" "320"
 	"neverleaveplayersquad" "0"
@@ -175198,7 +175198,7 @@ entity
 	"InitState" "st_init"
 	"Manner" "LameWanker"
 	"model" "models/Characters/M_Old_SS_Pants/m_old_ss_pants.mdl"
-	"ModelTemplate" "pf_M_Old_W"
+	"ModelTemplate" "pf_M_Old_Man"
 	"NeutralHearRange" "960"
 	"NeutralViewRange" "320"
 	"neverleaveplayersquad" "0"
@@ -423124,8 +423124,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1437.61 2932.37 241.026]"
-		"look" "[1679.43 2932.36 129.291]"
+		"position" "[1566.04 2836.35 205.869]"
+		"look" "[1770.06 2832.07 34.6397]"
 	}
 }
 cordon
