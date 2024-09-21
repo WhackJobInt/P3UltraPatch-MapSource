@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "1"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"briefing" "#P3_CM_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from cm"
@@ -31186,8 +31186,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-393.066 -357.551 336"
-	"lowerright" "-364.781 -385.836 336"
+	"lowerleft" "-393.062 -357.547 336"
+	"lowerright" "-364.777 -385.832 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -31200,8 +31200,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-393.066 -357.551 366"
-	"upperright" "-364.781 -385.836 366"
+	"upperleft" "-393.062 -357.547 366"
+	"upperright" "-364.777 -385.832 366"
 	solid
 	{
 		"id" "2783"
@@ -31301,7 +31301,7 @@ entity
 	"gibdir" "0 0 0"
 	"health" "5"
 	"lowerleft" "-429.852 -320.65 336"
-	"lowerright" "-395.912 -354.591 336"
+	"lowerright" "-395.912 -354.592 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -31314,8 +31314,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-429.848 -320.646 366"
-	"upperright" "-395.907 -354.588 366"
+	"upperleft" "-429.849 -320.645 366"
+	"upperright" "-395.907 -354.589 366"
 	solid
 	{
 		"id" "2790"
@@ -31414,8 +31414,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-466.64 -283.949 336"
-	"lowerright" "-432.697 -317.892 336"
+	"lowerleft" "-466.64 -283.948 336"
+	"lowerright" "-432.696 -317.892 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -31428,8 +31428,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-466.638 -283.947 366"
-	"upperright" "-432.695 -317.89 366"
+	"upperleft" "-466.638 -283.946 366"
+	"upperright" "-432.694 -317.89 366"
 	solid
 	{
 		"id" "2797"
@@ -31528,7 +31528,7 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-497.843 -252.657 336"
+	"lowerleft" "-497.844 -252.656 336"
 	"lowerright" "-469.555 -280.945 336"
 	"material" "0"
 	"nodamageforces" "0"
@@ -31543,7 +31543,7 @@ entity
 	"spawnobject" "0"
 	"surfacetype" "0"
 	"upperleft" "-497.842 -252.658 366"
-	"upperright" "-469.555 -280.945 366"
+	"upperright" "-469.554 -280.946 366"
 	solid
 	{
 		"id" "2804"
@@ -31656,8 +31656,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "277.551 -281.067 336"
-	"upperright" "277.551 -281.067 366"
+	"upperleft" "277.552 -281.066 336"
+	"upperright" "277.552 -281.066 366"
 	solid
 	{
 		"id" "2811"
@@ -31770,7 +31770,7 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "240.651 -317.855 366"
+	"upperleft" "240.651 -317.856 366"
 	"upperright" "274.594 -283.914 366"
 	solid
 	{
@@ -31871,7 +31871,7 @@ entity
 	"gibdir" "0 0 0"
 	"health" "5"
 	"lowerleft" "203.953 -354.641 336"
-	"lowerright" "237.894 -320.699 336"
+	"lowerright" "237.895 -320.699 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -31984,8 +31984,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "172.662 -385.838 366"
-	"lowerright" "172.66 -385.84 336"
+	"lowerleft" "172.658 -385.834 366"
+	"lowerright" "172.656 -385.836 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -31998,8 +31998,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "200.947 -357.556 366"
-	"upperright" "200.947 -357.557 336"
+	"upperleft" "200.943 -357.553 366"
+	"upperright" "200.943 -357.553 336"
 	solid
 	{
 		"id" "2832"
@@ -32098,7 +32098,7 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "201.062 133.547 336"
+	"lowerleft" "201.063 133.548 336"
 	"lowerright" "172.777 161.832 336"
 	"material" "0"
 	"nodamageforces" "0"
@@ -32112,7 +32112,7 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "201.062 133.547 366"
+	"upperleft" "201.063 133.548 366"
 	"upperright" "172.777 161.832 366"
 	solid
 	{
@@ -32212,7 +32212,7 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "237.854 96.6457 336"
+	"lowerleft" "237.853 96.6475 336"
 	"lowerright" "203.91 130.59 336"
 	"material" "0"
 	"nodamageforces" "0"
@@ -32226,8 +32226,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "237.852 96.6484 366"
-	"upperright" "203.91 130.59 366"
+	"upperleft" "237.852 96.6488 366"
+	"upperright" "203.909 130.591 366"
 	solid
 	{
 		"id" "2846"
@@ -32326,8 +32326,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "274.639 59.9515 336"
-	"lowerright" "240.7 93.8914 336"
+	"lowerleft" "274.64 59.952 336"
+	"lowerright" "240.7 93.8917 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32340,8 +32340,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "274.641 59.9493 366"
-	"upperright" "240.701 93.8895 366"
+	"upperleft" "274.641 59.9497 366"
+	"upperright" "240.701 93.8899 366"
 	solid
 	{
 		"id" "2853"
@@ -32440,8 +32440,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "305.84 28.6624 336"
-	"lowerright" "277.558 56.9445 336"
+	"lowerleft" "305.839 28.6607 336"
+	"lowerright" "277.557 56.9431 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32454,8 +32454,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "305.841 28.6611 366"
-	"upperright" "277.558 56.9445 366"
+	"upperleft" "305.843 28.6646 366"
+	"upperright" "277.561 56.9471 366"
 	solid
 	{
 		"id" "2860"
@@ -32554,8 +32554,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-497.834 28.7789 336"
-	"lowerright" "-497.833 28.7791 366"
+	"lowerleft" "-497.833 28.7785 336"
+	"lowerright" "-497.833 28.7789 366"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32568,8 +32568,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-469.553 57.0594 336"
-	"upperright" "-469.551 57.0611 366"
+	"upperleft" "-469.553 57.0591 336"
+	"upperright" "-469.551 57.0608 366"
 	solid
 	{
 		"id" "2867"
@@ -32668,8 +32668,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-432.654 93.8506 336"
-	"lowerright" "-466.59 59.9103 336"
+	"lowerleft" "-432.654 93.8496 336"
+	"lowerright" "-466.59 59.9102 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32682,8 +32682,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-432.652 93.8518 366"
-	"upperright" "-466.59 59.91 366"
+	"upperleft" "-432.652 93.8508 366"
+	"upperright" "-466.59 59.9093 366"
 	solid
 	{
 		"id" "2874"
@@ -32782,8 +32782,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-395.947 130.639 336"
-	"lowerright" "-429.889 96.6972 336"
+	"lowerleft" "-395.948 130.639 336"
+	"lowerright" "-429.889 96.6978 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32796,8 +32796,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-395.946 130.64 366"
-	"upperright" "-429.89 96.6955 366"
+	"upperleft" "-395.945 130.642 366"
+	"upperright" "-429.891 96.6961 366"
 	solid
 	{
 		"id" "2881"
@@ -32896,8 +32896,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-364.657 161.836 366"
-	"lowerright" "-364.657 161.836 336"
+	"lowerleft" "-364.656 161.837 366"
+	"lowerright" "-364.655 161.837 336"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -32910,7 +32910,7 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-392.94 133.553 366"
+	"upperleft" "-392.94 133.552 366"
 	"upperright" "-392.94 133.553 336"
 	solid
 	{
@@ -75763,11 +75763,12 @@ entity
 	"physdamagescale" "1.0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
-	"spawnflags" "264708"
+	"spawnflags" "2564"
 	"squadname" "sq_police"
 	"StartState" "st_swatspawn"
 	"StartWithWeapon" "3"
 	"targetname" "swat_rappel_tmp"
+	"waitingtorappel" "1"
 	connections
 	{
 		"OnDeath" "spawner_swat_rappel,Spawn,,0,-1"
@@ -78522,6 +78523,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -78837,6 +78839,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_template_hall"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -79140,6 +79143,7 @@ entity
 	"StartState" "st_swatspawn"
 	"StartWithWeapon" "3"
 	"targetname" "swat_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnDeath" "spawner_swat_rappel,Spawn,,0,-1"
@@ -80088,8 +80092,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "172.138 -224.288 55"
-	"lowerright" "129.711 -181.861 43"
+	"lowerleft" "172.139 -224.287 55"
+	"lowerright" "129.713 -181.861 43"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -80102,7 +80106,7 @@ entity
 	"spawnflags" "2"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "215.272 -181.155 55"
+	"upperleft" "215.272 -181.154 55"
 	"upperright" "172.845 -138.728 43"
 	solid
 	{
@@ -80202,8 +80206,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "145.268 -251.158 55"
-	"lowerright" "102.841 -208.731 43"
+	"lowerleft" "145.269 -251.157 55"
+	"lowerright" "102.844 -208.732 43"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -80216,8 +80220,8 @@ entity
 	"spawnflags" "2"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "172.139 -224.287 55"
-	"upperright" "129.713 -181.861 43"
+	"upperleft" "172.141 -224.285 55"
+	"upperright" "129.716 -181.86 43"
 	solid
 	{
 		"id" "4286"
@@ -80316,8 +80320,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "101.426 -295 55"
-	"lowerright" "59 -252.57 43"
+	"lowerleft" "101.425 -295 55"
+	"lowerright" "59 -252.572 43"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -80330,8 +80334,8 @@ entity
 	"spawnflags" "2"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "145.267 -251.157 55"
-	"upperright" "102.844 -208.734 43"
+	"upperleft" "145.268 -251.157 55"
+	"upperright" "102.844 -208.732 43"
 	solid
 	{
 		"id" "4293"
@@ -80841,6 +80845,7 @@ entity
 	"StartState" "st_attack_melee"
 	"StartWithWeapon" "1"
 	"targetname" "zealot_template_badger"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -81243,6 +81248,7 @@ entity
 	"StartState" "st_prestart"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp1"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -81291,6 +81297,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -81584,6 +81591,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_template_hall"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -81735,6 +81743,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_unique"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnDeath" "spawner_police1,Spawn,,0,-1"
@@ -83858,6 +83867,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_template_hall"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -83905,6 +83915,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_template_hall"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -83953,6 +83964,7 @@ entity
 	"StartState" "st_prestart"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp1"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -84001,6 +84013,7 @@ entity
 	"StartState" "st_stage1"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -232431,8 +232444,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-317.652 -575.656 112.239]"
-		"look" "[-233.294 -337.436 28]"
+		"position" "[-601.035 -69.4925 402.909]"
+		"look" "[-864.153 -55.2419 363.833]"
 	}
 }
 cordon
