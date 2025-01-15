@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "95"
+	"mapversion" "96"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "95"
+	"mapversion" "96"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub2"
 	"detailmaterial" "detail/detailsprites"
@@ -481390,7 +481390,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/graffiti_tagjumble5"
 	"RenderOrder" "0"
-	"sides" "25411 25416"
+	"sides" "25411 25416 43309"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-104.873 -53.4393 0"
@@ -481420,7 +481420,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/graffiti_mightytiki"
 	"RenderOrder" "0"
-	"sides" "523"
+	"sides" "43309 523"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-104.436 -50.7196 0"
@@ -481810,7 +481810,7 @@ entity
 	"fademindist" "-1"
 	"material" "overlays/concrete_light_inner_corner"
 	"RenderOrder" "0"
-	"sides" "379"
+	"sides" "379 43309"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-87 -107 0"
@@ -547759,7 +547759,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/poster_08"
 	"RenderOrder" "0"
-	"sides" "775"
+	"sides" "1567"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-45.7019 -48.25 0"
@@ -553476,7 +553476,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/poster_01"
 	"RenderOrder" "0"
-	"sides" "775"
+	"sides" "1567"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-41.4038 -42.5 0"
@@ -559335,7 +559335,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/shop_poster_07"
 	"RenderOrder" "0"
-	"sides" "5564 1294"
+	"sides" "2348"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-18.832 -19.4398 0"
@@ -559366,7 +559366,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/shop_poster_03"
 	"RenderOrder" "0"
-	"sides" "5564 1294"
+	"sides" "2348"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-18.832 -19.4398 0"
@@ -585410,8 +585410,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1087.34 -93.1004 38.8101]"
-		"look" "[1351.33 -85.7194 3.57273]"
+		"position" "[-1247.47 -1163.92 48.2526]"
+		"look" "[-1506.64 -1213.36 11.1724]"
 	}
 }
 cordon
