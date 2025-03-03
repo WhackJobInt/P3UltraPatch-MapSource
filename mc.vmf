@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "0"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "11"
 	"classname" "worldspawn"
 	"briefing" "#P3_MC_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc"
@@ -82736,7 +82736,7 @@ world
 		side
 		{
 			"id" "6176"
-			"plane" "(1616.37 -296 168) (1536 -512.001 168) (1024 -296 168)"
+			"plane" "(1536 -512 168) (1024 -512 168) (1024 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 128] 0.25"
@@ -82746,7 +82746,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[1024 -296 168]"
+				"startposition" "[1024 -292 168]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82830,7 +82830,7 @@ world
 		side
 		{
 			"id" "6177"
-			"plane" "(1616.37 -296 167) (1024 -296 167) (1536 -512.001 167)"
+			"plane" "(1024 -512 167) (1536 -512 167) (1616 -292 167)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 128] 0.25"
@@ -82841,7 +82841,7 @@ world
 		side
 		{
 			"id" "6178"
-			"plane" "(1616.37 -296 168) (1616.37 -296 167) (1536 -512.001 168)"
+			"plane" "(1536 -512 167) (1536 -512 168) (1616 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[0.3487 0.9372 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -82852,7 +82852,7 @@ world
 		side
 		{
 			"id" "6179"
-			"plane" "(1536 -512.001 168) (1536 -512.001 167) (1024 -512 168)"
+			"plane" "(1024 -512 167) (1024 -512 168) (1536 -512 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -82863,7 +82863,7 @@ world
 		side
 		{
 			"id" "6180"
-			"plane" "(1024 -512 168) (1024 -512 167) (1024 -296 168)"
+			"plane" "(1024 -292 167) (1024 -292 168) (1024 -512 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -82874,7 +82874,7 @@ world
 		side
 		{
 			"id" "6181"
-			"plane" "(1024 -296 168) (1024 -296 167) (1616.37 -296 168)"
+			"plane" "(1616 -292 167) (1616 -292 168) (1024 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -82895,7 +82895,7 @@ world
 		side
 		{
 			"id" "6183"
-			"plane" "(1032 -168 168) (1664 -168 168) (1616.97 -296 168)"
+			"plane" "(1664 -160 168) (1616 -292 168) (1024 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 128] 0.25"
@@ -82905,7 +82905,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[1032 -168 168]"
+				"startposition" "[1024 -160 168]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82989,7 +82989,7 @@ world
 		side
 		{
 			"id" "6184"
-			"plane" "(1032 -168 167) (1616.97 -296 167) (1664 -168 167)"
+			"plane" "(1024 -160 167) (1024 -292 167) (1616 -292 167)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 128] 0.25"
@@ -83000,7 +83000,7 @@ world
 		side
 		{
 			"id" "6185"
-			"plane" "(1032 -168 168) (1032 -168 167) (1664 -168 168)"
+			"plane" "(1664 -160 167) (1664 -160 168) (1024 -160 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -83011,7 +83011,7 @@ world
 		side
 		{
 			"id" "6186"
-			"plane" "(1664 -168 168) (1664 -168 167) (1616.97 -296 168)"
+			"plane" "(1616 -292 167) (1616 -292 168) (1664 -160 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[0.3449 0.9386 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -83022,7 +83022,7 @@ world
 		side
 		{
 			"id" "6187"
-			"plane" "(1616.97 -296 168) (1616.97 -296 167) (1024 -296 168)"
+			"plane" "(1024 -292 167) (1024 -292 168) (1616 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -83033,7 +83033,7 @@ world
 		side
 		{
 			"id" "6188"
-			"plane" "(1024 -296 168) (1024 -296 167) (1032 -168 168)"
+			"plane" "(1024 -160 167) (1024 -160 168) (1024 -292 168)"
 			"material" "GROUND/ROAD_HUB_02"
 			"uaxis" "[-0.0624 -0.9981 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -139097,6 +139097,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "talib"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "771.664 -691.16 176"
@@ -142722,6 +142723,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -142781,6 +142783,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -142838,6 +142841,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -142895,6 +142899,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -142952,6 +142957,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143009,6 +143015,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143067,6 +143074,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143126,6 +143134,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143183,6 +143192,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143242,6 +143252,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143298,6 +143309,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_hobo"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "3881.09 -2193.09 16"
@@ -143352,6 +143364,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143411,6 +143424,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143468,6 +143482,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_hobo"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "975.15 312.348 168.046"
@@ -143522,6 +143537,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143580,6 +143596,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143638,6 +143655,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143695,6 +143713,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_hobo"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "4028.44 -756.224 8.48285"
@@ -143748,6 +143767,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143807,6 +143827,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143865,6 +143886,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143924,6 +143946,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -143981,6 +144004,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -144039,6 +144063,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -144097,6 +144122,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -144156,6 +144182,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -144439,6 +144466,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -240543,7 +240571,7 @@ entity
 		{
 			"id" "15789"
 			"plane" "(3248 -1432 40) (3248 -1432 12) (3296 -1432 12)"
-			"material" "TOOLS/TOOLSSKIP"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -413843,8 +413871,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6132.59 4247.82 93.3277]"
-		"look" "[6395 4212.81 63.6407]"
+		"position" "[1592.34 -409.097 252.739]"
+		"look" "[1582.83 -182.398 113.159]"
 	}
 }
 cordon
