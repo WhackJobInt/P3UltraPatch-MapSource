@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "61"
+	"mapversion" "62"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "61"
+	"mapversion" "62"
 	"classname" "worldspawn"
 	"briefing" "#P3_PW_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from pw"
@@ -82097,7 +82097,7 @@ entity
 {
 	"id" "778822"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -312583,8 +312583,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1012.74 -182.027 173.291]"
-		"look" "[1245.78 -243.6 59.8682]"
+		"position" "[454.12 -239.758 -35.1635]"
+		"look" "[424.988 -460.727 -181.067]"
 	}
 }
 cordon
