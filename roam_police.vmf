@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "69"
+	"mapversion" "73"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "69"
+	"mapversion" "73"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from pa"
 	"detailmaterial" "detail/detailsprites"
@@ -207793,7 +207793,7 @@ entity
 {
 	"id" "1801773"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -207851,7 +207851,7 @@ entity
 {
 	"id" "1815701"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -225250,7 +225250,7 @@ entity
 {
 	"id" "2561666"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -225751,7 +225751,7 @@ entity
 entity
 {
 	"id" "2650712"
-	"classname" "p3_weapon_m16"
+	"classname" "p3_weapon_sniper"
 	"angles" "-67.8317 144.391 -59.9921"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -225768,7 +225768,7 @@ entity
 entity
 {
 	"id" "2650724"
-	"classname" "p3_weapon_m16"
+	"classname" "p3_weapon_sniper"
 	"angles" "-67.8317 144.391 -59.9921"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -225785,7 +225785,7 @@ entity
 entity
 {
 	"id" "2650726"
-	"classname" "p3_weapon_m16"
+	"classname" "p3_weapon_sniper"
 	"angles" "-67.8317 144.391 -59.9921"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -225802,7 +225802,7 @@ entity
 entity
 {
 	"id" "2650728"
-	"classname" "p3_weapon_m16"
+	"classname" "p3_weapon_sniper"
 	"angles" "-67.8317 144.391 -59.9921"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -225819,7 +225819,7 @@ entity
 entity
 {
 	"id" "2650730"
-	"classname" "p3_weapon_m16"
+	"classname" "p3_weapon_sniper"
 	"angles" "-67.8317 144.391 -59.9921"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226802,7 +226802,7 @@ entity
 entity
 {
 	"id" "754169"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 89.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226819,7 +226819,7 @@ entity
 entity
 {
 	"id" "754171"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 89.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226836,7 +226836,7 @@ entity
 entity
 {
 	"id" "754177"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 269.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226853,7 +226853,7 @@ entity
 entity
 {
 	"id" "754179"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 269.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226870,7 +226870,7 @@ entity
 entity
 {
 	"id" "754181"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 89.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -226989,7 +226989,7 @@ entity
 entity
 {
 	"id" "754277"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 179.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227006,7 +227006,7 @@ entity
 entity
 {
 	"id" "754281"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 359.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227023,7 +227023,7 @@ entity
 entity
 {
 	"id" "754283"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 179.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227040,7 +227040,7 @@ entity
 entity
 {
 	"id" "754287"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 359.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227057,7 +227057,7 @@ entity
 entity
 {
 	"id" "754289"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 359.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227074,7 +227074,7 @@ entity
 entity
 {
 	"id" "754291"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 179.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227159,7 +227159,7 @@ entity
 entity
 {
 	"id" "754335"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 148.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227176,7 +227176,7 @@ entity
 entity
 {
 	"id" "754337"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 148.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227193,7 +227193,7 @@ entity
 entity
 {
 	"id" "754339"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 148.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227210,7 +227210,7 @@ entity
 entity
 {
 	"id" "754341"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 148.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227227,7 +227227,7 @@ entity
 entity
 {
 	"id" "754345"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 148.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -227353,7 +227353,6 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
-	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -227621,7 +227620,7 @@ entity
 entity
 {
 	"id" "2755221"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-70.1086 107.892 -106.887"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -521382,7 +521381,7 @@ entity
 entity
 {
 	"id" "3009386"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-90 90 0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -521525,13 +521524,167 @@ entity
 		"logicalpos" "[-13268 -15268]"
 	}
 }
+entity
+{
+	"id" "3050361"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 30 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "554.352 -464.641 30.7528"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-10768 -13768]"
+	}
+}
+entity
+{
+	"id" "3050429"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 20 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"modelscale" "1.0"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "3074.08 -123.563 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-9768 3000]"
+	}
+}
+entity
+{
+	"id" "3050433"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 340 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"modelscale" "1.0"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "3077.12 -132.444 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-9768 3000]"
+	}
+}
+entity
+{
+	"id" "3050437"
+	"classname" "p3_weapon_sniper"
+	"angles" "-70 90 -90"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"spawnflags" "0"
+	"origin" "3083.72 -134.607 9.91768"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-9768 3000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-55.5684 -290.43 93.0865]"
-		"look" "[-157.456 -48.0238 50.4987]"
+		"position" "[1324.63 717.738 -189.35]"
+		"look" "[1324.63 984.113 -189.35]"
 	}
 }
 cordon
