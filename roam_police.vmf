@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "74"
+	"mapversion" "75"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "74"
+	"mapversion" "75"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from pa"
 	"detailmaterial" "detail/detailsprites"
@@ -191054,23 +191054,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[12000 -15768]"
-	}
-}
-entity
-{
-	"id" "809028"
-	"classname" "p3_prop_compound"
-	"angles" "0 180 0"
-	"compound_class" "watercooler_01"
-	"model" "models/electrical_devices/watercooler_01.mdl"
-	"origin" "2734 832 0.26"
-	"skin" "0"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[12000 -15268]"
 	}
 }
 entity
@@ -521682,13 +521665,98 @@ entity
 		"logicalpos" "[-9768 3000]"
 	}
 }
+entity
+{
+	"id" "3064076"
+	"classname" "p3_prop_compound"
+	"angles" "0 270 0"
+	"compound_class" "watercooler_01"
+	"model" "models/electrical_devices/watercooler_01.mdl"
+	"origin" "1358 846 -224"
+	"skin" "0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 6500]"
+	}
+}
+entity
+{
+	"id" "3064081"
+	"classname" "p3_prop_compound"
+	"angles" "0 90 0"
+	"compound_class" "watercooler_01"
+	"model" "models/electrical_devices/watercooler_01.mdl"
+	"origin" "1613.99 -741.99 0.26"
+	"skin" "0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[15500 500]"
+	}
+}
+entity
+{
+	"id" "3064086"
+	"classname" "p3_prop_compound"
+	"angles" "0 180 0"
+	"compound_class" "watercooler_01"
+	"model" "models/electrical_devices/watercooler_01.mdl"
+	"origin" "2734 832 0.26"
+	"skin" "0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[12000 -15268]"
+	}
+}
+entity
+{
+	"id" "3064091"
+	"classname" "p3_prop_compound"
+	"angles" "0 270 0"
+	"compound_class" "watercooler_01"
+	"model" "models/electrical_devices/watercooler_01.mdl"
+	"origin" "1748 -70.34 -223.74"
+	"skin" "0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 2500]"
+	}
+}
+entity
+{
+	"id" "3064096"
+	"classname" "p3_prop_compound"
+	"angles" "0 0 0"
+	"compound_class" "watercooler_01"
+	"model" "models/electrical_devices/watercooler_01.mdl"
+	"origin" "1959.1 721.39 -223.74"
+	"skin" "0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[6000 11500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[919.078 144.83 -139.317]"
-		"look" "[667.767 226.922 -171.873]"
+		"position" "[2564.42 823.316 103.305]"
+		"look" "[2813.14 835.48 8.71258]"
 	}
 }
 cordon
