@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "0"
+	"mapversion" "1"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"briefing" "#P3_DLI_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dli"
@@ -2331,7 +2331,7 @@ world
 			"id" "214"
 			"plane" "(-1764 8 200) (-1764 8 -0) (-1764 0 -0)"
 			"material" "WOOD/WOOD_TILE_07_GREEN"
-			"uaxis" "[0 0 -1 -0] 0.25"
+			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 1 0 -267] 0.3"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -2396,7 +2396,7 @@ world
 			"id" "220"
 			"plane" "(-1668 0 200) (-1668 0 -0) (-1668 8 -0)"
 			"material" "WOOD/WOOD_TILE_07_GREEN"
-			"uaxis" "[0 0 -1 -0] 0.25"
+			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 1 0 -267] 0.3"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24127,7 +24127,7 @@ world
 			"id" "2222"
 			"plane" "(2128 -1320 56) (2128 -1320 -0) (2128 -1832 -0)"
 			"material" "TRIMS/WALL_COMP_TRIM_03"
-			"uaxis" "[0 1 0 -0] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 122] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -51143,7 +51143,7 @@ world
 			"id" "4591"
 			"plane" "(560 -2136 32) (1017 -2136 32) (1017 -2136 184)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[1 0 0 -0] 0.25"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -51437,7 +51437,7 @@ world
 			"id" "4605"
 			"plane" "(1017 -2136 32) (1472 -2136 32) (1472 -2136 184)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[1 0 0 -0] 0.25"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -56149,7 +56149,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[319.754 2168.58 272.571]"
+				"startposition" "[319.755 2168.58 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -56284,7 +56284,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[319.754 2296.58 272.572]"
+				"startposition" "[319.754 2296.58 272.57]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -57094,7 +57094,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[432.387 2296.58 222.633]"
+				"startposition" "[432.389 2296.58 222.632]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -58039,7 +58039,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[523.303 2296.58 191.969]"
+				"startposition" "[523.303 2296.58 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -58174,7 +58174,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[441.065 2296.58 191.969]"
+				"startposition" "[441.065 2296.58 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -58309,7 +58309,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[470.367 2168.58 268]"
+				"startposition" "[470.368 2168.58 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -58714,7 +58714,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[406.397 2296.58 249.069]"
+				"startposition" "[406.397 2296.58 249.068]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -59254,7 +59254,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[273.545 2296.58 266.277]"
+				"startposition" "[273.545 2296.58 266.278]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -59389,7 +59389,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[207.115 2168.58 222.634]"
+				"startposition" "[207.115 2168.58 222.635]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -59524,7 +59524,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[207.115 2296.58 222.634]"
+				"startposition" "[207.118 2296.58 222.635]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -59794,7 +59794,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[207.116 2296.58 222.634]"
+				"startposition" "[207.115 2296.58 222.637]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -60064,7 +60064,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[198.439 2296.58 191.941]"
+				"startposition" "[198.436 2296.58 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -60199,7 +60199,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[116.687 2296.58 191.941]"
+				"startposition" "[116.687 2296.58 191.94]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -60334,7 +60334,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[198.437 2296.58 191.941]"
+				"startposition" "[198.437 2296.58 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -64975,7 +64975,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[441.555 -27.576 191.969]"
+				"startposition" "[441.554 -27.576 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -65110,7 +65110,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[441.555 -155.576 191.969]"
+				"startposition" "[441.553 -155.576 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -65245,7 +65245,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[523.299 -155.576 191.971]"
+				"startposition" "[523.297 -155.576 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -65380,7 +65380,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[441.555 -155.574 191.97]"
+				"startposition" "[441.554 -155.574 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -65650,7 +65650,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[432.881 -155.576 222.634]"
+				"startposition" "[432.883 -155.576 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -65920,7 +65920,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[432.881 -155.574 222.632]"
+				"startposition" "[432.882 -155.574 222.635]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -66190,7 +66190,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[366.454 -155.576 266.277]"
+				"startposition" "[366.453 -155.576 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -66460,7 +66460,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[366.454 -155.576 266.277]"
+				"startposition" "[366.453 -155.576 266.277]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -66595,7 +66595,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[320.244 -27.576 272.571]"
+				"startposition" "[320.244 -27.576 272.57]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -66730,7 +66730,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[320.244 -155.576 272.572]"
+				"startposition" "[320.244 -155.576 272.57]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -67000,7 +67000,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[320.244 -155.576 272.572]"
+				"startposition" "[320.244 -155.576 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -67540,7 +67540,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[274.035 -155.576 266.278]"
+				"startposition" "[274.034 -155.576 266.278]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -67675,7 +67675,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[169.636 -27.576 268]"
+				"startposition" "[169.634 -27.576 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -67945,7 +67945,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[169.634 -155.574 268]"
+				"startposition" "[169.632 -155.574 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -68080,7 +68080,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[233.603 -155.576 249.071]"
+				"startposition" "[233.603 -155.576 249.072]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -68620,7 +68620,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[207.609 -155.576 222.635]"
+				"startposition" "[207.61 -155.576 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -68755,7 +68755,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[116.684 -27.576 191.941]"
+				"startposition" "[116.683 -27.576 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69025,7 +69025,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[116.683 -155.574 191.94]"
+				"startposition" "[116.683 -155.574 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69160,7 +69160,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[198.927 -155.576 191.941]"
+				"startposition" "[198.926 -155.576 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69430,7 +69430,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 422.859 191.941]"
+				"startposition" "[-454.422 422.858 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69565,7 +69565,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 341.109 191.94]"
+				"startposition" "[-454.422 341.109 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69700,7 +69700,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 422.858 191.941]"
+				"startposition" "[-454.422 422.858 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -69970,7 +69970,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 431.538 222.634]"
+				"startposition" "[-454.422 431.54 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -70105,7 +70105,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 394.424 268]"
+				"startposition" "[-454.422 394.423 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -70645,7 +70645,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 456.425 296]"
+				"startposition" "[-454.422 456.423 296]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -70915,7 +70915,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-417.271 544.176 272.571]"
+				"startposition" "[-417.271 544.176 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -71050,7 +71050,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 544.175 272.569]"
+				"startposition" "[-454.422 544.175 272.57]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -71455,7 +71455,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-417.271 630.423 296]"
+				"startposition" "[-417.271 630.422 296]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -71995,7 +71995,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-417.271 694.79 268]"
+				"startposition" "[-417.271 694.792 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -72805,7 +72805,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 730.426 228]"
+				"startposition" "[-454.422 730.424 228]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -73480,7 +73480,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-454.422 665.487 191.969]"
+				"startposition" "[-454.422 665.487 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -73750,7 +73750,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 422.859 191.941]"
+				"startposition" "[449.578 422.858 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -73885,7 +73885,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 341.109 191.94]"
+				"startposition" "[449.578 341.109 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -74020,7 +74020,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 422.858 191.941]"
+				"startposition" "[449.578 422.858 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -74290,7 +74290,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 431.538 222.634]"
+				"startposition" "[449.578 431.54 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -74425,7 +74425,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 394.424 268]"
+				"startposition" "[449.578 394.423 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -74965,7 +74965,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 456.425 296]"
+				"startposition" "[449.578 456.423 296]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -75235,7 +75235,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[486.729 544.176 272.571]"
+				"startposition" "[486.729 544.176 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -75370,7 +75370,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 544.175 272.569]"
+				"startposition" "[449.578 544.175 272.57]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -75775,7 +75775,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[486.729 630.423 296]"
+				"startposition" "[486.729 630.422 296]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -76315,7 +76315,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[486.729 694.79 268]"
+				"startposition" "[486.729 694.792 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -77125,7 +77125,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 730.426 228]"
+				"startposition" "[449.578 730.424 228]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -77800,7 +77800,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[449.578 665.487 191.969]"
+				"startposition" "[449.578 665.487 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -78340,7 +78340,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1625.56 1506 191.971]"
+				"startposition" "[1625.56 1506 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -78880,7 +78880,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1616.88 1506 222.633]"
+				"startposition" "[1616.88 1506 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -79150,7 +79150,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1550.46 1506 266.277]"
+				"startposition" "[1550.46 1506 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -79420,7 +79420,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1550.46 1506 266.277]"
+				"startposition" "[1550.46 1506 266.278]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -79555,7 +79555,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1504.25 1543.15 272.569]"
+				"startposition" "[1504.25 1543.15 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -79690,7 +79690,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1504.25 1506 272.57]"
+				"startposition" "[1504.25 1506 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -81040,7 +81040,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1417.6 1506 249.07]"
+				"startposition" "[1417.6 1506 249.071]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82120,7 +82120,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1382.92 1506 191.94]"
+				"startposition" "[1382.92 1506 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82660,7 +82660,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1497.98 191.969]"
+				"startposition" "[773.422 1497.98 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82795,7 +82795,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[736.271 1489.31 222.635]"
+				"startposition" "[736.271 1489.31 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -82930,7 +82930,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1489.31 222.635]"
+				"startposition" "[773.422 1489.31 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -83200,7 +83200,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1489.31 222.633]"
+				"startposition" "[773.422 1489.31 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -83470,7 +83470,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1422.88 266.277]"
+				"startposition" "[773.422 1422.88 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -83740,7 +83740,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1422.88 266.277]"
+				"startposition" "[773.422 1422.88 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -84010,7 +84010,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1376.67 272.571]"
+				"startposition" "[773.422 1376.67 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -85360,7 +85360,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1290.02 249.072]"
+				"startposition" "[773.422 1290.02 249.071]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -86305,7 +86305,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1173.1 191.942]"
+				"startposition" "[773.422 1173.1 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -86440,7 +86440,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[773.422 1255.35 191.941]"
+				"startposition" "[773.422 1255.35 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -86980,7 +86980,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1497.98 191.969]"
+				"startposition" "[-104.578 1497.98 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -87115,7 +87115,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-141.729 1489.31 222.635]"
+				"startposition" "[-141.729 1489.31 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -87250,7 +87250,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1489.31 222.635]"
+				"startposition" "[-104.578 1489.31 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -87520,7 +87520,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1489.31 222.633]"
+				"startposition" "[-104.578 1489.31 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -88060,7 +88060,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1422.88 266.277]"
+				"startposition" "[-104.578 1422.88 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -88330,7 +88330,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1376.67 272.571]"
+				"startposition" "[-104.578 1376.67 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -89680,7 +89680,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1290.02 249.072]"
+				"startposition" "[-104.578 1290.02 249.071]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -90625,7 +90625,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1173.1 191.942]"
+				"startposition" "[-104.578 1173.1 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -90760,7 +90760,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-104.578 1255.35 191.941]"
+				"startposition" "[-104.578 1255.35 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -91165,7 +91165,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1195.32 710.846 191.94]"
+				"startposition" "[-1195.32 710.846 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -91300,7 +91300,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1113.57 710.848 191.94]"
+				"startposition" "[-1113.57 710.848 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -91435,7 +91435,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1104.88 673.694 222.635]"
+				"startposition" "[-1104.88 673.694 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -91570,7 +91570,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1104.88 710.846 222.635]"
+				"startposition" "[-1104.88 710.846 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -91840,7 +91840,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1104.88 710.848 222.635]"
+				"startposition" "[-1104.88 710.848 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -92380,7 +92380,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1038.46 710.848 266.278]"
+				"startposition" "[-1038.46 710.848 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -92515,7 +92515,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-992.248 673.694 272.57]"
+				"startposition" "[-992.248 673.694 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -93595,7 +93595,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-841.633 673.694 268]"
+				"startposition" "[-841.634 673.694 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -94000,7 +94000,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-905.598 710.848 249.069]"
+				"startposition" "[-905.598 710.848 249.07]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -94540,7 +94540,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-879.613 710.846 222.637]"
+				"startposition" "[-879.611 710.846 222.638]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -94675,7 +94675,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-788.698 673.694 191.969]"
+				"startposition" "[-788.697 673.694 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -95080,7 +95080,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-870.935 710.846 191.971]"
+				"startposition" "[-870.935 710.846 191.97]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -95485,7 +95485,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1131.3 826 191.97]"
+				"startposition" "[1131.3 826 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -95620,7 +95620,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1049.56 826 191.972]"
+				"startposition" "[1049.56 826 191.971]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -95890,7 +95890,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1040.88 826 222.635]"
+				"startposition" "[1040.88 826 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -96160,7 +96160,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1040.88 826 222.635]"
+				"startposition" "[1040.88 826 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -96430,7 +96430,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[974.455 826 266.277]"
+				"startposition" "[974.454 826 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -96835,7 +96835,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[928.245 863.153 272.572]"
+				"startposition" "[928.245 863.153 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97240,7 +97240,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[928.247 826 272.571]"
+				"startposition" "[928.246 826 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97780,7 +97780,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[882.041 826 266.279]"
+				"startposition" "[882.04 826 266.278]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98185,7 +98185,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[777.633 826 268]"
+				"startposition" "[777.634 826 268]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98320,7 +98320,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[841.6 826 249.072]"
+				"startposition" "[841.599 826 249.072]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98860,7 +98860,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[815.608 826 222.633]"
+				"startposition" "[815.607 826 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98995,7 +98995,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[724.685 863.153 191.941]"
+				"startposition" "[724.684 863.153 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -99265,7 +99265,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[724.685 826 191.941]"
+				"startposition" "[724.683 826 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -99400,7 +99400,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[806.929 826 191.941]"
+				"startposition" "[806.928 826 191.94]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -99805,7 +99805,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2091.3 670 191.972]"
+				"startposition" "[2091.3 670 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -99940,7 +99940,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2009.56 670 191.971]"
+				"startposition" "[2009.56 670 191.969]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -100480,7 +100480,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2000.88 670 222.633]"
+				"startposition" "[2000.88 670 222.636]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -100750,7 +100750,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1934.46 670 266.277]"
+				"startposition" "[1934.46 670 266.276]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -101020,7 +101020,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1934.46 670 266.276]"
+				"startposition" "[1934.46 670 266.277]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -101155,7 +101155,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1888.25 707.153 272.57]"
+				"startposition" "[1888.25 707.153 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -101290,7 +101290,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1888.25 670 272.57]"
+				"startposition" "[1888.25 670 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -102640,7 +102640,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1801.6 670 249.072]"
+				"startposition" "[1801.6 670 249.071]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -103180,7 +103180,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1775.61 670 222.633]"
+				"startposition" "[1775.61 670 222.635]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -103585,7 +103585,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1684.68 670 191.94]"
+				"startposition" "[1684.68 670 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -103720,7 +103720,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1766.92 670 191.941]"
+				"startposition" "[1766.92 670 191.94]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -116092,7 +116092,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1172.69 191.94]"
+				"startposition" "[-1069.85 1172.68 191.941]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -116227,7 +116227,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1254.43 191.941]"
+				"startposition" "[-1069.85 1254.43 191.942]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -116497,7 +116497,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1263.12 222.634]"
+				"startposition" "[-1069.85 1263.12 222.633]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -116767,7 +116767,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1263.12 222.633]"
+				"startposition" "[-1069.85 1263.12 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -117307,7 +117307,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1329.54 266.276]"
+				"startposition" "[-1069.85 1329.54 266.277]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -117442,7 +117442,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1032.69 1375.75 272.572]"
+				"startposition" "[-1032.69 1375.75 272.571]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -117577,7 +117577,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1375.75 272.571]"
+				"startposition" "[-1069.85 1375.75 272.572]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -118387,7 +118387,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1421.97 266.276]"
+				"startposition" "[-1069.85 1421.97 266.277]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -118927,7 +118927,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1462.4 249.07]"
+				"startposition" "[-1069.85 1462.4 249.071]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -119467,7 +119467,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1488.39 222.635]"
+				"startposition" "[-1069.85 1488.39 222.634]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -120007,7 +120007,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-1069.85 1497.07 191.97]"
+				"startposition" "[-1069.85 1497.07 191.971]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -141310,7 +141310,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1440 31.9713 200]"
+				"startposition" "[1440 31.9732 200]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -151298,7 +151298,7 @@ world
 			"id" "9555"
 			"plane" "(1760 1120 200) (1792 1280 184) (1792 1088 184)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[0 1 0 -0] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0.8944 0 -0.4472 -202] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -151433,7 +151433,7 @@ world
 			"id" "9562"
 			"plane" "(1792 1280 32) (1792 1088 32) (1792 1088 184)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[0 1 0 -0] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -151592,7 +151592,7 @@ world
 			"id" "9569"
 			"plane" "(1792 1088 184) (1600 1088 184) (1632 1120 200)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[1 0 0 -0] 0.25"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -0.8944 -0.4472 118] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -151727,7 +151727,7 @@ world
 			"id" "9576"
 			"plane" "(1792 1088 32) (1600 1088 32) (1600 1088 184)"
 			"material" "NATURE/IVY_WALL_01A"
-			"uaxis" "[1 0 0 -0] 0.25"
+			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -186967,8 +186967,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "82 -685.166 132.28"
-	"lowerright" "82 -690 115.978"
+	"lowerleft" "82 -685.167 132.28"
+	"lowerright" "82 -690 115.98"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -186981,8 +186981,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "31 -685.167 132.28"
-	"upperright" "31 -690 115.979"
+	"upperleft" "31 -685.168 132.28"
+	"upperright" "31 -690 115.98"
 	solid
 	{
 		"id" "10667"
@@ -196851,7 +196851,7 @@ entity
 	"gibdir" "0 0 0"
 	"health" "5"
 	"lowerleft" "988 5940 226"
-	"lowerright" "938.252 5989.25 226"
+	"lowerright" "938.253 5989.25 226"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -196865,7 +196865,7 @@ entity
 	"spawnobject" "0"
 	"surfacetype" "0"
 	"upperleft" "988 5940 302"
-	"upperright" "938.252 5989.25 302"
+	"upperright" "938.253 5989.25 302"
 	solid
 	{
 		"id" "10674"
@@ -196964,7 +196964,7 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "937.242 5990.25 226"
+	"lowerleft" "937.245 5990.25 226"
 	"lowerright" "888 6039 226"
 	"material" "0"
 	"nodamageforces" "0"
@@ -196978,7 +196978,7 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "937.242 5990.25 302"
+	"upperleft" "937.245 5990.25 302"
 	"upperright" "888 6039 302"
 	solid
 	{
@@ -212464,8 +212464,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "1097 -664.357 136"
-	"lowerright" "1025.52 -683.506 136"
+	"lowerleft" "1097 -664.356 136"
+	"lowerright" "1025.52 -683.507 136"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -212478,8 +212478,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "1097 -664.357 179"
-	"upperright" "1025.52 -683.506 179"
+	"upperleft" "1097 -664.356 179"
+	"upperright" "1025.52 -683.507 179"
 	solid
 	{
 		"id" "10758"
@@ -212578,8 +212578,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "1017.87 -681.457 136"
-	"lowerright" "965.552 -629.136 136"
+	"lowerleft" "1017.87 -681.459 136"
+	"lowerright" "965.549 -629.139 136"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -212592,8 +212592,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "1017.87 -681.456 179"
-	"upperright" "965.55 -629.134 179"
+	"upperleft" "1017.87 -681.458 179"
+	"upperright" "965.547 -629.138 179"
 	solid
 	{
 		"id" "10765"
@@ -212692,8 +212692,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "963.75 -620.524 179"
-	"lowerright" "963.75 -620.524 136"
+	"lowerleft" "963.751 -620.523 179"
+	"lowerright" "963.751 -620.523 136"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -212706,7 +212706,7 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "982.385 -550.979 179"
+	"upperleft" "982.386 -550.979 179"
 	"upperright" "982.386 -550.979 136"
 	solid
 	{
@@ -212806,8 +212806,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "989.21 -544.157 136"
-	"lowerright" "1058.75 -525.522 136"
+	"lowerleft" "989.212 -544.157 136"
+	"lowerright" "1058.75 -525.523 136"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -212821,7 +212821,7 @@ entity
 	"spawnobject" "0"
 	"surfacetype" "0"
 	"upperleft" "989.21 -544.158 179"
-	"upperright" "1058.75 -525.523 179"
+	"upperright" "1058.75 -525.524 179"
 	solid
 	{
 		"id" "10779"
@@ -212920,8 +212920,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "1068.08 -528.015 136"
-	"lowerright" "1118.98 -578.926 136"
+	"lowerleft" "1068.08 -528.013 136"
+	"lowerright" "1118.98 -578.923 136"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -212934,8 +212934,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "1068.08 -528.015 179"
-	"upperright" "1118.98 -578.925 179"
+	"upperleft" "1068.09 -528.015 179"
+	"upperright" "1118.98 -578.921 179"
 	solid
 	{
 		"id" "10786"
@@ -249347,7 +249347,7 @@ entity
 			"id" "12586"
 			"plane" "(1760 -1624 326) (1760 -1624 222) (1760 -1504 222)"
 			"material" "TILES/VAGONKA_01"
-			"uaxis" "[0 -1 0 -0] 0.25"
+			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 224] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -327882,7 +327882,7 @@ entity
 			"id" "19987"
 			"plane" "(-1668 -2 140) (-1668 -2 32) (-1668 0 32)"
 			"material" "WOOD/WOOD_TILE_07_GREEN"
-			"uaxis" "[0 0 -1 -0] 0.25"
+			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 1 0 -267] 0.3"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -366205,7 +366205,7 @@ entity
 			"id" "23521"
 			"plane" "(-1764 0 140) (-1764 0 32) (-1764 -2 32)"
 			"material" "WOOD/WOOD_TILE_07_GREEN"
-			"uaxis" "[0 0 -1 -0] 0.25"
+			"uaxis" "[0 0 -1 0] 0.25"
 			"vaxis" "[0 1 0 -267] 0.3"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -439469,7 +439469,7 @@ entity
 			"plane" "(1196 4856 326) (1196 4852 326) (1384 4852 326)"
 			"material" "DAVELAND/DAVEHOUSE_TEX_01"
 			"uaxis" "[-1 0 0 -36] 0.25"
-			"vaxis" "[0 1 0 -0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -476449,7 +476449,7 @@ entity
 			"plane" "(-748 4856 326) (-748 4852 326) (-560 4852 326)"
 			"material" "DAVELAND/DAVEHOUSE_TEX_01"
 			"uaxis" "[1 0 0 236] 0.25"
-			"vaxis" "[0 1 0 -0] 0.25"
+			"vaxis" "[0 1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -654468,7 +654468,7 @@ entity
 entity
 {
 	"id" "49464"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654477,9 +654477,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654495,7 +654497,7 @@ entity
 entity
 {
 	"id" "49465"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654504,9 +654506,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654522,7 +654526,7 @@ entity
 entity
 {
 	"id" "49466"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654531,9 +654535,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654549,7 +654555,7 @@ entity
 entity
 {
 	"id" "49467"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654558,9 +654564,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654630,7 +654638,7 @@ entity
 entity
 {
 	"id" "49470"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "30 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654639,9 +654647,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654657,7 +654667,7 @@ entity
 entity
 {
 	"id" "49471"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654666,9 +654676,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654684,7 +654696,7 @@ entity
 entity
 {
 	"id" "49472"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654693,9 +654705,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654711,7 +654725,7 @@ entity
 entity
 {
 	"id" "49473"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654720,9 +654734,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654738,7 +654754,7 @@ entity
 entity
 {
 	"id" "49474"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654747,9 +654763,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654765,7 +654783,7 @@ entity
 entity
 {
 	"id" "49475"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654774,9 +654792,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654792,7 +654812,7 @@ entity
 entity
 {
 	"id" "49476"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654801,9 +654821,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654819,7 +654841,7 @@ entity
 entity
 {
 	"id" "49477"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654828,9 +654850,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654846,7 +654870,7 @@ entity
 entity
 {
 	"id" "49478"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654855,9 +654879,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654873,7 +654899,7 @@ entity
 entity
 {
 	"id" "49479"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654882,9 +654908,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654900,7 +654928,7 @@ entity
 entity
 {
 	"id" "49480"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654909,9 +654937,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654927,7 +654957,7 @@ entity
 entity
 {
 	"id" "49481"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654936,9 +654966,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654954,7 +654986,7 @@ entity
 entity
 {
 	"id" "49482"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654963,9 +654995,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -654981,7 +655015,7 @@ entity
 entity
 {
 	"id" "49483"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -654990,9 +655024,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655008,7 +655044,7 @@ entity
 entity
 {
 	"id" "49484"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655017,9 +655053,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655035,7 +655073,7 @@ entity
 entity
 {
 	"id" "49485"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655044,9 +655082,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655062,7 +655102,7 @@ entity
 entity
 {
 	"id" "49486"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655071,9 +655111,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655089,7 +655131,7 @@ entity
 entity
 {
 	"id" "49487"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655098,9 +655140,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655116,7 +655160,7 @@ entity
 entity
 {
 	"id" "49488"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655125,9 +655169,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655143,7 +655189,7 @@ entity
 entity
 {
 	"id" "49489"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655152,9 +655198,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655170,7 +655218,7 @@ entity
 entity
 {
 	"id" "49490"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 345 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655179,9 +655227,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655197,7 +655247,7 @@ entity
 entity
 {
 	"id" "49491"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655206,9 +655256,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655224,7 +655276,7 @@ entity
 entity
 {
 	"id" "49492"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655233,9 +655285,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655251,7 +655305,7 @@ entity
 entity
 {
 	"id" "49493"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655260,9 +655314,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655278,7 +655334,7 @@ entity
 entity
 {
 	"id" "49494"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655287,9 +655343,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655305,7 +655363,7 @@ entity
 entity
 {
 	"id" "49495"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655314,9 +655372,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655332,7 +655392,7 @@ entity
 entity
 {
 	"id" "49496"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655341,9 +655401,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655359,7 +655421,7 @@ entity
 entity
 {
 	"id" "49497"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655368,9 +655430,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655386,7 +655450,7 @@ entity
 entity
 {
 	"id" "49498"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655395,9 +655459,11 @@ entity
 	"fademindist" "1500"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_03.mdl"
+	"plant_type" "leaves_eucalyptus_large"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655413,7 +655479,7 @@ entity
 entity
 {
 	"id" "49499"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655422,9 +655488,11 @@ entity
 	"fademindist" "1500"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_03.mdl"
+	"plant_type" "leaves_eucalyptus_large"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655440,7 +655508,7 @@ entity
 entity
 {
 	"id" "49500"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655449,9 +655517,11 @@ entity
 	"fademindist" "1500"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_03.mdl"
+	"plant_type" "leaves_eucalyptus_large"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655467,7 +655537,7 @@ entity
 entity
 {
 	"id" "49501"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655476,9 +655546,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655494,7 +655566,7 @@ entity
 entity
 {
 	"id" "49502"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655503,9 +655575,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655521,7 +655595,7 @@ entity
 entity
 {
 	"id" "49503"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655530,9 +655604,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655548,7 +655624,7 @@ entity
 entity
 {
 	"id" "49504"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655557,9 +655633,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655575,7 +655653,7 @@ entity
 entity
 {
 	"id" "49505"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655584,9 +655662,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -655602,7 +655682,7 @@ entity
 entity
 {
 	"id" "49506"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 315 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -655611,9 +655691,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659814,7 +659896,7 @@ entity
 entity
 {
 	"id" "49662"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 270 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659823,9 +659905,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659841,7 +659925,7 @@ entity
 entity
 {
 	"id" "49663"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-11.5 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659850,9 +659934,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659868,7 +659954,7 @@ entity
 entity
 {
 	"id" "49664"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-11.5 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659877,9 +659963,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659895,7 +659983,7 @@ entity
 entity
 {
 	"id" "49665"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-11.5 315 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659904,9 +659992,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659922,7 +660012,7 @@ entity
 entity
 {
 	"id" "49666"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-11.5 30 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659931,9 +660021,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -659949,7 +660041,7 @@ entity
 entity
 {
 	"id" "49667"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-11.5 15 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -659958,9 +660050,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -660219,7 +660313,7 @@ entity
 entity
 {
 	"id" "49677"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 270 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -660228,9 +660322,11 @@ entity
 	"fademindist" "1500"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_03.mdl"
+	"plant_type" "leaves_eucalyptus_large"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -661218,7 +661314,7 @@ entity
 entity
 {
 	"id" "49714"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-15 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -661227,9 +661323,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -662541,7 +662639,7 @@ entity
 entity
 {
 	"id" "49763"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-15 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -662550,9 +662648,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -663243,7 +663343,7 @@ entity
 entity
 {
 	"id" "49789"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "30 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -663252,9 +663352,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -663270,7 +663372,7 @@ entity
 entity
 {
 	"id" "49790"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "30 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -663279,9 +663381,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -663297,7 +663401,7 @@ entity
 entity
 {
 	"id" "49791"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "30 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -663306,9 +663410,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02b.mdl"
+	"plant_type" "leaves_eucalyptus_small_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -663488,7 +663594,7 @@ entity
 entity
 {
 	"id" "49798"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -663497,9 +663603,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664408,7 +664516,7 @@ entity
 entity
 {
 	"id" "49832"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664417,9 +664525,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664435,7 +664545,7 @@ entity
 entity
 {
 	"id" "49833"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664444,9 +664554,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664462,7 +664574,7 @@ entity
 entity
 {
 	"id" "49834"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664471,9 +664583,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664489,7 +664603,7 @@ entity
 entity
 {
 	"id" "49835"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 15 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664498,9 +664612,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664516,7 +664632,7 @@ entity
 entity
 {
 	"id" "49836"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 60 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664525,9 +664641,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_a.mdl"
+	"plant_type" "leaves_eucalyptus_med_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664543,7 +664661,7 @@ entity
 entity
 {
 	"id" "49837"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664552,9 +664670,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -664975,7 +665095,7 @@ entity
 entity
 {
 	"id" "49853"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -664984,9 +665104,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665002,7 +665124,7 @@ entity
 entity
 {
 	"id" "49854"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665011,9 +665133,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665029,7 +665153,7 @@ entity
 entity
 {
 	"id" "49855"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665038,9 +665162,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665056,7 +665182,7 @@ entity
 entity
 {
 	"id" "49856"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665065,9 +665191,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665083,7 +665211,7 @@ entity
 entity
 {
 	"id" "49857"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 30 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665092,9 +665220,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665110,7 +665240,7 @@ entity
 entity
 {
 	"id" "49858"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 30 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665119,9 +665249,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665137,7 +665269,7 @@ entity
 entity
 {
 	"id" "49859"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665146,9 +665278,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -665164,7 +665298,7 @@ entity
 entity
 {
 	"id" "49860"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 75 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -665173,9 +665307,11 @@ entity
 	"fademindist" "1400"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/bush_02a.mdl"
+	"plant_type" "leaves_eucalyptus_small_a"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -673345,7 +673481,7 @@ entity
 entity
 {
 	"id" "50163"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 45 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -673354,9 +673490,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -673372,7 +673510,7 @@ entity
 entity
 {
 	"id" "50164"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "0 180 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -673381,9 +673519,11 @@ entity
 	"fademindist" "1900"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
