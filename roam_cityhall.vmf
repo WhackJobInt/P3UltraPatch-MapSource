@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "14"
+	"mapversion" "16"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "14"
+	"mapversion" "16"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from sbe"
 	"detailmaterial" "detail/detailsprites"
@@ -139760,7 +139760,7 @@ entity
 entity
 {
 	"id" "1164128"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0 0 -90"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -140508,7 +140508,7 @@ entity
 entity
 {
 	"id" "1164863"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-24.3551 261.952 104.287"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -141333,7 +141333,7 @@ entity
 entity
 {
 	"id" "1165936"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0 161.5 -91"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -141369,7 +141369,7 @@ entity
 entity
 {
 	"id" "1165967"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "0 279 0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -273690,13 +273690,57 @@ entity
 		"logicalpos" "[8000 -3768]"
 	}
 }
+entity
+{
+	"id" "1203102"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "-837.991 -1010.57 449"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[254.239 -1836.05 154.411]"
-		"look" "[-5.59878 -1885.62 122.871]"
+		"position" "[-811.73 -1017.32 475.492]"
+		"look" "[-959.331 -1002.43 254.224]"
 	}
 }
 cordon

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "9"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM2_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm2"
@@ -145960,30 +145960,36 @@ entity
 entity
 {
 	"id" "1511525"
-	"classname" "prop_p3_stuffitem"
+	"classname" "prop_p3_fsmitem"
 	"angles" "0 90 2"
+	"BulkyHandledAnimationType" "0"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
+	"Faction" "Items"
 	"fademaxdist" "2000"
 	"fademindist" "1600"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
 	"inertiaScale" "1.0"
+	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
 	"model" "models/objects_city/refuse_bin_04.mdl"
 	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
 	"spawnflags" "1"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
 	"origin" "280.239 2434.12 32.1919"
 	editor
 	{
@@ -522451,6 +522457,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -522495,6 +522502,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -522542,8 +522550,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1393.86 1135.34 122.832]"
-		"look" "[1367.14 1400.23 114.046]"
+		"position" "[360.358 2414.3 106.574]"
+		"look" "[127.433 2482.76 -3.04456]"
 	}
 	camera
 	{

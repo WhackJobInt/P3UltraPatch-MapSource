@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "40"
+	"mapversion" "41"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "40"
+	"mapversion" "41"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from cm"
 	"detailmaterial" "detail/detailsprites"
@@ -78749,7 +78749,7 @@ entity
 entity
 {
 	"id" "601267"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "0 13.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -230551,7 +230551,7 @@ entity
 {
 	"id" "793286"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -231208,7 +231208,7 @@ entity
 {
 	"id" "793312"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -231328,7 +231328,7 @@ entity
 {
 	"id" "793316"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -231473,7 +231473,7 @@ entity
 {
 	"id" "793322"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -232382,8 +232382,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1522.39 -476.159 199.861]"
-		"look" "[-1431.65 -226.872 175.719]"
+		"position" "[717.121 -290.392 395.611]"
+		"look" "[618.446 -438.957 197.743]"
 	}
 }
 cordon

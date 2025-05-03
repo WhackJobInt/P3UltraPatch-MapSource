@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "5"
+	"mapversion" "6"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "5"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_mexico"
 	"detailmaterial" "detail/detailsprites"
@@ -164490,7 +164490,7 @@ entity
 {
 	"id" "1125275"
 	"classname" "p3_npc_cop"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -172283,7 +172283,7 @@ entity
 {
 	"id" "1192976"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_m60"
+	"additionalequipment" "p3_weapon_m249"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -172576,7 +172576,7 @@ entity
 {
 	"id" "1197687"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -419222,8 +419222,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1533.06 2846.74 213.836]"
-		"look" "[1761.79 2845.15 77.2918]"
+		"position" "[2622.21 -1971.65 50.0298]"
+		"look" "[2876.24 -1891.72 43.4974]"
 	}
 }
 cordon

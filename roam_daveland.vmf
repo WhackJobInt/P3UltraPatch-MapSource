@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "24"
+	"mapversion" "26"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "24"
+	"mapversion" "26"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from dlg"
 	"detailmaterial" "detail/detailsprites"
@@ -220938,7 +220938,7 @@ entity
 entity
 {
 	"id" "1602906"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0 0 0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -221198,7 +221198,7 @@ entity
 entity
 {
 	"id" "1603035"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "0 0 0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -221535,7 +221535,7 @@ entity
 entity
 {
 	"id" "1603242"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0 138.5 82.5"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -221553,7 +221553,7 @@ entity
 entity
 {
 	"id" "1603257"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0 347 82.5"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -223939,7 +223939,7 @@ entity
 entity
 {
 	"id" "1604268"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "0 0 0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -672243,13 +672243,101 @@ entity
 		"logicalpos" "[2000 -768]"
 	}
 }
+entity
+{
+	"id" "1678294"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "928.223 4261.59 33"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1678312"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "1900.94 495.212 33"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[8010.98 -3867.38 146.34]"
-		"look" "[7981.95 -4008.75 -77.5981]"
+		"position" "[398.583 3509.3 93.1335]"
+		"look" "[570.63 3712.67 96.8997]"
 	}
 	camera
 	{

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "2"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "2"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"briefing" "#P3_ZHQA_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from zhqa"
@@ -171100,7 +171100,7 @@ entity
 entity
 {
 	"id" "233093"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 238.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171117,7 +171117,7 @@ entity
 entity
 {
 	"id" "233097"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 238.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171134,7 +171134,7 @@ entity
 entity
 {
 	"id" "233099"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 238.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171151,7 +171151,7 @@ entity
 entity
 {
 	"id" "233095"
-	"classname" "p3_weapon_m60"
+	"classname" "p3_weapon_m249"
 	"angles" "-69.4485 238.298 -63.0387"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171338,7 +171338,7 @@ entity
 entity
 {
 	"id" "233125"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 269.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171389,7 +171389,7 @@ entity
 entity
 {
 	"id" "233131"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 269.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171423,7 +171423,7 @@ entity
 entity
 {
 	"id" "233135"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 269.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -171440,7 +171440,7 @@ entity
 entity
 {
 	"id" "233129"
-	"classname" "p3_weapon_deserteagle"
+	"classname" "p3_weapon_colt"
 	"angles" "0.0138523 89.72 89.2263"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -180789,7 +180789,7 @@ entity
 {
 	"id" "852354"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -192467,7 +192467,7 @@ entity
 {
 	"id" "955887"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_deserteagle"
+	"additionalequipment" "p3_weapon_colt"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -309976,13 +309976,189 @@ entity
 		"logicalpos" "[14500 4000]"
 	}
 }
+entity
+{
+	"id" "960477"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 40 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "2681.53 -53.7519 205"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "960513"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "2421.76 -2972.12 264"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "960531"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "1950.25 -3090.95 456"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "960549"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "Sniper"
+	"ammo_prefab" "12"
+	"AmmoAmount" "20"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "3389.06 -2059.98 161"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5240.94 -1295.01 154.173]"
-		"look" "[5190.27 -1518.06 17.6326]"
+		"position" "[2394.08 -2961.45 288.954]"
+		"look" "[2615.29 -3049.04 169.136]"
 	}
 }
 cordon
