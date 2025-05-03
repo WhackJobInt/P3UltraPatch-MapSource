@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "0"
+	"mapversion" "1"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"briefing" "#P3_AS_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.7 from as"
@@ -242635,7 +242635,7 @@ entity
 entity
 {
 	"id" "18801"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "2.1439 70.104 -1.6421"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -242644,9 +242644,11 @@ entity
 	"fademindist" "4000"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -251409,7 +251411,7 @@ entity
 entity
 {
 	"id" "19120"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "2.1439 25.104 -1.6421"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -251418,9 +251420,11 @@ entity
 	"fademindist" "4000"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -251436,7 +251440,7 @@ entity
 entity
 {
 	"id" "19121"
-	"classname" "prop_static"
+	"classname" "p3_prop_tree"
 	"angles" "-0.3918 85.015 -4.483"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
@@ -251445,9 +251449,11 @@ entity
 	"fademindist" "4000"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/tree_05_eucalyptus_b.mdl"
+	"plant_type" "leaves_eucalyptus_med_b"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -251878,8 +251884,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-820.695 -736.411 276.239]"
-		"look" "[-568.066 -743.026 192]"
+		"position" "[-1070 579.706 316.788]"
+		"look" "[-1319.25 500.16 266.713]"
 	}
 }
 cordon
