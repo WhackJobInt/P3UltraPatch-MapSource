@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from aa1"
 	"detailmaterial" "detail/detailsprites"
@@ -57454,7 +57454,7 @@ world
 		{
 			"id" "5292"
 			"plane" "(-7120 120 268) (-7048 -504 268) (-7048 120 268)"
-			"material" "CITY/WALL_CITY_TILE08_A"
+			"material" "COMPOSITE/TILE_CEILING_01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[-1 0 0 10] 0.25"
 			"rotation" "0"
@@ -57508,7 +57508,7 @@ world
 		{
 			"id" "5297"
 			"plane" "(-7120 -432 268) (-8320 -504 268) (-7048 -504 268)"
-			"material" "CITY/WALL_CITY_TILE08_A"
+			"material" "COMPOSITE/TILE_CEILING_01"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 1 0 10] 0.25"
 			"rotation" "0"
@@ -545127,8 +545127,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-7656.44 -558.572 170.819]"
-		"look" "[-7664.35 -322.716 47.2377]"
+		"position" "[-7636.11 -787.422 214.399]"
+		"look" "[-7635.75 -521.359 201.201]"
 	}
 }
 cordon
