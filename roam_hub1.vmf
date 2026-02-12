@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "33"
+	"mapversion" "34"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "33"
+	"mapversion" "34"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -141199,6 +141199,7 @@ entity
 	"hintlimiting" "0"
 	"ignoreunseenenemies" "0"
 	"InitState" "st_init"
+	"Manner" "Lowlife"
 	"MeleeEquipment" "0"
 	"model" "models/characters/M_Avg_Bums/M_Avg_Bums.mdl"
 	"ModelTemplate" "pf_M_Avg_Bums"
@@ -418208,8 +418209,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2428.61 -3372.79 5.03967]"
-		"look" "[2612.16 -3180.04 16.195]"
+		"position" "[3824.55 -2214.24 72.0626]"
+		"look" "[4068.76 -2117.54 27.6368]"
 	}
 }
 cordon
