@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "30"
+	"mapversion" "31"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,14 +20,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "30"
+	"mapversion" "31"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub3"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "Hub_2_HDR"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "HUB2_SUNSET_04"
 	"startdark" "1"
 	solid
@@ -159858,6 +159857,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -159916,6 +159916,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -160000,6 +160001,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -160398,6 +160400,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_cop"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-848 -2756 28"
@@ -160452,6 +160455,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_cop"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-848 -2724 28"
@@ -160536,6 +160540,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_cop"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-848 -2792 28"
@@ -161859,6 +161864,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -161917,6 +161923,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -161974,6 +161981,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -162031,6 +162039,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -162088,6 +162097,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -162145,6 +162155,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -162229,6 +162240,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -162286,6 +162298,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-699.292 -2851.86 28"
@@ -163827,6 +163840,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "67.2245 718.302 32"
@@ -169282,6 +169296,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -169340,6 +169355,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -522126,6 +522142,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -522170,6 +522187,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -522217,8 +522235,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-512.507 -2369.76 107.159]"
-		"look" "[-284.727 -2507.88 107.996]"
+		"position" "[-1674.49 -266.459 106.881]"
+		"look" "[-1643.1 -530.855 98.4213]"
 	}
 	camera
 	{
