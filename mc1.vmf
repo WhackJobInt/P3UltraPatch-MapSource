@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "27"
+	"mapversion" "28"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "27"
+	"mapversion" "28"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc1"
 	"detailmaterial" "detail/detailsprites"
@@ -420216,7 +420216,7 @@ entity
 		side
 		{
 			"id" "34675"
-			"plane" "(-2157 -491 160) (-2157 -491 128) (-2157 -414 128)"
+			"plane" "(-2157 -576 160) (-2157 -576 128) (-2157 -414 128)"
 			"material" "TILES/WALL_TILE_01_A"
 			"uaxis" "[0 1 0 -468] 0.2"
 			"vaxis" "[0 0 -1 -225] 0.2"
@@ -420227,7 +420227,7 @@ entity
 		side
 		{
 			"id" "34676"
-			"plane" "(-2149 -414 160) (-2149 -414 128) (-2149 -491 128)"
+			"plane" "(-2149 -414 160) (-2149 -414 128) (-2149 -576 128)"
 			"material" "TILES/WALL_TILE_01_A"
 			"uaxis" "[0 1 0 -468] 0.2"
 			"vaxis" "[0 0 -1 -225] 0.2"
@@ -420238,7 +420238,7 @@ entity
 		side
 		{
 			"id" "34677"
-			"plane" "(-2149 -491 160) (-2149 -491 128) (-2157 -491 128)"
+			"plane" "(-2149 -576 160) (-2149 -576 128) (-2157 -576 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -420260,7 +420260,7 @@ entity
 		side
 		{
 			"id" "34679"
-			"plane" "(-2157 -414 128) (-2157 -491 128) (-2149 -491 128)"
+			"plane" "(-2157 -414 128) (-2157 -576 128) (-2149 -576 128)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -420271,7 +420271,7 @@ entity
 		side
 		{
 			"id" "34680"
-			"plane" "(-2157 -491 160) (-2157 -414 160) (-2149 -414 160)"
+			"plane" "(-2157 -576 160) (-2157 -414 160) (-2149 -414 160)"
 			"material" "TILES/WALL_TILE_01_A"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -424918,7 +424918,7 @@ entity
 		side
 		{
 			"id" "35108"
-			"plane" "(-2159 -491 164) (-2159 -491 160) (-2159 -414 160)"
+			"plane" "(-2159 -576 164) (-2159 -576 160) (-2159 -414 160)"
 			"material" "TRIMS/WALL_COMP_TRIM_01"
 			"uaxis" "[0 1 0 -455] 0.25"
 			"vaxis" "[0 0 -1 -43] 0.35"
@@ -424929,7 +424929,7 @@ entity
 		side
 		{
 			"id" "35109"
-			"plane" "(-2149 -414 164) (-2149 -414 160) (-2149 -491 160)"
+			"plane" "(-2149 -414 164) (-2149 -414 160) (-2149 -576 160)"
 			"material" "TRIMS/WALL_COMP_TRIM_01"
 			"uaxis" "[0 1 0 -455] 0.25"
 			"vaxis" "[0 0 -1 -43] 0.35"
@@ -424940,7 +424940,7 @@ entity
 		side
 		{
 			"id" "35110"
-			"plane" "(-2149 -491 164) (-2149 -491 160) (-2159 -491 160)"
+			"plane" "(-2149 -576 164) (-2149 -576 160) (-2159 -576 160)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -424962,7 +424962,7 @@ entity
 		side
 		{
 			"id" "35112"
-			"plane" "(-2159 -414 160) (-2159 -491 160) (-2149 -491 160)"
+			"plane" "(-2159 -414 160) (-2159 -576 160) (-2149 -576 160)"
 			"material" "TRIMS/WALL_COMP_TRIM_01"
 			"uaxis" "[0 1 0 -455] 0.25"
 			"vaxis" "[1 0 0 233] 0.35"
@@ -424973,7 +424973,7 @@ entity
 		side
 		{
 			"id" "35113"
-			"plane" "(-2159 -491 164) (-2159 -414 164) (-2149 -414 164)"
+			"plane" "(-2159 -576 164) (-2159 -414 164) (-2149 -414 164)"
 			"material" "TRIMS/WALL_COMP_TRIM_01"
 			"uaxis" "[0 1 0 -265] 0.25"
 			"vaxis" "[1 0 0 154] 0.15"
@@ -582873,6 +582873,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -582917,6 +582918,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -582961,6 +582963,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -582991,8 +582994,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3398.03 -2649.66 12.6819]"
-		"look" "[-3195 -2655.09 -159.687]"
+		"position" "[-2207.65 -398.303 239.149]"
+		"look" "[-2062.97 -530.097 58.426]"
 	}
 }
 cordon
