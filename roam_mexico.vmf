@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,14 +20,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_mexico"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "hub_2_hdr"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "hub2_sunset_04"
 	"startdark" "1"
 	solid
@@ -164394,6 +164393,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1232 -40 68"
@@ -164475,6 +164475,7 @@ entity
 	"StartState" "st_shop"
 	"StartWithWeapon" "3"
 	"targetname" "shopkeeper"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "2824 -960 60"
@@ -172001,6 +172002,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172060,6 +172062,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172144,6 +172147,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172204,6 +172208,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172262,6 +172267,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172322,6 +172328,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172382,6 +172389,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172441,6 +172449,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1719.96 3030.09 72.1553"
@@ -172496,6 +172505,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172555,6 +172565,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -172615,6 +172626,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173531,6 +173543,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_h"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173750,6 +173763,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173825,6 +173839,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173885,6 +173900,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173944,6 +173960,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -174003,6 +174020,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -174062,6 +174080,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -174121,6 +174140,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -174181,6 +174201,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -419222,8 +419243,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2622.21 -1971.65 50.0298]"
-		"look" "[2876.24 -1891.72 43.4974]"
+		"position" "[1593.08 2808.17 167.109]"
+		"look" "[1799.67 2934.6 56.1946]"
 	}
 }
 cordon
