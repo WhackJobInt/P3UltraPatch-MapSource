@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "11"
+	"mapversion" "12"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "11"
+	"mapversion" "12"
 	"classname" "worldspawn"
 	"briefing" "#P3_KMTD_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from kmtd"
@@ -478750,9 +478750,9 @@ entity
 		{
 			"id" "39694"
 			"plane" "(-7616 -504 232) (-7616 -504 90) (-7600 -504 90)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "CONCRETE/CONCRETE_WHITE_INNER_OLD_WALL_02_A"
+			"uaxis" "[-1 0 0 0] 0.35"
+			"vaxis" "[0 0 -1 255] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -585691,8 +585691,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-7630.84 -732.118 254.82]"
-		"look" "[-7626.08 -471.725 198.819]"
+		"position" "[-7532.1 -683.027 184.38]"
+		"look" "[-7685.12 -470.485 135.673]"
 	}
 }
 cordon
