@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "8"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,14 +38,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "8"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_rodeo"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "hub_2_hdr"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "HUB2_SUNSET_04"
 	"startdark" "1"
 	solid
@@ -102185,6 +102184,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "RonJeremy"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-1732.25 7250.57 40.1353"
@@ -103155,6 +103155,7 @@ entity
 	"StartState" "st_jerkoff"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_jerkoff"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "824 3104 136"
@@ -104082,6 +104083,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "64 1937.31 144"
@@ -104136,6 +104138,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "74.591 1808 136"
@@ -104190,6 +104193,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-1870.89 5891.16 40"
@@ -107045,6 +107049,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107106,6 +107111,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107182,6 +107188,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107243,6 +107250,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107302,6 +107310,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107363,6 +107372,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -107424,6 +107434,7 @@ entity
 	"StartState" "ev_chair"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_spectator"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -259015,6 +259026,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -259059,6 +259071,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -259103,6 +259116,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -259147,6 +259161,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -259177,8 +259192,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-963.746 2229.2 182.94]"
-		"look" "[-838.632 1999.92 130.557]"
+		"position" "[-1288.85 6368.21 165.558]"
+		"look" "[-1028.5 6313.92 150.036]"
 	}
 	camera
 	{
