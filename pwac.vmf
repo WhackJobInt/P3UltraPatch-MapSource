@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "9"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "4"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"briefing" "#P3_PWAC_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pwac"
@@ -118084,6 +118084,82 @@ world
 		editor
 		{
 			"color" "0 108 137"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "2981316"
+		side
+		{
+			"id" "34703"
+			"plane" "(280 1812 120) (280 1812 96) (280 1824 96)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "34702"
+			"plane" "(360 1824 120) (360 1824 96) (360 1812 96)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "34701"
+			"plane" "(360 1812 120) (360 1812 96) (280 1812 96)"
+			"material" "CITY/PEDASTRUM_CITY_TILE02"
+			"uaxis" "[0 0 -1 -15] 0.25"
+			"vaxis" "[1 0 0 -475] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "34700"
+			"plane" "(280 1824 120) (280 1824 96) (360 1824 96)"
+			"material" "POLICESTATION/PS_ROOM_FLOOR_A"
+			"uaxis" "[-1 0 0 -416] 0.25"
+			"vaxis" "[0 0 -1 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "34699"
+			"plane" "(280 1824 96) (280 1812 96) (360 1812 96)"
+			"material" "CITY/PEDASTRUM_CITY_TILE02"
+			"uaxis" "[0 1 0 33] 0.25"
+			"vaxis" "[1 0 0 -475] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "34698"
+			"plane" "(280 1812 120) (280 1824 120) (360 1824 120)"
+			"material" "POLICESTATION/PS_ROOM_FLOOR_A"
+			"uaxis" "[1 0 0 -416] 0.25"
+			"vaxis" "[0 -1 0 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -520412,8 +520488,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[437.944 1839.89 469.95]"
-		"look" "[274.803 1679.45 333.55]"
+		"position" "[350.801 1832.62 92.4074]"
+		"look" "[402.101 1576.4 40.6668]"
 	}
 }
 cordon
