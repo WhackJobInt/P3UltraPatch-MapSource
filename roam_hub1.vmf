@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "32"
+	"mapversion" "33"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "32"
+	"mapversion" "33"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -418059,13 +418059,157 @@ entity
 		"logicalpos" "[0 1500]"
 	}
 }
+entity
+{
+	"id" "7011826"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "2554.25 -3338.48 5.03967"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9000 500]"
+	}
+}
+entity
+{
+	"id" "7011828"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "1092.43 -2887.53 130.634"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9000 1000]"
+	}
+}
+entity
+{
+	"id" "7011830"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "1614.57 -3144.1 -30.2241"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9000 1500]"
+	}
+}
+entity
+{
+	"id" "7011832"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "3782.64 -3150.98 22.223"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9000 2000]"
+	}
+}
+entity
+{
+	"id" "7011834"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "189.36 -704.668 176"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 3000]"
+	}
+}
+entity
+{
+	"id" "7011836"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "665.938 -2108.31 175.707"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 4000]"
+	}
+}
+entity
+{
+	"id" "7011838"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "1375.47 -1058.59 174.28"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 4500]"
+	}
+}
+entity
+{
+	"id" "7011840"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "996.122 297.664 175.848"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 5000]"
+	}
+}
+entity
+{
+	"id" "7011842"
+	"classname" "info_npc_spawn_destination"
+	"angles" "0 0 0"
+	"ReuseDelay" "1"
+	"targetname" "spawn_animals"
+	"origin" "2720.82 572.369 168"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9500 5500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1980.34 -3081.76 -108.404]"
-		"look" "[2195.56 -2948.69 -191.695]"
+		"position" "[2428.61 -3372.79 5.03967]"
+		"look" "[2612.16 -3180.04 16.195]"
 	}
 }
 cordon
