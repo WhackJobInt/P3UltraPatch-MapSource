@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "77"
+	"mapversion" "78"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,14 +20,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "77"
+	"mapversion" "78"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from pa"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "Hub_2_HDR"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "hub2_sunset_04"
 	"startdark" "1"
 	solid
@@ -511964,7 +511963,7 @@ cameras
 	camera
 	{
 		"position" "[441.827 1750.86 235.467]"
-		"look" "[246.185 1612.85 118.694]"
+		"look" "[246.186 1612.85 118.694]"
 	}
 }
 cordon
