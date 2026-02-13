@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "30"
+	"mapversion" "31"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "30"
+	"mapversion" "31"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from dlg"
 	"detailmaterial" "detail/detailsprites"
@@ -44479,7 +44479,7 @@ world
 		side
 		{
 			"id" "4108"
-			"plane" "(8411 -3288 89.1667) (8411 -3288 60) (8411 -3170 60)"
+			"plane" "(8410 -3288 89.1667) (8410 -3288 60) (8410 -3170 60)"
 			"material" "DAVELAND/BG_CITY_01"
 			"uaxis" "[0 1 0 -483] 0.4"
 			"vaxis" "[0 0 -1 98] 0.4057"
@@ -44501,7 +44501,7 @@ world
 		side
 		{
 			"id" "4110"
-			"plane" "(8415 -3288 89.1667) (8415 -3288 60) (8411 -3288 60)"
+			"plane" "(8415 -3288 89.1667) (8415 -3288 60) (8410 -3288 60)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -44512,7 +44512,7 @@ world
 		side
 		{
 			"id" "4111"
-			"plane" "(8411 -3170 89.1667) (8411 -3170 60) (8415 -3170 60)"
+			"plane" "(8410 -3170 89.1667) (8410 -3170 60) (8415 -3170 60)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -44523,7 +44523,7 @@ world
 		side
 		{
 			"id" "4112"
-			"plane" "(8411 -3170 60) (8411 -3288 60) (8415 -3288 60)"
+			"plane" "(8410 -3170 60) (8410 -3288 60) (8415 -3288 60)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -44534,7 +44534,7 @@ world
 		side
 		{
 			"id" "4113"
-			"plane" "(8411 -3288 89.1667) (8411 -3170 89.1667) (8415 -3170 89.1667)"
+			"plane" "(8410 -3288 89.1667) (8410 -3170 89.1667) (8415 -3170 89.1667)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -672336,8 +672336,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2774.33 -389.965 106.513]"
-		"look" "[2987.76 -545.033 69.4354]"
+		"position" "[8383.41 -3148.79 99.5596]"
+		"look" "[8457.38 -3347.68 -61.511]"
 	}
 	camera
 	{
