@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "29"
+	"mapversion" "30"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "29"
+	"mapversion" "30"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from dlg"
 	"detailmaterial" "detail/detailsprites"
@@ -231814,7 +231814,7 @@ entity
 		{
 			"id" "11196"
 			"plane" "(2472 -1014 64) (2472 -962 64) (2472 -962 80)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -236026,7 +236026,7 @@ entity
 		{
 			"id" "11584"
 			"plane" "(2824 -520 48) (2824 -518 48) (2904 -518 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -96] 0.25"
 			"vaxis" "[0 1 0 -40] 0.25"
 			"rotation" "0"
@@ -236070,7 +236070,7 @@ entity
 		{
 			"id" "11588"
 			"plane" "(2824 -518 48) (2824 -518 32) (2904 -518 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -238816,7 +238816,7 @@ entity
 		{
 			"id" "11841"
 			"plane" "(2472 -510 96) (2472 -510 80) (2472 -464 80)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -238827,7 +238827,7 @@ entity
 		{
 			"id" "11842"
 			"plane" "(2600 -464 80) (2600 -510 80) (2600 -510 96)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -238871,7 +238871,7 @@ entity
 		{
 			"id" "11846"
 			"plane" "(2472 -472 96) (2472 -464 80) (2600 -463.998 80)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.4472 -0.8944 -335] 0.25"
 			"rotation" "0"
@@ -252419,7 +252419,7 @@ entity
 		{
 			"id" "13094"
 			"plane" "(2472 -1000 96) (2472 -962 96) (2472 -962 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -264318,7 +264318,7 @@ entity
 		{
 			"id" "14191"
 			"plane" "(2472 -864 124) (2472 -864 32) (2512 -864 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -264351,7 +264351,7 @@ entity
 		{
 			"id" "14194"
 			"plane" "(2472 -870 124) (2472 -870 32) (2472 -864 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -264448,7 +264448,7 @@ entity
 		{
 			"id" "14203"
 			"plane" "(2472 -510 80) (2472 -510 64) (2472 -458 64)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -264459,7 +264459,7 @@ entity
 		{
 			"id" "14204"
 			"plane" "(2600 -458 64) (2600 -510 64) (2600 -510 80)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -264503,7 +264503,7 @@ entity
 		{
 			"id" "14208"
 			"plane" "(2472 -463.998 80) (2472 -457.998 64) (2600 -457.998 64)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.3511 -0.9363 -500] 0.25"
 			"rotation" "0"
@@ -277845,7 +277845,7 @@ entity
 		{
 			"id" "15437"
 			"plane" "(2472 -457.998 64) (2472 -451.998 48) (2600 -451.998 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.3511 -0.9363 -500] 0.25"
 			"rotation" "0"
@@ -277856,7 +277856,7 @@ entity
 		{
 			"id" "15438"
 			"plane" "(2472 -510 64) (2472 -510 48) (2472 -452 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -277867,7 +277867,7 @@ entity
 		{
 			"id" "15439"
 			"plane" "(2600 -451.996 48) (2600 -510 48) (2600 -510 64)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -290406,7 +290406,7 @@ entity
 		{
 			"id" "16600"
 			"plane" "(2904 -510 80) (2904 -510 64) (2904 -458 64)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -297517,7 +297517,7 @@ entity
 		{
 			"id" "17258"
 			"plane" "(2510 -864 48) (2510 -864 32) (2510 -797 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 88] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -297572,7 +297572,7 @@ entity
 		{
 			"id" "17263"
 			"plane" "(2510 -864 48) (2510 -797 48) (2512 -797 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 88] 0.25"
 			"vaxis" "[-1 0 0 248] 0.25"
 			"rotation" "0"
@@ -303184,7 +303184,7 @@ entity
 		{
 			"id" "17787"
 			"plane" "(2472 -988 112) (2472 -962 112) (2472 -962 124)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -321844,7 +321844,7 @@ entity
 		{
 			"id" "19603"
 			"plane" "(2472 -510 112) (2472 -510 96) (2472 -472 96)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -321855,7 +321855,7 @@ entity
 		{
 			"id" "19604"
 			"plane" "(2600 -472.004 96) (2600 -510 96) (2600 -510 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -321899,7 +321899,7 @@ entity
 		{
 			"id" "19608"
 			"plane" "(2472 -484.002 112) (2600 -472 96) (2600 -484.001 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.6 -0.8 -83] 0.25"
 			"rotation" "0"
@@ -326448,7 +326448,7 @@ entity
 		{
 			"id" "20083"
 			"plane" "(2510 -675 48) (2510 -608 48) (2512 -608 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[-1 0 0 248] 0.25"
 			"rotation" "0"
@@ -326459,7 +326459,7 @@ entity
 		{
 			"id" "20084"
 			"plane" "(2510 -675 48) (2510 -675 32) (2510 -608 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -326860,7 +326860,7 @@ entity
 		{
 			"id" "20121"
 			"plane" "(2600 -510 124) (2600 -510 32) (2600 -520 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -330182,7 +330182,7 @@ entity
 		{
 			"id" "20427"
 			"plane" "(2472 -510 124) (2472 -510 112) (2472 -484 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -330193,7 +330193,7 @@ entity
 		{
 			"id" "20428"
 			"plane" "(2600 -484 112) (2600 -510 112) (2600 -510 124)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -330237,7 +330237,7 @@ entity
 		{
 			"id" "20432"
 			"plane" "(2472 -501.999 124) (2472 -483.999 112) (2600 -484.004 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.8575 -0.5145 288] 0.25"
 			"rotation" "0"
@@ -335188,7 +335188,7 @@ entity
 		{
 			"id" "20888"
 			"plane" "(2472 -452 48) (2472 -448 32) (2600 -448 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[-1 0 0 -137] 0.25"
 			"vaxis" "[0 0.2425 -0.9701 -178] 0.25"
 			"rotation" "0"
@@ -335199,7 +335199,7 @@ entity
 		{
 			"id" "20889"
 			"plane" "(2472 -510 48) (2472 -510 32) (2472 -448 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -335210,7 +335210,7 @@ entity
 		{
 			"id" "20890"
 			"plane" "(2600 -448 32) (2600 -510 32) (2600 -510 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -336871,7 +336871,7 @@ entity
 		{
 			"id" "21043"
 			"plane" "(2904 -510 48) (2904 -510 32) (2904 -448 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -340594,7 +340594,7 @@ entity
 		{
 			"id" "21386"
 			"plane" "(2472 -1008 80) (2472 -962 80) (2472 -962 96)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -349801,7 +349801,7 @@ entity
 		{
 			"id" "22234"
 			"plane" "(2471.09 -584 107) (2460 -584 32.8238) (2460 -542 32.8242)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 96] 0.25"
 			"vaxis" "[-0.1478 0 -0.989 48] 0.25"
 			"rotation" "0"
@@ -353090,7 +353090,7 @@ entity
 		{
 			"id" "22537"
 			"plane" "(2904 -520 124) (2904 -520 32) (2904 -510 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -364869,7 +364869,7 @@ entity
 		{
 			"id" "23622"
 			"plane" "(2472 -1020 48) (2472 -962 48) (2472 -962 64)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -372751,7 +372751,7 @@ entity
 		{
 			"id" "24348"
 			"plane" "(2600 -518 48) (2600 -518 32) (2744 -518 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -372773,7 +372773,7 @@ entity
 		{
 			"id" "24350"
 			"plane" "(2600 -520 48) (2600 -518 48) (2744 -518 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -480] 0.25"
 			"vaxis" "[0 1 0 -40] 0.25"
 			"rotation" "0"
@@ -375161,7 +375161,7 @@ entity
 		{
 			"id" "24570"
 			"plane" "(2512 -608 124) (2512 -608 32) (2495 -608 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[1 0 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -379351,7 +379351,7 @@ entity
 		{
 			"id" "24956"
 			"plane" "(2472 -560 124) (2472 -560 32) (2472 -510 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -384182,7 +384182,7 @@ entity
 		{
 			"id" "25401"
 			"plane" "(2904 -510 64) (2904 -510 48) (2904 -452 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -384334,7 +384334,7 @@ entity
 		{
 			"id" "25415"
 			"plane" "(2904 -510 124) (2904 -510 112) (2904 -484 112)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -388992,7 +388992,7 @@ entity
 		{
 			"id" "25844"
 			"plane" "(2904 -510 96) (2904 -510 80) (2904 -464 80)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -406048,7 +406048,7 @@ entity
 		{
 			"id" "27415"
 			"plane" "(2472 -1024 32) (2472 -962 32) (2472 -962 48)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -411661,7 +411661,7 @@ entity
 		{
 			"id" "27932"
 			"plane" "(2472 -962 124) (2472 -962 32) (2472 -869 32)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 1 0 448] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -425167,7 +425167,7 @@ entity
 		{
 			"id" "29176"
 			"plane" "(2904 -510 112) (2904 -510 96) (2904 -472 96)"
-			"material" "DAVELAND/STONE_WALL_00"
+			"material" "DAVELAND/STONE_WALL_00_WOOD"
 			"uaxis" "[0 -1 0 192] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
@@ -672336,8 +672336,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[439.03 4030.94 111.104]"
-		"look" "[380.099 3771.56 125.975]"
+		"position" "[2774.33 -389.965 106.513]"
+		"look" "[2987.76 -545.033 69.4354]"
 	}
 	camera
 	{
