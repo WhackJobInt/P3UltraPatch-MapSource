@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "1"
+	"mapversion" "4"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"briefing" "#P3_DLG_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dlg"
@@ -665377,7 +665377,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "524 5096 22"
 	editor
 	{
@@ -670291,7 +670291,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-34 4132 32"
 	editor
 	{
@@ -670318,7 +670318,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "541 2373 32"
 	editor
 	{
@@ -670345,7 +670345,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-205 1752 32"
 	editor
 	{
@@ -670372,7 +670372,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1533 1862 32"
 	editor
 	{
@@ -670399,7 +670399,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1602 129 32"
 	editor
 	{
@@ -670426,7 +670426,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "639 1095 32"
 	editor
 	{
@@ -670453,7 +670453,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-653 1432 32"
 	editor
 	{
@@ -670480,7 +670480,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1144 1731 32"
 	editor
 	{
@@ -670507,7 +670507,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1059 604 32"
 	editor
 	{
@@ -670534,7 +670534,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "83 212 32.0606"
 	editor
 	{
@@ -670561,7 +670561,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "877 1050 33"
 	editor
 	{
@@ -670588,7 +670588,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-33 -55 32"
 	editor
 	{
@@ -670615,7 +670615,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2816 -261 32"
 	editor
 	{
@@ -670642,7 +670642,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1499 -1799 32"
 	editor
 	{
@@ -670912,7 +670912,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-72 -436 32"
 	editor
 	{
@@ -670939,7 +670939,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-432 -939 32"
 	editor
 	{
@@ -670966,7 +670966,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "694 -1860 32"
 	editor
 	{
@@ -670993,7 +670993,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "875 -961 32"
 	editor
 	{
@@ -671020,7 +671020,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "1299 -1555 32"
 	editor
 	{
@@ -671884,7 +671884,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "204 2916 32"
 	editor
 	{
@@ -671911,7 +671911,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-544 -440 32"
 	editor
 	{
@@ -671938,7 +671938,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2248 -1356 32"
 	editor
 	{
@@ -673454,7 +673454,7 @@ entity
 	"model" "models/garbage/puddle_03.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-928 452 32"
 	editor
 	{
@@ -673734,8 +673734,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1127.71 5498.65 269.239]"
-		"look" "[1062.31 5254.54 185]"
+		"position" "[377.601 4847.86 141.365]"
+		"look" "[581.45 5012.94 94.9478]"
 	}
 	camera
 	{
