@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "36"
+	"mapversion" "37"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,14 +32,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "36"
+	"mapversion" "37"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.11 from mlg"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "cashmart_hdr"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "hub2_sunset_04_02"
 	"startdark" "1"
 	solid
@@ -248355,6 +248354,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -249081,6 +249081,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -250379,6 +250380,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -494311,6 +494313,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -494355,6 +494358,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
