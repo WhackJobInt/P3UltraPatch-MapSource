@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "28"
+	"mapversion" "29"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "28"
+	"mapversion" "29"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from dlg"
 	"detailmaterial" "detail/detailsprites"
@@ -642880,7 +642880,7 @@ entity
 	"id" "49153"
 	"classname" "info_overlay"
 	"BasisNormal" "0.9222 0.3867 -0"
-	"BasisOrigin" "737.19 4290.3901 123"
+	"BasisOrigin" "737.19 4290.39 123"
 	"BasisU" "-0.3867 0.9222 0"
 	"BasisV" "0 0 1"
 	"EndU" "1"
@@ -646219,7 +646219,7 @@ entity
 	"fademindist" "-1"
 	"material" "daveland/grace_dec_01"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "29826"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-40.5 -32 0"
@@ -646249,7 +646249,7 @@ entity
 	"fademindist" "-1"
 	"material" "daveland/grace_dec_01"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "29361"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-40.5 -32 0"
@@ -646279,7 +646279,7 @@ entity
 	"fademindist" "-1"
 	"material" "daveland/grace_dec_01"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "29378"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-40.5 -32 0"
@@ -646309,7 +646309,7 @@ entity
 	"fademindist" "-1"
 	"material" "daveland/grace_dec_01"
 	"RenderOrder" "0"
-	"sides" "29361"
+	"sides" "30057"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-40.5 -32 0"
@@ -648979,7 +648979,6 @@ entity
 	"fademindist" "-1"
 	"material" "decals/billboard_enigma"
 	"RenderOrder" "0"
-	"sides" ""
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-38 -18 0"
@@ -649009,7 +649008,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/shop_poster_08"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "41259"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-32 -32 0"
@@ -650239,7 +650238,7 @@ entity
 	"fademindist" "-1"
 	"material" "overlays/asphalt_01_patches"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "5138"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-63.9999 -40 0"
@@ -650929,7 +650928,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/graffiti_stung"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "33233"
 	"StartU" "1"
 	"StartV" "0"
 	"uv0" "-46.6279 -32 0"
@@ -672337,8 +672336,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[7952.31 -3593.59 252.314]"
-		"look" "[7955.04 -3345.88 154.286]"
+		"position" "[439.03 4030.94 111.104]"
+		"look" "[380.099 3771.56 125.975]"
 	}
 	camera
 	{
