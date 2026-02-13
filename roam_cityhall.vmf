@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from sbe"
 	"detailmaterial" "detail/detailsprites"
@@ -28,7 +28,6 @@ world
 	"hdr" "Hub_2_HDR"
 	"maxpropscreenwidth" "-1"
 	"message" "city hall"
-	"playerskin" "coat"
 	"skyname" "hub2_sunset_04_02"
 	"startdark" "1"
 	solid
@@ -135868,6 +135867,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_visitor"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -135925,6 +135925,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_visitor"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -135983,6 +135984,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_visitor"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -136041,6 +136043,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_visitor"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -136098,6 +136101,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_visitor"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -136294,6 +136298,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_worker"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -136352,6 +136357,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_worker"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -139439,6 +139445,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_worker"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -139496,6 +139503,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_worker"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -273709,6 +273717,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"

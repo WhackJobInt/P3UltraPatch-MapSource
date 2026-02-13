@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "41"
+	"mapversion" "42"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,13 +32,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "41"
+	"mapversion" "42"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from cm"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "HUB2_SUNSET_04"
 	"startdark" "1"
 	solid
@@ -81694,6 +81693,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"origin" "-695.483 -221 30"
 	editor
 	{
@@ -82170,6 +82170,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_unique"
+	"waitingtorappel" "No"
 	"origin" "783.762 -268.771 332"
 	editor
 	{
@@ -230471,6 +230472,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230531,6 +230533,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230589,6 +230592,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230647,6 +230651,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230704,6 +230709,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230761,6 +230767,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230818,6 +230825,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -230875,6 +230883,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_o"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231013,6 +231022,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231073,6 +231083,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231131,6 +231142,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231188,6 +231200,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231246,6 +231259,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231306,6 +231320,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231366,6 +231381,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231453,6 +231469,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231511,6 +231528,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231569,6 +231587,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231627,6 +231646,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231687,6 +231707,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_w"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -231744,6 +231765,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_civil_b"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -232382,8 +232404,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[717.121 -290.392 395.611]"
-		"look" "[618.446 -438.957 197.743]"
+		"position" "[-100.173 -220.923 146.131]"
+		"look" "[147.271 -134.714 98.1812]"
 	}
 }
 cordon

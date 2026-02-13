@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "17"
+	"mapversion" "18"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,14 +32,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "17"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from crm"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "crm_hdr"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "HUB2_SUNSET_04"
 	"startdark" "1"
 	solid
@@ -376839,6 +376838,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "bum"
+	"waitingtorappel" "No"
 	"origin" "6595.79 -4.17815 -1063.82"
 	editor
 	{
@@ -377367,6 +377367,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "zombie"
+	"waitingtorappel" "No"
 	"origin" "6707.94 -25.127 -1049.27"
 	editor
 	{
@@ -379754,6 +379755,7 @@ entity
 	"StartState" "st_sitting"
 	"StartWithWeapon" "3"
 	"targetname" "female_hobo"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "6089 485.403 -1003"
@@ -705752,6 +705754,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -705796,6 +705799,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -705840,6 +705844,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -705884,6 +705889,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
@@ -705928,6 +705934,7 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
