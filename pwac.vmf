@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "11"
 	"classname" "worldspawn"
 	"briefing" "#P3_PWAC_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pwac"
@@ -118159,7 +118159,7 @@ world
 		}
 		editor
 		{
-			"color" "0 180 0"
+			"color" "0 147 244"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -239606,7 +239606,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
@@ -520380,7 +520380,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
@@ -520483,13 +520483,31 @@ entity
 		"logicalpos" "[-10268 16000]"
 	}
 }
+entity
+{
+	"id" "2996078"
+	"classname" "p3_weapon_autoshotgun"
+	"angles" "-88.5 270 0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"spawnflags" "1"
+	"origin" "1342 1200 9.99999"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[350.801 1832.62 92.4074]"
-		"look" "[402.101 1576.4 40.6668]"
+		"position" "[1355.44 1142.97 33.9488]"
+		"look" "[1387.11 1398.07 -35.8934]"
 	}
 }
 cordon
