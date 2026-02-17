@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "62"
+	"mapversion" "63"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "62"
+	"mapversion" "63"
 	"classname" "worldspawn"
 	"briefing" "#P3_PW_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from pw"
@@ -66457,7 +66457,7 @@ entity
 	"opendir" "0"
 	"returndelay" "2"
 	"skin" "1"
-	"spawnflags" "40960"
+	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
 	"targetname" "door_toilet"
@@ -312583,8 +312583,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[454.12 -239.758 -35.1635]"
-		"look" "[424.988 -460.727 -181.067]"
+		"position" "[1311.55 -361.132 -50.1929]"
+		"look" "[1289.98 -622.897 -94.6632]"
 	}
 }
 cordon
