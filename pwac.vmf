@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "13"
+	"mapversion" "14"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "14"
 	"classname" "worldspawn"
 	"briefing" "#P3_PWAC_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pwac"
@@ -226875,12 +226875,14 @@ entity
 	"disableshadows" "0"
 	"DontPickupWeapons" "No"
 	"DontUseSpeechSemaphore" "0"
+	"Faction" "Citizens"
 	"FSMBehavior" "bh_al_prisoner"
 	"GameEndAlly" "No"
 	"habitatid" "-1"
 	"hintlimiting" "0"
 	"ignoreunseenenemies" "0"
 	"InitState" "st_init"
+	"Manner" "Mission"
 	"MeleeEquipment" "0"
 	"model" "models/characters/AlGore/AlGore_prisoner.mdl"
 	"ModelTemplate" "#AlGore_prisoner"
@@ -520551,8 +520553,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[181.214 -168.262 -171.164]"
-		"look" "[-83.2086 -161.444 -202.702]"
+		"position" "[-18.9624 -644.763 -165.908]"
+		"look" "[-249.852 -772.342 -202.979]"
 	}
 }
 cordon
