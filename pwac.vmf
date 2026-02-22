@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "12"
+	"mapversion" "13"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "12"
+	"mapversion" "13"
 	"classname" "worldspawn"
 	"briefing" "#P3_PWAC_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from pwac"
@@ -231360,7 +231360,7 @@ entity
 {
 	"id" "2859819"
 	"classname" "p3_npc_citizen"
-	"additionalequipment" "p3_weapon_shotgun"
+	"additionalequipment" "p3_weapon_autoshotgun"
 	"AlertHearRange" "960"
 	"AlertViewRange" "960"
 	"AlwaysTransition" "No"
@@ -520551,8 +520551,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1288.46 1087.2 75.1487]"
-		"look" "[1091.71 1207.66 -58.0408]"
+		"position" "[181.214 -168.262 -171.164]"
+		"look" "[-83.2086 -161.444 -202.702]"
 	}
 }
 cordon
