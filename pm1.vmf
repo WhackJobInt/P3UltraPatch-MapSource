@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "25"
+	"mapversion" "26"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "26"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM1_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm1"
@@ -583627,13 +583627,27 @@ entity
 		"logicalpos" "[-3268 11000]"
 	}
 }
+entity
+{
+	"id" "2598514"
+	"classname" "env_cubemap"
+	"cubemapsize" "7"
+	"origin" "-4352 -2000 108"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-7644.67 -657.602 166.908]"
-		"look" "[-7681.01 -394.69 144.039]"
+		"position" "[-4218.27 -1992.87 120.07]"
+		"look" "[-4482.35 -2007.03 87.9522]"
 	}
 }
 cordon
