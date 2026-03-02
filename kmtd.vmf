@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "13"
+	"mapversion" "14"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "14"
 	"classname" "worldspawn"
 	"briefing" "#P3_KMTD_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from kmtd"
@@ -93735,7 +93735,6 @@ entity
 	"opendir" "0"
 	"returndelay" "3"
 	"skin" "0"
-	"slavename" "st_02"
 	"spawnflags" "40960"
 	"spawnpos" "0"
 	"speed" "100"
@@ -93766,7 +93765,6 @@ entity
 	"opendir" "0"
 	"returndelay" "3"
 	"skin" "0"
-	"slavename" "st_02"
 	"spawnflags" "43008"
 	"spawnpos" "0"
 	"speed" "100"
@@ -585691,8 +585689,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-6301.03 907.764 127.326]"
-		"look" "[-6039.93 923.059 76.7915]"
+		"position" "[-7748.97 -1522.98 227.446]"
+		"look" "[-7916.43 -1729.42 210.091]"
 	}
 }
 cordon
