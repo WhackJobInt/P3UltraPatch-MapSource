@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"briefing" "#P3_KMTD_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from kmtd"
@@ -585034,7 +585034,6 @@ entity
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
 	"origin" "-3093.99 2468.02 25"
-	"parentname" "ji_01"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -585042,7 +585041,7 @@ entity
 	"renderamt" "90"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "0"
+	"rendermode" "2"
 	"spawnflags" "0"
 	"spawnobject" "0"
 	solid
@@ -585145,7 +585144,6 @@ entity
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
 	"origin" "-3050 2467.99 24.99"
-	"parentname" "ji_02"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -585153,7 +585151,7 @@ entity
 	"renderamt" "90"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "0"
+	"rendermode" "2"
 	"spawnflags" "0"
 	"spawnobject" "0"
 	solid
@@ -585256,7 +585254,6 @@ entity
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
 	"origin" "-3050.01 2467.99 -15.87"
-	"parentname" "ji_02"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -585264,7 +585261,7 @@ entity
 	"renderamt" "90"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "0"
+	"rendermode" "2"
 	"spawnflags" "0"
 	"spawnobject" "0"
 	solid
@@ -585367,7 +585364,6 @@ entity
 	"minhealthdmg" "0"
 	"nodamageforces" "0"
 	"origin" "-3093.98 2468.02 -15.87"
-	"parentname" "ji_01"
 	"PerformanceMode" "0"
 	"physdamagescale" "1.0"
 	"pressuredelay" "0"
@@ -585375,7 +585371,7 @@ entity
 	"renderamt" "90"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
-	"rendermode" "0"
+	"rendermode" "2"
 	"spawnflags" "0"
 	"spawnobject" "0"
 	solid
@@ -585689,8 +585685,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3115.41 2348.69 31.8811]"
-		"look" "[-3057.71 2597.64 -43.331]"
+		"position" "[-3011.52 2383.51 37.7766]"
+		"look" "[-3158.42 2600.06 -12.139]"
 	}
 }
 cordon
