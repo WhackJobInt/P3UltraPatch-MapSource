@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "37"
+	"mapversion" "39"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "37"
+	"mapversion" "39"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM1_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm1"
@@ -94743,7 +94743,6 @@ entity
 	"parentname" "door_r1"
 	"returndelay" "3"
 	"skin" "0"
-	"slavename" "st_02"
 	"spawnflags" "40960"
 	"spawnpos" "0"
 	"speed" "100"
@@ -583016,8 +583015,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-6589.64 -1463.48 255.096]"
-		"look" "[-6445.53 -1240.99 228.527]"
+		"position" "[-7880.35 -1815.77 223.146]"
+		"look" "[-8062.03 -1990.42 136.747]"
 	}
 }
 cordon
