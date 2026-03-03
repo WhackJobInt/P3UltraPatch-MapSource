@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "16"
+	"mapversion" "17"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "16"
+	"mapversion" "17"
 	"classname" "worldspawn"
 	"briefing" "#P3_SRM_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from srm"
@@ -75680,36 +75680,25 @@ entity
 entity
 {
 	"id" "304932"
-	"classname" "prop_dynamic_override"
+	"classname" "prop_static"
 	"angles" "0 180 0"
-	"disablereceiveshadows" "0"
+	"disableselfshadowing" "0"
 	"disableshadows" "1"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
+	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"health" "0"
-	"MaxAnimTime" "10"
+	"ignorenormals" "0"
 	"maxdxlevel" "0"
-	"MinAnimTime" "5"
 	"mindxlevel" "0"
 	"model" "models/doors_windows/win_door_01b_double.mdl"
-	"PerformanceMode" "0"
-	"pressuredelay" "0"
-	"RandomAnimation" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"SetBodyGroup" "0"
+	"screenspacefade" "0"
 	"skin" "1"
 	"solid" "6"
-	"spawnflags" "0"
 	"origin" "-1727 -1021 126"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 9500]"
@@ -585244,8 +585233,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2741.86 -2005.14 115.974]"
-		"look" "[-3003.37 -1955.26 106.678]"
+		"position" "[-1528.55 -1131.5 167.871]"
+		"look" "[-1767 -1019.29 128.956]"
 	}
 }
 cordon
