@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"briefing" "#P3_CM_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from cm"
@@ -48203,7 +48203,7 @@ entity
 	"renderfx" "0"
 	"rendermode" "0"
 	"sounds" "0"
-	"spawnflags" "1056"
+	"spawnflags" "1057"
 	"speed" "5"
 	"unlocked_sentence" "0"
 	"unlocked_sound" "0"
@@ -232446,8 +232446,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[742.458 -318.239 392.544]"
-		"look" "[557.687 -312.449 200.744]"
+		"position" "[890.773 -265.799 394.178]"
+		"look" "[759.985 -494.215 353.171]"
 	}
 }
 cordon
