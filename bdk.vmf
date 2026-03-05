@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "1"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "2"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"briefing" "#P3_BDK_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.7 from bdk"
@@ -30170,7 +30170,7 @@ world
 		{
 			"id" "2778"
 			"plane" "(344 -576 100.759) (344 -576 -16.2414) (344 -440 -16.2414)"
-			"material" "BRICKS/MALL_BRKS_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -30181,7 +30181,7 @@ world
 		{
 			"id" "2779"
 			"plane" "(368 -440 100.759) (368 -440 -16.2414) (368 -576 -16.2414)"
-			"material" "AD/HUB3_BIG_BANNER_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -30192,7 +30192,7 @@ world
 		{
 			"id" "2780"
 			"plane" "(368 -576 100.759) (368 -576 -16.2414) (344 -576 -16.2414)"
-			"material" "AD/HUB3_BIG_BANNER_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -30203,7 +30203,7 @@ world
 		{
 			"id" "2781"
 			"plane" "(344 -440 100.759) (344 -440 -16.2414) (368 -440 -16.2414)"
-			"material" "AD/HUB3_BIG_BANNER_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -30214,7 +30214,7 @@ world
 		{
 			"id" "2782"
 			"plane" "(344 -440 -16.2414) (344 -576 -16.2414) (368 -576 -16.2414)"
-			"material" "AD/HUB3_BIG_BANNER_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -30225,7 +30225,7 @@ world
 		{
 			"id" "2783"
 			"plane" "(344 -576 100.759) (344 -440 100.759) (368 -440 100.759)"
-			"material" "AD/HUB3_BIG_BANNER_01"
+			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -230443,13 +230443,123 @@ entity
 		"logicalpos" "[-12768 2500]"
 	}
 }
+entity
+{
+	"id" "1479796"
+	"classname" "func_detail"
+	solid
+	{
+		"id" "1479797"
+		side
+		{
+			"id" "16717"
+			"plane" "(1330 -1316 28) (1330 -1308 28) (1330 -1308 108)"
+			"material" "PORNWORLD/SHELF_LIGHTBOX_01"
+			"uaxis" "[0 0 -1 41] 0.4"
+			"vaxis" "[0 1 0 -0.571426] 0.35"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16716"
+			"plane" "(1338 -1307 108) (1338 -1307 28) (1338 -1317 28)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 -40] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16715"
+			"plane" "(1338 -1317 108) (1338 -1317 28) (1331 -1317 28)"
+			"material" "PORNWORLD/SHELF_LIGHTBOX_01"
+			"uaxis" "[0 0 -1 41] 0.4"
+			"vaxis" "[-1 0 0 37.1429] 0.35"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16714"
+			"plane" "(1331 -1307 28) (1338 -1307 28) (1338 -1307 108)"
+			"material" "PORNWORLD/SHELF_TILE_01"
+			"uaxis" "[1 0 0 -32] 0.25"
+			"vaxis" "[0 0 -1 240] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16713"
+			"plane" "(1330 -1308 28) (1330 -1316 28) (1331 -1317 28)"
+			"material" "PORNWORLD/SHELF_LIGHTBOX_01"
+			"uaxis" "[-1 0 0 -217.5] 0.4"
+			"vaxis" "[0 -1 0 74.5714] 0.35"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16712"
+			"plane" "(1330 -1316 108) (1330 -1308 108) (1331 -1307 108)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 4] 0.25"
+			"vaxis" "[0 -1 0 40] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16711"
+			"plane" "(1331 -1317 108) (1331 -1317 28) (1330 -1316 28)"
+			"material" "PORNWORLD/SHELF_LIGHTBOX_01"
+			"uaxis" "[0 0 -1 41] 0.4"
+			"vaxis" "[-0.7071 0.7071 0 -80.2231] 0.35"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16710"
+			"plane" "(1330 -1308 108) (1330 -1308 28) (1331 -1307 28)"
+			"material" "PORNWORLD/SHELF_LIGHTBOX_01"
+			"uaxis" "[0 0 -1 41] 0.4"
+			"vaxis" "[0.7071 0.7071 0 57.8174] 0.35"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "0 180 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[3500 5500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2010.88 194.17 66.8658]"
-		"look" "[2054.17 -67.3674 40.7085]"
+		"position" "[2936.17 -615.637 109.578]"
+		"look" "[2670.55 -596.126 114.993]"
 	}
 }
 cordon
