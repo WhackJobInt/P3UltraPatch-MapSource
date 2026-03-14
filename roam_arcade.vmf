@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "1"
+	"mapversion" "2"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,14 +20,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "2"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from roam_arcade"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"hdr" "Hub_2_HDR"
 	"maxpropscreenwidth" "-1"
-	"playerskin" "coat"
 	"skyname" "HUB2_SUNSET_04"
 	"startdark" "1"
 	solid
@@ -34461,6 +34460,7 @@ entity
 	connections
 	{
 		"OnMapSpawn" "rotated_objects,SetAnimation,idle,0,-1"
+		"OnNewGame" "mission_logic,FireFSMScriptEvent,OnNewGame,0,-1"
 	}
 	"origin" "-518 -746 392"
 	editor
@@ -229295,8 +229295,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-776.143 -569.486 305.938]"
-		"look" "[-645.448 -791.361 237.734]"
+		"position" "[-434.968 -316.408 354.656]"
+		"look" "[-601.942 -354.345 150.593]"
 	}
 }
 cordon
