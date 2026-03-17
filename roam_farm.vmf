@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from roam_farm"
 	"detailmaterial" "detail/detailsprites"
@@ -72723,7 +72723,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1771.69 -374.327 64]"
+				"startposition" "[1771.69 -374.328 64]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -72858,7 +72858,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1513.91 -470.901 64]"
+				"startposition" "[1513.91 -470.902 64]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -76638,7 +76638,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[4592 -739.79 56]"
+				"startposition" "[4592 -739.789 56]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -77988,7 +77988,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1561.09 -666.16 136]"
+				"startposition" "[1561.09 -666.159 136]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -78258,7 +78258,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[433.565 -1478.02 132]"
+				"startposition" "[433.564 -1478.02 132]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -78393,7 +78393,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[303.295 -1865.58 132]"
+				"startposition" "[303.293 -1865.58 132]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -80562,7 +80562,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2580 408.918 164]"
+				"startposition" "[2580 408.917 164]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -80697,7 +80697,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2920.01 500.019 164]"
+				"startposition" "[2920.01 500.018 164]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -80832,7 +80832,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[2920.01 500.018 164]"
+				"startposition" "[2920 500.018 164]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -81237,7 +81237,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[32 549.663 126]"
+				"startposition" "[32 549.664 126]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -87435,7 +87435,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[34.815 -3952 398]"
+				"startposition" "[34.8151 -3952 398]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -87594,7 +87594,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[243.932 -4236 378.069]"
+				"startposition" "[243.934 -4236 378.07]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -96924,7 +96924,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[2768 1056 311.788]"
+				"startposition" "[2768 1056 311.787]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97377,7 +97377,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[448 855.536 132.932]"
+				"startposition" "[448 855.535 132.932]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97512,7 +97512,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[-8.45439 592 106.144]"
+				"startposition" "[-8.45514 592 106.145]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97647,7 +97647,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[448 855.536 132.932]"
+				"startposition" "[448 855.535 132.932]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -97782,7 +97782,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-121.401 -1724.59 472]"
+				"startposition" "[-121.4 -1724.59 472]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98394,7 +98394,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[208.464 -1336 69.0593]"
+				"startposition" "[208.466 -1335.99 69.0595]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -98529,7 +98529,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[208.465 -1336 69.0604]"
+				"startposition" "[208.464 -1336 69.0602]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -106308,7 +106308,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[6811.36 -1940.16 288.668]"
+				"startposition" "[6811.36 -1940.16 288.667]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -107118,7 +107118,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1283.6 -2332 358.839]"
+				"startposition" "[1283.6 -2332 358.84]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -107658,7 +107658,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1283.6 -2358 358.843]"
+				"startposition" "[1283.6 -2358 358.841]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -109548,7 +109548,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1610 -2051 356.841]"
+				"startposition" "[1610 -2051 356.842]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -110358,7 +110358,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[1862 -2336 352.84]"
+				"startposition" "[1862 -2336 352.839]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -129495,7 +129495,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[5312 -2944 64]"
+				"startposition" "[5312 -2943.99 64]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -143931,7 +143931,7 @@ world
 			dispinfo
 			{
 				"power" "2"
-				"startposition" "[3560 -3697.99 48.0115]"
+				"startposition" "[3560 -3698 48.0124]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "0"
@@ -153547,7 +153547,7 @@ world
 					"row1" "0.993156 -0.104109 0.0529445 0.561374 0.135205 0.816443 0.248061 -0.0307656 0.968256 0.376921 0 0.926245 -0.478562 0.874686 0.0768264"
 					"row2" "0.524824 -0.850502 0.0347172 0.886442 -0.422139 0.189787 0.852515 -0.0299448 0.521845 0.832146 0 0.554557 0.856629 0.211489 0.470595"
 					"row3" "0.89575 -0.442609 0.0415775 0.954051 -0.238606 0.181255 0.967798 0 0.251728 0.967197 0 0.254029 0.966913 0 0.255108"
-					"row4" "0.887361 -0.451725 0.0923877 0.943884 -0.313966 0.10251 0.982778 -0.143272 0.116705 0.991758 8.47976e-006 0.128122 0.997991 0 0.0633529"
+					"row4" "0.887361 -0.451725 0.0923877 0.943884 -0.313966 0.10251 0.982778 -0.143272 0.116705 0.991758 8.47976e-006 0.128122 0.999162 0 0.0409308"
 				}
 				distances
 				{
@@ -153555,7 +153555,7 @@ world
 					"row1" "31.7488 6.12946 6.43172 6.55626 21.098"
 					"row2" "26.6754 11.2968 10.6968 11.7064 8.48593"
 					"row3" "32.5896 26.9346 26.101 18.4802 12.0018"
-					"row4" "39.2835 35.2953 30.9386 28.791 18.231"
+					"row4" "39.2835 35.2953 30.9386 28.791 28.218"
 				}
 				offsets
 				{
@@ -153686,7 +153686,7 @@ world
 					"row5" "0.188149 0.98214 0 0.935915 0.352226 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0"
 					"row6" "-0.498088 0.867127 0 -0.223802 0.974635 0 0.699555 0.714579 0 0.999922 0.0124818 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0"
 					"row7" "-0.580651 0.814152 0 -0.538567 0.842583 0 -0.335434 0.942064 0 0.671893 0.740648 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0"
-					"row8" "-0.476678 0.878573 0.0297929 -10.8484 19.9173 1.17295 -0.478562 0.874686 0.0768264 -1.41345 10.1245 2.80716 0.856629 0.211489 0.470595 9.43683 0.897459 3.5276 0.966913 0 0.255108 14.8994 0 2.10838 0.997991 0 0.0633529"
+					"row8" "-0.476678 0.878573 0.0297929 -0.477686 0.877011 0.0516483 -0.478562 0.874686 0.0768264 -0.133355 0.955038 0.2648 0.856629 0.211489 0.470595 0.933003 0.088717 0.348761 0.966913 0 0.255108 0.994434 0 0.105361 0.999162 0 0.0409308"
 				}
 				distances
 				{
@@ -153697,8 +153697,8 @@ world
 					"row4" "12.3298 20.6243 27.959 34.1304 39.0769 42.9197 45.7458 47.4883 48.2239"
 					"row5" "7.89714 11.8166 18.3364 24.4395 29.2781 32.9919 35.6235 37.2207 37.8254"
 					"row6" "15.4904 11.7051 9.19705 14.2003 18.6248 22.1721 24.6123 26.0098 26.4346"
-					"row7" "20.5454 18.4373 12.6141 7.52778 9.68286 12.3337 14.1699 15.2144 15.5068"
-					"row8" "24.3353 1 21.098 1 8.48593 1 12.0018 1 18.231"
+					"row7" "20.5454 18.4373 12.6141 7.52778 9.68286 12.3337 14.1699 15.2144 25.5068"
+					"row8" "24.3353 22.7103 21.098 10.601 8.48593 10.1146 12.0018 20.0109 28.218"
 				}
 				offsets
 				{
@@ -153722,7 +153722,7 @@ world
 					"row5" "-0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1"
 					"row6" "-0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1"
 					"row7" "-0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1"
-					"row8" "-0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1 -0 -0 1"
+					"row8" "0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1"
 				}
 				alphas
 				{
@@ -309853,8 +309853,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5723.63 -3515.11 259.334]"
-		"look" "[5821.59 -3277.44 189.49]"
+		"position" "[3679.11 -2185.89 208.405]"
+		"look" "[3495.92 -2254.02 27.4116]"
 	}
 }
 cordon
