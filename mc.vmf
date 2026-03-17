@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "18"
+	"mapversion" "19"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "18"
+	"mapversion" "19"
 	"classname" "worldspawn"
 	"briefing" "#P3_MC_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc"
@@ -148344,7 +148344,7 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2274.32 -1619.95 29"
+	"origin" "2282.48 -1620.09 29"
 	editor
 	{
 		"color" "220 30 220"
@@ -148383,7 +148383,7 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2311.84 -1619.86 29"
+	"origin" "2320 -1620 29"
 	editor
 	{
 		"color" "220 30 220"
@@ -381163,33 +381163,6 @@ entity
 }
 entity
 {
-	"id" "27926"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "1"
-	"fademaxdist" "2530"
-	"fademindist" "2502"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/lights/light_post_01.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "1909 -2160.91 21.134"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-15268 6500]"
-	}
-}
-entity
-{
 	"id" "27927"
 	"classname" "prop_static"
 	"angles" "1.299 155.492 -0.7501"
@@ -414094,13 +414067,40 @@ entity
 		"logicalpos" "[0 2000]"
 	}
 }
+entity
+{
+	"id" "6946701"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "1"
+	"fademaxdist" "2530"
+	"fademindist" "2502"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/lights/light_post_01.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "1903 -2155 13"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-16268 -12768]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3776.21 -2316.18 89.8275]"
-		"look" "[3938.09 -2112.45 32.8046]"
+		"position" "[1909.39 -2255.07 65.9523]"
+		"look" "[1957.29 -2005.65 -14.4197]"
 	}
 }
 cordon
