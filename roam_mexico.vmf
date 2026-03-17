@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "7"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "2"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "7"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_mexico"
 	"detailmaterial" "detail/detailsprites"
@@ -151948,6 +151948,7 @@ entity
 		"OnMapSpawn" "hdr_controller,SetAutoExposureMin,0.4,0,-1"
 		"OnMapSpawn" "hdr_controller,SetBloomScaleFactor,0.8,0,-1"
 		"OnMapSpawn" "hdr_controller,SetTonemapMinAvglum,20,0,-1"
+		"OnNewGame" "mission_logic,FireFSMScriptEvent,OnNewGame,0,-1"
 	}
 	"origin" "2761.62 -2312 47.5856"
 	editor
@@ -419238,13 +419239,28 @@ entity
 		"logicalpos" "[15500 -5268]"
 	}
 }
+entity
+{
+	"id" "1240925"
+	"classname" "info_landmark_pos"
+	"angles" "0 270 0"
+	"targetname" "hub2_mexico"
+	"origin" "1532 3208 80"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8000 -9268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1593.08 2808.17 167.109]"
-		"look" "[1799.67 2934.6 56.1946]"
+		"position" "[1547.29 3343.92 167.174]"
+		"look" "[1544.9 3087.11 96.4109]"
 	}
 }
 cordon
