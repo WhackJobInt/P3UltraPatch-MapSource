@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "32"
+	"mapversion" "33"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "32"
+	"mapversion" "33"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub3"
 	"detailmaterial" "detail/detailsprites"
@@ -130643,6 +130643,7 @@ entity
 	{
 		"OnMapSpawn" "rotated_dbjects,SetAnimation,idle,0,-1"
 		"OnMapSpawn" "hdr controller,Command,exec Hub_2_hdr,0,-1"
+		"OnNewGame" "mission_logic,FireFSMScriptEvent,OnNewGame,0,-1"
 	}
 	"origin" "850.055 -1576 32"
 	editor
@@ -520615,20 +520616,6 @@ entity
 }
 entity
 {
-	"id" "41571"
-	"classname" "env_cubemap"
-	"cubemapsize" "6"
-	"origin" "-1204 604 40"
-	editor
-	{
-		"color" "0 0 255"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9268 -768]"
-	}
-}
-entity
-{
 	"id" "41572"
 	"classname" "env_cubemap"
 	"cubemapsize" "6"
@@ -520867,7 +520854,7 @@ entity
 	"map" "roam_grotto"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"teleporttolandmark" "0"
+	"teleporttolandmark" "1"
 	solid
 	{
 		"id" "2064783"
@@ -521085,7 +521072,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -521130,7 +521117,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -521166,13 +521153,118 @@ entity
 		"logicalpos" "[0 1000]"
 	}
 }
+entity
+{
+	"id" "2095267"
+	"classname" "info_landmark_pos"
+	"angles" "0 180 0"
+	"targetname" "hub1_hub3"
+	"origin" "2624 1344 36"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 -11268]"
+	}
+}
+entity
+{
+	"id" "2095278"
+	"classname" "info_landmark_pos"
+	"angles" "0 180 0"
+	"targetname" "hub2_hub3"
+	"origin" "96 -3230 36"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 14500]"
+	}
+}
+entity
+{
+	"id" "2095289"
+	"classname" "info_landmark_pos"
+	"angles" "0 45 0"
+	"targetname" "hub3_rodeo"
+	"origin" "-4080 -464 36"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 -8768]"
+	}
+}
+entity
+{
+	"id" "2095307"
+	"classname" "info_landmark_pos"
+	"angles" "0 0 0"
+	"targetname" "hub3_cosmeticslab"
+	"origin" "-3936 768 56"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 11500]"
+	}
+}
+entity
+{
+	"id" "2095314"
+	"classname" "info_landmark_pos"
+	"angles" "0 315 0"
+	"targetname" "hub3_grotto_exit"
+	"origin" "-3288 2592 40"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 11500]"
+	}
+}
+entity
+{
+	"id" "2095323"
+	"classname" "info_landmark_pos"
+	"angles" "0 0 0"
+	"targetname" "hub3_grotto_entrance"
+	"origin" "-3224 3196 40"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 -8768]"
+	}
+}
+entity
+{
+	"id" "2095344"
+	"classname" "info_landmark_pos"
+	"angles" "0 270 0"
+	"targetname" "hub3_arcade"
+	"origin" "-264 472 40"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 -13768]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-696.413 -2363.3 115.505]"
-		"look" "[-698.126 -2097 108.904]"
+		"position" "[-1137.73 615.409 81.0458]"
+		"look" "[-1375.86 583.637 -34.0561]"
 	}
 	camera
 	{
