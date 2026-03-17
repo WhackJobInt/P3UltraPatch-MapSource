@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_mall"
 	"detailmaterial" "detail/detailsprites"
@@ -243696,7 +243696,7 @@ entity
 	"id" "1644002"
 	"classname" "info_landmark"
 	"targetname" "hub2_mall"
-	"origin" "513.956 3308.38 8"
+	"origin" "514 3236.38 8"
 	editor
 	{
 		"color" "220 30 220"
@@ -559516,13 +559516,28 @@ entity
 		"logicalpos" "[0 2000]"
 	}
 }
+entity
+{
+	"id" "1673014"
+	"classname" "info_landmark_pos"
+	"angles" "0 270 0"
+	"targetname" "hub2_mall"
+	"origin" "514.044 3216 8"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[15500 13000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[486.431 2707.44 154.338]"
-		"look" "[473.499 2971.85 184.032]"
+		"position" "[531.23 3130.87 90.0269]"
+		"look" "[566.044 3336.71 -75.4382]"
 	}
 }
 cordon
