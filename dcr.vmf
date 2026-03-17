@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "21"
+	"mapversion" "22"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "21"
+	"mapversion" "22"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -100021,7 +100021,7 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2311.84 -1619.86 29"
+	"origin" "2319.52 -1619.91 29"
 	editor
 	{
 		"color" "220 30 220"
@@ -100060,7 +100060,7 @@ entity
 	"solid" "6"
 	"spawnflags" "0"
 	"StartDisabled" "0"
-	"origin" "2274.32 -1619.95 29"
+	"origin" "2282 -1620 29"
 	editor
 	{
 		"color" "220 30 220"
@@ -369733,8 +369733,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1978.07 -3095.64 -117.757]"
-		"look" "[2171.48 -2922.46 -177.289]"
+		"position" "[2315.11 -1702.39 100.263]"
+		"look" "[2231 -1474.29 -8.56084]"
 	}
 }
 cordon
