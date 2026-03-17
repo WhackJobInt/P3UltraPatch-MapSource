@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "37"
+	"mapversion" "38"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "37"
+	"mapversion" "38"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.11 from mlg"
 	"detailmaterial" "detail/detailsprites"
@@ -494320,7 +494320,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -494365,7 +494365,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -494384,13 +494384,28 @@ entity
 		"logicalpos" "[0 500]"
 	}
 }
+entity
+{
+	"id" "1539197"
+	"classname" "info_landmark_pos"
+	"angles" "0 90 0"
+	"targetname" "hub3_cosmeticslab"
+	"origin" "-240 -3408 -16"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 11500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-539.617 442.226 175.195]"
-		"look" "[-400.91 293.117 3.46356]"
+		"position" "[-243.129 -3497.69 25.5746]"
+		"look" "[-224.412 -3247.02 -62.6473]"
 	}
 }
 cordon
