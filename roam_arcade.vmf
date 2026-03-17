@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "2"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "2"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from roam_arcade"
 	"detailmaterial" "detail/detailsprites"
@@ -229290,13 +229290,28 @@ entity
 		"logicalpos" "[14000 -14268]"
 	}
 }
+entity
+{
+	"id" "443388"
+	"classname" "info_landmark_pos"
+	"angles" "0 0 0"
+	"targetname" "hub3_arcade"
+	"origin" "-808 -737 200"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[7500 -10268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-434.968 -316.408 354.656]"
-		"look" "[-601.942 -354.345 150.593]"
+		"position" "[-794.529 -822.419 245.336]"
+		"look" "[-756.643 -565.854 184.507]"
 	}
 }
 cordon
