@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "115"
+	"mapversion" "116"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "115"
+	"mapversion" "116"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub2"
 	"detailmaterial" "detail/detailsprites"
@@ -583841,13 +583841,88 @@ entity
 		"logicalpos" "[0 -2268]"
 	}
 }
+entity
+{
+	"id" "2904208"
+	"classname" "info_landmark_pos"
+	"angles" "0 0 0"
+	"targetname" "hub2_hub3"
+	"origin" "-2904 3677 -62.7326"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 -12768]"
+	}
+}
+entity
+{
+	"id" "2904215"
+	"classname" "info_landmark_pos"
+	"angles" "0 45 0"
+	"targetname" "hub2_mall"
+	"origin" "-7856 -1690 144"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 -4768]"
+	}
+}
+entity
+{
+	"id" "2904224"
+	"classname" "info_landmark_pos"
+	"angles" "0 270 0"
+	"targetname" "hub2_cityhall"
+	"origin" "-256 936 29"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 -4768]"
+	}
+}
+entity
+{
+	"id" "2904247"
+	"classname" "info_landmark_pos"
+	"angles" "0 180 0"
+	"targetname" "hub2_police"
+	"origin" "1192 -64 -13"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[14000 -13768]"
+	}
+}
+entity
+{
+	"id" "2904260"
+	"classname" "info_landmark_pos"
+	"angles" "0 180 0"
+	"targetname" "hub2_mexico"
+	"origin" "3376 -1291 -72"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[8500 -3768]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3103.09 2399.86 40.0038]"
-		"look" "[-3005.5 2627.55 -58.0786]"
+		"position" "[683.52 -252.984 191.18]"
+		"look" "[934.217 -240.725 101.804]"
 	}
 }
 cordon
