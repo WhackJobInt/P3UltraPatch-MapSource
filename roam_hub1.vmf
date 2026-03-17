@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "36"
+	"mapversion" "38"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "36"
+	"mapversion" "38"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -85288,7 +85288,7 @@ entity
 	"health" "0"
 	"model" "models/doors_windows/win_door_01a_single.mdl"
 	"modelscale" "1.0"
-	"opendir" "0"
+	"opendir" "1"
 	"returndelay" "3"
 	"skin" "1"
 	"slavename" "pw_out_02"
@@ -85319,7 +85319,7 @@ entity
 	"health" "0"
 	"model" "models/doors_windows/win_door_01a_single.mdl"
 	"modelscale" "1.0"
-	"opendir" "0"
+	"opendir" "2"
 	"returndelay" "3"
 	"skin" "1"
 	"slavename" "pw_out_01"
@@ -418206,13 +418206,43 @@ entity
 		"logicalpos" "[-16268 -12768]"
 	}
 }
+entity
+{
+	"id" "7029776"
+	"classname" "info_landmark_pos"
+	"angles" "0 0 0"
+	"targetname" "hub1_farm"
+	"origin" "-708 -2462 169"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7029803"
+	"classname" "info_landmark_pos"
+	"angles" "0 180 0"
+	"targetname" "hub1_hub3"
+	"origin" "3936 -2616 16"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[13000 -1268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1945.2 -2277.05 57.8834]"
-		"look" "[1873.04 -2031.9 -17.3296]"
+		"position" "[3179.46 -2629.76 159.549]"
+		"look" "[3436.7 -2571.3 122.474]"
 	}
 }
 cordon
