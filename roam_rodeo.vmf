@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "9"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_rodeo"
 	"detailmaterial" "detail/detailsprites"
@@ -73853,6 +73853,7 @@ entity
 		"OnMapSpawn" "hdr_controller,SetAutoExposureMin,0.4,0,-1"
 		"OnMapSpawn" "hdr_controller,SetBloomScaleFactor,0.8,0,-1"
 		"OnMapSpawn" "hdr_controller,SetTonemapMinAvglum,20,0,-1"
+		"OnNewGame" "mission_logic,FireFSMScriptEvent,OnNewGame,0,-1"
 	}
 	"origin" "-1456 5888 40"
 	editor
@@ -259033,7 +259034,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -259078,7 +259079,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -259123,7 +259124,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -259168,7 +259169,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -259187,13 +259188,28 @@ entity
 		"logicalpos" "[0 1500]"
 	}
 }
+entity
+{
+	"id" "1187747"
+	"classname" "info_landmark_pos"
+	"angles" "0 90 0"
+	"targetname" "hub3_rodeo"
+	"origin" "-749 760 136"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[9000 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1288.85 6368.21 165.558]"
-		"look" "[-1028.5 6313.92 150.036]"
+		"position" "[-803.774 779.346 244.066]"
+		"look" "[-628.382 717.653 53.2726]"
 	}
 	camera
 	{
