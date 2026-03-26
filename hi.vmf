@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "18"
+	"mapversion" "21"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "18"
+	"mapversion" "21"
 	"classname" "worldspawn"
 	"briefing" "#P3_HI_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from hi"
@@ -164042,6 +164042,7 @@ entity
 	"StartState" "st_chat"
 	"StartWithWeapon" "3"
 	"targetname" "shopkeeper"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "2832 -960 64"
@@ -164096,6 +164097,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1232 -40 68"
@@ -164150,6 +164152,7 @@ entity
 	"StartState" "st_chat"
 	"StartWithWeapon" "3"
 	"targetname" "customer"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "2833.67 -867.121 60"
@@ -164204,6 +164207,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban_city"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1931.12 3071 88"
@@ -164259,6 +164263,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -171897,6 +171902,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "cop"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173029,6 +173035,7 @@ entity
 	"fadescale" "1"
 	"GiveWeapon" "p3_weapon_grenade"
 	"model" "models/weapons/box_grenade/box_grenade.mdl"
+	"Skin" "0"
 	"origin" "1504 3504 80"
 	editor
 	{
@@ -173081,6 +173088,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "cop"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173110,6 +173118,7 @@ entity
 	"fadescale" "1"
 	"GiveWeapon" "p3_weapon_grenade"
 	"model" "models/weapons/box_grenade/box_grenade.mdl"
+	"Skin" "0"
 	"origin" "1555.79 -407 69"
 	editor
 	{
@@ -173235,6 +173244,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban_city"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1966.89 3064.62 88"
@@ -173291,6 +173301,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173350,6 +173361,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -173408,6 +173420,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "taliban_city"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1907.58 3061.56 88"
@@ -175011,6 +175024,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175070,6 +175084,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175154,6 +175169,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175214,6 +175230,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_t"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175272,6 +175289,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175332,6 +175350,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175392,6 +175411,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175451,6 +175471,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "1719.96 3030.09 72.1553"
@@ -175506,6 +175527,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175565,6 +175587,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -175625,6 +175648,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176508,6 +176532,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_h"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176710,6 +176735,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_citizen_m"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176785,6 +176811,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176845,6 +176872,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176904,6 +176932,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -176963,6 +176992,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -177022,6 +177052,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -177081,6 +177112,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -177141,6 +177173,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "mexico_citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -423016,7 +423049,7 @@ entity
 {
 	"id" "1222756"
 	"classname" "p3_weapon_sniper"
-	"angles" "-74.4606 139.421 -127.146"
+	"angles" "-71.2318 230.771 138.922"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
@@ -423138,13 +423171,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -423182,13 +423216,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -423226,13 +423261,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -423270,13 +423306,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -423295,13 +423332,82 @@ entity
 		"logicalpos" "[0 1500]"
 	}
 }
+entity
+{
+	"id" "1237524"
+	"classname" "p3_item_ammo_crate"
+	"ammo_prefab" "5"
+	"AmmoAmount" "5"
+	"AmmoName" "TearGas"
+	"angles" "0.337387 268.538 12.9957"
+	"CrateModelName" "models/weapons/box_grenade/box_grenade.mdl"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"GiveWeapon" "p3_weapon_teargas"
+	"model" "models/weapons/box_grenade/box_grenade.mdl"
+	"Skin" "1"
+	"origin" "1472.96 3526 76.2518"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[7500 -5768]"
+	}
+}
+entity
+{
+	"id" "1237554"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "TearGas"
+	"ammo_prefab" "13"
+	"AmmoAmount" "8"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"GiveWeapon" "p3_weapon_teargas"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_teargas.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "1514.56 3444.46 79"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[860.6 3191.43 88.2778]"
-		"look" "[1073.99 3292.25 -35.2618]"
+		"position" "[1634.19 3407.66 128.949]"
+		"look" "[1451.89 3593.25 71.6107]"
 	}
 }
 cordon
