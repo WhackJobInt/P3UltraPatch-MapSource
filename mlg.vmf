@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "0"
+	"mapversion" "1"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "0"
+	"mapversion" "1"
 	"classname" "worldspawn"
 	"briefing" "#P3_MLG_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.7 from mlg"
@@ -17769,7 +17769,7 @@ world
 		{
 			"id" "1635"
 			"plane" "(450 -728 280) (450 -728 156) (450 -596 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17780,7 +17780,7 @@ world
 		{
 			"id" "1636"
 			"plane" "(452 -596 280) (452 -596 156) (452 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17791,7 +17791,7 @@ world
 		{
 			"id" "1637"
 			"plane" "(452 -728 280) (452 -728 156) (450 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17802,7 +17802,7 @@ world
 		{
 			"id" "1638"
 			"plane" "(450 -596 280) (450 -596 156) (452 -596 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17813,7 +17813,7 @@ world
 		{
 			"id" "1639"
 			"plane" "(450 -596 156) (450 -728 156) (452 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -17824,7 +17824,7 @@ world
 		{
 			"id" "1640"
 			"plane" "(450 -728 280) (450 -596 280) (452 -596 280)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -17845,7 +17845,7 @@ world
 		{
 			"id" "1642"
 			"plane" "(-930 -596 280) (-930 -596 156) (-930 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17856,7 +17856,7 @@ world
 		{
 			"id" "1643"
 			"plane" "(-930 -728 280) (-930 -728 156) (-932 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17867,7 +17867,7 @@ world
 		{
 			"id" "1644"
 			"plane" "(-932 -596 280) (-932 -596 156) (-930 -596 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17878,7 +17878,7 @@ world
 		{
 			"id" "1645"
 			"plane" "(-932 -596 156) (-932 -728 156) (-930 -728 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -17889,7 +17889,7 @@ world
 		{
 			"id" "1646"
 			"plane" "(-932 -728 280) (-932 -596 280) (-930 -596 280)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -17900,7 +17900,7 @@ world
 		{
 			"id" "1647"
 			"plane" "(-932 -728 280) (-932 -728 156) (-932 -596 156)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -89827,7 +89827,7 @@ entity
 	"targetname" "aq_03"
 	connections
 	{
-		"OnBreak" "aqg_03,Break,,0,-1"
+		"OnBreak" "aqg_03,Destroy,,0,-1"
 		"OnBreak" "aqua_03,Stop,,0,-1"
 	}
 	"origin" "1828.43 -1911.93 2"
@@ -89955,7 +89955,7 @@ entity
 	"targetname" "aq_04"
 	connections
 	{
-		"OnBreak" "aqg_04,Break,,0,-1"
+		"OnBreak" "aqg_04,Destroy,,0,-1"
 		"OnBreak" "aqua_04,Stop,,0,-1"
 	}
 	"origin" "1831.45 -1553.61 2"
@@ -207953,8 +207953,8 @@ entity
 	"fragility" "100"
 	"gibdir" "0 0 0"
 	"health" "5"
-	"lowerleft" "-447 359.263 272.269"
-	"lowerright" "-447 336.264 232.434"
+	"lowerleft" "-447 359.264 272.269"
+	"lowerright" "-447 336.266 232.434"
 	"material" "0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
@@ -207967,8 +207967,8 @@ entity
 	"spawnflags" "0"
 	"spawnobject" "0"
 	"surfacetype" "0"
-	"upperleft" "-552 359.263 272.269"
-	"upperright" "-552 336.264 232.435"
+	"upperleft" "-552 359.264 272.269"
+	"upperright" "-552 336.266 232.435"
 	solid
 	{
 		"id" "16149"
@@ -240345,6 +240345,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -241024,6 +241025,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -241957,6 +241959,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "medic"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -242003,6 +242006,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "zealot"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -242049,6 +242053,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "zealot"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -243600,6 +243605,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "zealot"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -244437,7 +244443,7 @@ entity
 	"targetname" "aq_02"
 	connections
 	{
-		"OnBreak" "aqg_02,Break,,0,-1"
+		"OnBreak" "aqg_02,Destroy,,0,-1"
 		"OnBreak" "aqua_02,Stop,,0,-1"
 	}
 	"origin" "2354.94 -1916 1"
@@ -247001,7 +247007,7 @@ entity
 			"plane" "(-583.631 -868 6.0009) (-583.631 -1086 6.0009) (-563 -1086 6.0009)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 -1 0 17] 0.25"
-			"vaxis" "[-1 0 0 -0] 0.25"
+			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -247012,7 +247018,7 @@ entity
 			"plane" "(-583.631 -1086 67.86) (-583.631 -868 67.86) (-563 -868 67.86)"
 			"material" "TOOLS/TOOLSTRIGGER"
 			"uaxis" "[0 -1 0 17] 0.25"
-			"vaxis" "[-1 0 0 -0] 0.25"
+			"vaxis" "[-1 0 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -379104,7 +379110,7 @@ entity
 			"plane" "(-880 -1770.01 405.008) (-214.997 -1768 395.987) (-212.996 -1770.01 405.008)"
 			"material" "COSMETIC_LAB/COSMETIC_LAB_PIPE_01"
 			"uaxis" "[1 0 0 12] 0.25"
-			"vaxis" "[0 -0.2169 0.9762 -0] 0.25"
+			"vaxis" "[0 -0.2169 0.9762 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -529442,8 +529448,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-247.876 -3534.14 60.2386]"
-		"look" "[-247.876 -3281.42 -24]"
+		"position" "[1813.16 -1708.28 107.823]"
+		"look" "[2078.66 -1687.86 100.224]"
 	}
 }
 cordon
