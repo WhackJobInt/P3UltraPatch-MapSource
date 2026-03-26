@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "64"
+	"mapversion" "67"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "64"
+	"mapversion" "67"
 	"classname" "worldspawn"
 	"briefing" "#P3_PW_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from pw"
@@ -47903,7 +47903,7 @@ world
 		side
 		{
 			"id" "26042"
-			"plane" "(-88 24 4) (0 24 4) (0 -4 4)"
+			"plane" "(-144 -10 4) (-144 43 4) (48 43 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -47914,7 +47914,7 @@ world
 		side
 		{
 			"id" "26043"
-			"plane" "(-88 -4 -128) (0 -4 -128) (0 24 -128)"
+			"plane" "(-144 43 -128) (-144 -10 -128) (48 -10 -128)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -47925,7 +47925,7 @@ world
 		side
 		{
 			"id" "26044"
-			"plane" "(-88 24 4) (-88 -4 4) (-88 -4 -128)"
+			"plane" "(-144 -10 -128) (-144 43 -128) (-144 43 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -47936,7 +47936,7 @@ world
 		side
 		{
 			"id" "26045"
-			"plane" "(0 24 -128) (0 -4 -128) (0 -4 4)"
+			"plane" "(48 43 -128) (48 -10 -128) (48 -10 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -47947,7 +47947,7 @@ world
 		side
 		{
 			"id" "26046"
-			"plane" "(0 24 4) (-88 24 4) (-88 24 -128)"
+			"plane" "(-144 43 -128) (48 43 -128) (48 43 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -47958,7 +47958,7 @@ world
 		side
 		{
 			"id" "26047"
-			"plane" "(0 -4 -128) (-88 -4 -128) (-88 -4 4)"
+			"plane" "(48 -10 -128) (-144 -10 -128) (-144 -10 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -47979,7 +47979,7 @@ world
 		side
 		{
 			"id" "26059"
-			"plane" "(-88 -124 4) (0 -124 4) (0 -152 4)"
+			"plane" "(-144 -172 4) (-144 -117 4) (49 -117 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -16] 0.25"
@@ -47990,7 +47990,7 @@ world
 		side
 		{
 			"id" "26058"
-			"plane" "(-88 -152 -128) (0 -152 -128) (0 -124 -128)"
+			"plane" "(-144 -117 -128) (-144 -172 -128) (49 -172 -128)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 -16] 0.25"
@@ -48001,7 +48001,7 @@ world
 		side
 		{
 			"id" "26057"
-			"plane" "(-88 -124 4) (-88 -152 4) (-88 -152 -128)"
+			"plane" "(-144 -172 -128) (-144 -117 -128) (-144 -117 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[0 1 0 16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -48012,7 +48012,7 @@ world
 		side
 		{
 			"id" "26056"
-			"plane" "(0 -124 -128) (0 -152 -128) (0 -152 4)"
+			"plane" "(49 -117 -128) (49 -172 -128) (49 -172 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[0 1 0 16] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -48023,7 +48023,7 @@ world
 		side
 		{
 			"id" "26055"
-			"plane" "(0 -124 4) (-88 -124 4) (-88 -124 -128)"
+			"plane" "(-144 -117 -128) (49 -117 -128) (49 -117 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -48034,7 +48034,7 @@ world
 		side
 		{
 			"id" "26054"
-			"plane" "(0 -152 -128) (-88 -152 -128) (-88 -152 4)"
+			"plane" "(49 -172 -128) (-144 -172 -128) (-144 -172 4)"
 			"material" "TOOLS/TOOLSNPCCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -312593,13 +312593,32 @@ entity
 		"logicalpos" "[-5768 3500]"
 	}
 }
+entity
+{
+	"id" "864313"
+	"classname" "p3_fsm_dummy"
+	"angles" "0 0 0"
+	"Faction" "Dummy"
+	"Manner" "Dummy"
+	"origin" "159.23 -64.35 -127"
+	"StartDisabled" "0"
+	"targetname" "entry_point"
+	"UpdateTime" "0.5"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-443.545 137.534 -72.8655]"
-		"look" "[-441.313 -123.765 -124.652]"
+		"position" "[-37.9223 -47.5359 -32.2297]"
+		"look" "[154.874 -41.8505 -215.971]"
 	}
 }
 cordon
