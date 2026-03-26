@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "1"
+	"mapversion" "3"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "64"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "1"
+	"mapversion" "3"
 	"classname" "worldspawn"
 	"briefing" "#P3_AS_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.7 from as"
@@ -49260,6 +49260,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_babe_01"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -49316,6 +49317,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_babe_jen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -49372,6 +49374,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "npc_babe_02"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -53301,6 +53304,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_mom"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -53358,6 +53362,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_mom"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-752.831 -964.246 192"
@@ -53411,6 +53416,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_mom"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -53468,6 +53474,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_mom"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -53574,6 +53581,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_nerd"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -53633,6 +53641,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_nerd"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -54087,8 +54096,8 @@ entity
 	"CriterionDistance" "2"
 	"CriterionVisibility" "2"
 	"DestinationGroup" "spawnpoint_03"
-	"MaxLiveChildren" "4"
-	"MaxNPCCount" "4"
+	"MaxLiveChildren" "3"
+	"MaxNPCCount" "3"
 	"MaxSpawnDistance" "0"
 	"MinSpawnDistance" "0"
 	"Radius" "256"
@@ -54564,8 +54573,8 @@ entity
 	"CriterionDistance" "2"
 	"CriterionVisibility" "2"
 	"DestinationGroup" "spawnpoint_04"
-	"MaxLiveChildren" "5"
-	"MaxNPCCount" "5"
+	"MaxLiveChildren" "3"
+	"MaxNPCCount" "3"
 	"MaxSpawnDistance" "0"
 	"MinSpawnDistance" "0"
 	"Radius" "256"
@@ -54730,8 +54739,8 @@ entity
 	"CriterionDistance" "2"
 	"CriterionVisibility" "2"
 	"DestinationGroup" "spawnpoint_05"
-	"MaxLiveChildren" "5"
-	"MaxNPCCount" "5"
+	"MaxLiveChildren" "3"
+	"MaxNPCCount" "3"
 	"MaxSpawnDistance" "0"
 	"MinSpawnDistance" "0"
 	"Radius" "256"
@@ -55036,8 +55045,8 @@ entity
 	"CriterionDistance" "2"
 	"CriterionVisibility" "2"
 	"DestinationGroup" "spawnpoint_06"
-	"MaxLiveChildren" "8"
-	"MaxNPCCount" "8"
+	"MaxLiveChildren" "3"
+	"MaxNPCCount" "3"
 	"MaxSpawnDistance" "0"
 	"MinSpawnDistance" "0"
 	"Radius" "256"
@@ -55370,8 +55379,8 @@ entity
 	"CriterionDistance" "2"
 	"CriterionVisibility" "2"
 	"DestinationGroup" "spawnpoint_07"
-	"MaxLiveChildren" "4"
-	"MaxNPCCount" "4"
+	"MaxLiveChildren" "3"
+	"MaxNPCCount" "3"
 	"MaxSpawnDistance" "0"
 	"MinSpawnDistance" "0"
 	"Radius" "256"
@@ -56866,6 +56875,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_gamer"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -56923,6 +56933,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_gamer"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -56983,6 +56994,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_gamer"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -57040,6 +57052,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_gamer"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -58604,6 +58617,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_mavrodi"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-755.517 -823.5 193"
@@ -63749,6 +63763,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_sarah"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -63806,6 +63821,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "npc_son"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "96.8294 116.459 408"
@@ -251879,13 +251895,103 @@ entity
 		"logicalpos" "[-3768 3500]"
 	}
 }
+entity
+{
+	"id" "432241"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "TearGas"
+	"ammo_prefab" "13"
+	"AmmoAmount" "8"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"GiveWeapon" "p3_weapon_teargas"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_teargas.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "-599 -795 193.166"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-10768 -6268]"
+	}
+}
+entity
+{
+	"id" "432286"
+	"classname" "prop_p3_give_ammo"
+	"Ammo" "TearGas"
+	"ammo_prefab" "13"
+	"AmmoAmount" "8"
+	"angles" "0 312.5 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Items"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"GiveWeapon" "p3_weapon_teargas"
+	"inertiaScale" "1.0"
+	"item_prefab" "0"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/weapons/box_grenade/ammo_teargas.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "-647 -249 193.166"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-10768 -6268]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1070 579.706 316.788]"
-		"look" "[-1319.25 500.16 266.713]"
+		"position" "[-709.76 -282.23 245.846]"
+		"look" "[-516.844 -166.771 102.974]"
 	}
 }
 cordon
