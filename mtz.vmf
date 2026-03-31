@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "8"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "8"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"briefing" "#P3_MTZ_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from mtz"
@@ -286209,6 +286209,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/nature/apple_tree_01.mdl"
+	"plant_type" "leaves_apple_small"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -311481,8 +311482,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3565.73 -2139.54 213.014]"
-		"look" "[3750.63 -2247.19 54.3402]"
+		"position" "[5078.86 -2536.92 144.18]"
+		"look" "[5098.41 -2271.28 141.57]"
 	}
 }
 cordon
