@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "22"
+	"mapversion" "23"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "22"
+	"mapversion" "23"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -344804,7 +344804,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "3687.88 345 18.089"
 	editor
 	{
@@ -344831,7 +344831,7 @@ entity
 	"model" "models/garbage/puddle_11.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "3209 121 16"
 	editor
 	{
@@ -368215,7 +368215,7 @@ entity
 	"model" "models/nature/flower_01c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2128 404 188"
 	editor
 	{
@@ -368242,7 +368242,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2164 408 188"
 	editor
 	{
@@ -368269,7 +368269,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2192 408 188"
 	editor
 	{
@@ -368296,7 +368296,7 @@ entity
 	"model" "models/nature/flower_01c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2244 408 188"
 	editor
 	{
@@ -368323,7 +368323,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2212 408 188"
 	editor
 	{
@@ -368350,7 +368350,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2248 800 188"
 	editor
 	{
@@ -368377,7 +368377,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2204 804 188"
 	editor
 	{
@@ -368404,7 +368404,7 @@ entity
 	"model" "models/nature/flower_01b.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2169.6 803.805 188"
 	editor
 	{
@@ -368431,7 +368431,7 @@ entity
 	"model" "models/nature/flower_01b.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2144 804 188"
 	editor
 	{
@@ -368458,7 +368458,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2068.06 1016.74 188"
 	editor
 	{
@@ -368485,7 +368485,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2070.15 980.794 188"
 	editor
 	{
@@ -369728,13 +369728,103 @@ entity
 		"logicalpos" "[6000 -768]"
 	}
 }
+entity
+{
+	"id" "7196471"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 270 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_default"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_default"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "2720 -1592 60"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7196485"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_default"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_default"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "1288 -1269 232"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2315.11 -1702.39 100.263]"
-		"look" "[2231 -1474.29 -8.56084]"
+		"position" "[2703.02 -1635.47 71.7539]"
+		"look" "[2799.28 -1387.29 62.4582]"
 	}
 }
 cordon
