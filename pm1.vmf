@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "47"
+	"mapversion" "52"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "47"
+	"mapversion" "52"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM1_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm1"
@@ -76163,7 +76163,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1799.62 -1708.56 -11.9796"
 	editor
 	{
@@ -76239,7 +76239,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1907.64 -941.606 -72.3563"
 	editor
 	{
@@ -76352,7 +76352,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2007.64 -917.606 -72.3563"
 	editor
 	{
@@ -76429,7 +76429,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4255.8 -2061.63 34.8587"
 	editor
 	{
@@ -76469,7 +76469,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4259.8 -2066.63 34.8587"
 	editor
 	{
@@ -76509,7 +76509,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4259.8 -2061.99 34.8587"
 	editor
 	{
@@ -222901,9 +222901,9 @@ entity
 		{
 			"id" "16716"
 			"plane" "(-6144 2560 194) (-6144 2560 50) (-6152 2560 50)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "CONCRETE/CORRIDOR_WALL_B"
+			"uaxis" "[1 0 0 -2] 0.25"
+			"vaxis" "[0 0 -1 85] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -530258,7 +530258,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5912.98 2409.15 32.8621"
 	editor
 	{
@@ -530297,7 +530297,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5970.11 2477.15 32.8621"
 	editor
 	{
@@ -530376,7 +530376,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5768.98 2408.15 32.8641"
 	editor
 	{
@@ -530415,7 +530415,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5836.28 2453.15 32.8621"
 	editor
 	{
@@ -530454,7 +530454,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5769.47 2505.19 32.8621"
 	editor
 	{
@@ -530550,7 +530550,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.39 2494.15 91.6121"
 	editor
 	{
@@ -530741,7 +530741,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.39 2640.15 92.6121"
 	editor
 	{
@@ -530783,7 +530783,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.39 2794.15 93.6121"
 	editor
 	{
@@ -530825,7 +530825,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "3"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.39 2948.15 93.6121"
 	editor
 	{
@@ -531921,7 +531921,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-6101.98 2752.15 32.8641"
 	editor
 	{
@@ -532814,7 +532814,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5974.08 2595.36 32.8621"
 	editor
 	{
@@ -532853,7 +532853,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5766.14 2653.08 32.8621"
 	editor
 	{
@@ -532929,7 +532929,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5854.98 2643.15 32.8621"
 	editor
 	{
@@ -532968,7 +532968,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5838.98 2555.95 32.8621"
 	editor
 	{
@@ -533081,7 +533081,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5896.98 2679.15 32.8621"
 	editor
 	{
@@ -533120,7 +533120,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5819.98 2707.15 32.8621"
 	editor
 	{
@@ -533159,7 +533159,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5777.85 2755.15 32.8621"
 	editor
 	{
@@ -533198,7 +533198,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5851.98 2769.15 32.8621"
 	editor
 	{
@@ -533274,7 +533274,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5778.98 2860.15 32.8621"
 	editor
 	{
@@ -533313,7 +533313,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5834.98 2823.15 32.8621"
 	editor
 	{
@@ -534116,7 +534116,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-6022.98 2815.15 79.6121"
 	editor
 	{
@@ -534151,7 +534151,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-6038.98 2815.15 79.6121"
 	editor
 	{
@@ -534186,7 +534186,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-6054.98 2815.15 79.6121"
 	editor
 	{
@@ -534221,7 +534221,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-6091.98 2815.15 79.6121"
 	editor
 	{
@@ -534256,7 +534256,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5959.98 2893.15 79.6121"
 	editor
 	{
@@ -534291,7 +534291,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5959.98 2877.15 79.6121"
 	editor
 	{
@@ -541969,7 +541969,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5976.76 91.1418 89.2328"
 	editor
 	{
@@ -542038,7 +542038,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5413.03 -985.586 88.8876"
 	editor
 	{
@@ -542178,7 +542178,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5419.51 -561.8 88.002"
 	editor
 	{
@@ -542962,7 +542962,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5777.66 -838.671 88.65"
 	editor
 	{
@@ -543001,7 +543001,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5795.36 -775.334 88.65"
 	editor
 	{
@@ -543040,7 +543040,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5879.33 -718.772 88.65"
 	editor
 	{
@@ -543079,7 +543079,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5690.16 -799.121 88.65"
 	editor
 	{
@@ -543118,7 +543118,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5697.42 -897.697 88.65"
 	editor
 	{
@@ -543157,7 +543157,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5635.09 -911.743 88.65"
 	editor
 	{
@@ -543196,7 +543196,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5547.59 -872.193 88.65"
 	editor
 	{
@@ -543234,7 +543234,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5713.65 -839.815 126.084"
 	editor
 	{
@@ -543273,7 +543273,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5482.86 -736.645 89.1435"
 	editor
 	{
@@ -543312,7 +543312,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5585.86 -689.645 89.1435"
 	editor
 	{
@@ -543351,7 +543351,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5631.86 -697.645 89.1435"
 	editor
 	{
@@ -543389,7 +543389,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5688.86 -705.655 126.578"
 	editor
 	{
@@ -543428,7 +543428,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5731.86 -673.645 89.1435"
 	editor
 	{
@@ -543467,7 +543467,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5819.73 -642.645 89.1435"
 	editor
 	{
@@ -543505,7 +543505,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5690.86 -546.655 126.578"
 	editor
 	{
@@ -543544,7 +543544,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5687.86 -589.645 89.1435"
 	editor
 	{
@@ -543583,7 +543583,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5502.86 -574.645 89.1435"
 	editor
 	{
@@ -543622,7 +543622,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5636.86 -511.645 89.1435"
 	editor
 	{
@@ -543661,7 +543661,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5486.86 -399.645 89.1435"
 	editor
 	{
@@ -543700,7 +543700,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5587.86 -392.645 89.1435"
 	editor
 	{
@@ -543739,7 +543739,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5690.86 -424.645 89.1435"
 	editor
 	{
@@ -543777,7 +543777,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5690.86 -377.655 126.578"
 	editor
 	{
@@ -543815,7 +543815,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5693.86 -370.655 126.578"
 	editor
 	{
@@ -543854,7 +543854,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5634.86 -346.645 89.1435"
 	editor
 	{
@@ -543892,7 +543892,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5538.86 -378.655 126.578"
 	editor
 	{
@@ -543930,7 +543930,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5541.86 -371.655 126.578"
 	editor
 	{
@@ -543986,7 +543986,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5794.86 -354.645 89.1435"
 	editor
 	{
@@ -544025,7 +544025,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5733.86 -335.645 89.1435"
 	editor
 	{
@@ -544064,7 +544064,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5859.28 -555.145 89.1435"
 	editor
 	{
@@ -544103,7 +544103,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5850.86 -432.645 89.1435"
 	editor
 	{
@@ -544183,7 +544183,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5420.92 113.343 114.454"
 	editor
 	{
@@ -544223,7 +544223,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5419.45 105.194 114.364"
 	editor
 	{
@@ -544263,7 +544263,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5420.75 65.1035 113.834"
 	editor
 	{
@@ -544303,7 +544303,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5412.92 73.3438 113.834"
 	editor
 	{
@@ -544343,7 +544343,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5413.92 69.3438 159.364"
 	editor
 	{
@@ -544383,7 +544383,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5418.07 73.5337 159.364"
 	editor
 	{
@@ -544423,7 +544423,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5420.92 76.3438 159.364"
 	editor
 	{
@@ -544463,7 +544463,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5413.92 59.3438 159.364"
 	editor
 	{
@@ -544503,7 +544503,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5418.92 64.3438 159.364"
 	editor
 	{
@@ -544543,7 +544543,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5408.92 60.3438 144.484"
 	editor
 	{
@@ -544583,7 +544583,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5416.92 56.3438 144.484"
 	editor
 	{
@@ -544623,7 +544623,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5413.92 62.3438 144.484"
 	editor
 	{
@@ -544663,7 +544663,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5416.92 66.3438 144.484"
 	editor
 	{
@@ -544703,7 +544703,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5413.92 70.3438 144.484"
 	editor
 	{
@@ -544743,7 +544743,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5417.71 72.8438 144.484"
 	editor
 	{
@@ -544783,7 +544783,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 105.073 161.684"
 	editor
 	{
@@ -544823,7 +544823,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 100.843 161.504"
 	editor
 	{
@@ -544863,7 +544863,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 99.0235 164.994"
 	editor
 	{
@@ -544903,7 +544903,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 97.1035 161.634"
 	editor
 	{
@@ -544943,7 +544943,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 93.0737 161.594"
 	editor
 	{
@@ -544983,7 +544983,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 91.0537 164.814"
 	editor
 	{
@@ -545023,7 +545023,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.75 89.0537 161.674"
 	editor
 	{
@@ -545063,7 +545063,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5412.35 90.6035 144.424"
 	editor
 	{
@@ -545103,7 +545103,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5412.35 98.6035 144.424"
 	editor
 	{
@@ -545143,7 +545143,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5415.72 102.584 144.424"
 	editor
 	{
@@ -545183,7 +545183,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5420.72 106.584 144.424"
 	editor
 	{
@@ -545223,7 +545223,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5420.36 102.584 144.424"
 	editor
 	{
@@ -545263,7 +545263,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 104.343 130.784"
 	editor
 	{
@@ -545303,7 +545303,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 100.694 130.784"
 	editor
 	{
@@ -545343,7 +545343,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 97.1035 130.784"
 	editor
 	{
@@ -545383,7 +545383,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 93.0737 130.744"
 	editor
 	{
@@ -545423,7 +545423,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 88.3438 130.744"
 	editor
 	{
@@ -545463,7 +545463,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 91.0537 133.964"
 	editor
 	{
@@ -545503,7 +545503,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5409.92 99.0235 134.144"
 	editor
 	{
@@ -545543,7 +545543,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5412.92 74.3438 129.134"
 	editor
 	{
@@ -545583,7 +545583,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5416.92 76.3438 129.134"
 	editor
 	{
@@ -545623,7 +545623,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5419.92 71.3438 129.134"
 	editor
 	{
@@ -545663,7 +545663,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5417.71 67.1836 129.134"
 	editor
 	{
@@ -545703,7 +545703,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5411.92 62.3438 129.134"
 	editor
 	{
@@ -545852,7 +545852,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5394.92 -207.657 131.144"
 	editor
 	{
@@ -545892,7 +545892,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -205.657 131.144"
 	editor
 	{
@@ -545932,7 +545932,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5402.92 -199.657 131.144"
 	editor
 	{
@@ -545972,7 +545972,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -180.657 131.144"
 	editor
 	{
@@ -546012,7 +546012,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -186.657 131.144"
 	editor
 	{
@@ -546052,7 +546052,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5400.92 -178.657 131.144"
 	editor
 	{
@@ -546092,7 +546092,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5401.92 -164.657 131.144"
 	editor
 	{
@@ -546132,7 +546132,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -161.657 149.49"
 	editor
 	{
@@ -546172,7 +546172,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -165.657 149.49"
 	editor
 	{
@@ -546212,7 +546212,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -159.657 96.1435"
 	editor
 	{
@@ -546252,7 +546252,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -140.657 96.1435"
 	editor
 	{
@@ -546292,7 +546292,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -118.657 131.144"
 	editor
 	{
@@ -546332,7 +546332,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -141.657 131.144"
 	editor
 	{
@@ -546372,7 +546372,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -140.657 149.49"
 	editor
 	{
@@ -546412,7 +546412,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -139.657 149.49"
 	editor
 	{
@@ -546452,7 +546452,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -135.657 149.49"
 	editor
 	{
@@ -546492,7 +546492,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5402.92 -146.657 149.49"
 	editor
 	{
@@ -546532,7 +546532,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -152.657 149.49"
 	editor
 	{
@@ -546572,7 +546572,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -110.657 149.49"
 	editor
 	{
@@ -546612,7 +546612,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -105.657 149.49"
 	editor
 	{
@@ -546652,7 +546652,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -97.6562 149.49"
 	editor
 	{
@@ -546692,7 +546692,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -96.6562 131.144"
 	editor
 	{
@@ -546732,7 +546732,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -94.6562 131.144"
 	editor
 	{
@@ -546772,7 +546772,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -90.6562 131.144"
 	editor
 	{
@@ -546812,7 +546812,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -91.6562 113.945"
 	editor
 	{
@@ -546852,7 +546852,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -76.6562 113.945"
 	editor
 	{
@@ -546892,7 +546892,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -75.6562 96.1435"
 	editor
 	{
@@ -546932,7 +546932,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -67.6562 96.1435"
 	editor
 	{
@@ -546972,7 +546972,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -47.6562 113.945"
 	editor
 	{
@@ -547012,7 +547012,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5397.92 -56.6562 113.945"
 	editor
 	{
@@ -547052,7 +547052,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5396.92 -74.6562 131.144"
 	editor
 	{
@@ -547092,7 +547092,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5395.92 -62.6562 131.144"
 	editor
 	{
@@ -547132,7 +547132,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5398.92 -66.6562 131.144"
 	editor
 	{
@@ -547172,7 +547172,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5400.92 -61.6562 131.144"
 	editor
 	{
@@ -547212,7 +547212,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5394.92 -50.6562 131.144"
 	editor
 	{
@@ -547252,7 +547252,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5396.92 -54.6562 131.144"
 	editor
 	{
@@ -547292,7 +547292,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -52.6562 131.144"
 	editor
 	{
@@ -547332,7 +547332,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -46.6562 131.144"
 	editor
 	{
@@ -547372,7 +547372,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -49.6562 149.49"
 	editor
 	{
@@ -547412,7 +547412,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -58.6562 149.49"
 	editor
 	{
@@ -547452,7 +547452,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5399.92 -65.6562 149.49"
 	editor
 	{
@@ -547492,7 +547492,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5400.92 -69.6562 149.49"
 	editor
 	{
@@ -549985,7 +549985,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5530.92 -108.657 131.14"
 	editor
 	{
@@ -550023,7 +550023,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5527.92 -115.657 131.14"
 	editor
 	{
@@ -550061,7 +550061,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5527.92 -70.6562 131.14"
 	editor
 	{
@@ -550099,7 +550099,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5530.92 -63.6562 131.14"
 	editor
 	{
@@ -550141,7 +550141,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5524.96 -21.6562 131.144"
 	editor
 	{
@@ -550183,7 +550183,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5536.92 -27.6562 131.144"
 	editor
 	{
@@ -550815,7 +550815,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4172.55 -2208.24 10.8658"
 	editor
 	{
@@ -550857,7 +550857,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4146.55 -2187.24 13.0498"
 	editor
 	{
@@ -550899,7 +550899,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4112.55 -2192.24 13.0498"
 	editor
 	{
@@ -550941,7 +550941,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4066.55 -2187.24 29.7588"
 	editor
 	{
@@ -550983,7 +550983,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4073.55 -2194.24 11.7588"
 	editor
 	{
@@ -551025,7 +551025,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4070.55 -2171.24 11.7588"
 	editor
 	{
@@ -551202,7 +551202,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4565.55 -2226.24 11.7588"
 	editor
 	{
@@ -551244,7 +551244,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4537.56 -2218.24 11.7588"
 	editor
 	{
@@ -551286,7 +551286,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4551.98 -2226.24 29.7588"
 	editor
 	{
@@ -551328,7 +551328,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4707.9 -2197.34 10.58"
 	editor
 	{
@@ -551367,7 +551367,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4662.83 -2199.55 8.66425"
 	editor
 	{
@@ -551803,7 +551803,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4056.55 -1776.24 11.7588"
 	editor
 	{
@@ -551845,7 +551845,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4079.55 -1773.24 11.7588"
 	editor
 	{
@@ -551887,7 +551887,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4063.55 -1769.24 29.7588"
 	editor
 	{
@@ -551946,7 +551946,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4000.92 -1940.1 53.2811"
 	editor
 	{
@@ -553524,7 +553524,6 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"GiveWeapon" ""
 	"model" "models/weapons/box_grenade/box_bullets.mdl"
 	"origin" "-3958.18 -2138.12 18.2622"
 	editor
@@ -553980,7 +553979,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4350.32 -1943.2 11.7588"
 	editor
 	{
@@ -554022,7 +554021,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4326.88 -1946.05 11.7588"
 	editor
 	{
@@ -554064,7 +554063,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4333.83 -1943.48 29.7588"
 	editor
 	{
@@ -554106,7 +554105,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4297.88 -1943.05 13.0498"
 	editor
 	{
@@ -554148,7 +554147,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4627.02 -1995.93 12.0846"
 	editor
 	{
@@ -554190,7 +554189,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4618.93 -1967.92 13.3756"
 	editor
 	{
@@ -555422,7 +555421,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4308.88 -1886.05 13.0498"
 	editor
 	{
@@ -555487,7 +555486,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4772.21 -1910.91 34.6834"
 	editor
 	{
@@ -555527,7 +555526,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4770.74 -1919.06 34.7794"
 	editor
 	{
@@ -555567,7 +555566,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4772.22 -1926.8 34.7794"
 	editor
 	{
@@ -555607,7 +555606,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4770.57 -1967.3 35.3974"
 	editor
 	{
@@ -555647,7 +555646,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4772.04 -1959.15 35.3004"
 	editor
 	{
@@ -555687,7 +555686,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4771.62 -1954.6 65.3596"
 	editor
 	{
@@ -555727,7 +555726,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4779.63 -1950.62 65.3596"
 	editor
 	{
@@ -555767,7 +555766,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1957.09 82.6226"
 	editor
 	{
@@ -555807,7 +555806,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1952.86 82.4426"
 	editor
 	{
@@ -555847,7 +555846,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1951.04 85.9387"
 	editor
 	{
@@ -555887,7 +555886,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1949.12 82.5697"
 	editor
 	{
@@ -555927,7 +555926,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1945.09 82.5376"
 	editor
 	{
@@ -555967,7 +555966,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1943.07 85.7526"
 	editor
 	{
@@ -556007,7 +556006,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.23 -1941.07 82.6157"
 	editor
 	{
@@ -556047,7 +556046,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4782.28 -1907.22 50.0716"
 	editor
 	{
@@ -556087,7 +556086,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4774.27 -1919.2 50.0716"
 	editor
 	{
@@ -556127,7 +556126,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4773.91 -1928.86 65.4286"
 	editor
 	{
@@ -556167,7 +556166,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4773.28 -1913.57 80.3076"
 	editor
 	{
@@ -556238,7 +556237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4476.78 -2222.17 85.7526"
 	editor
 	{
@@ -556278,7 +556277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4478.78 -2222.17 82.6157"
 	editor
 	{
@@ -556318,7 +556317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4474.76 -2222.17 82.5376"
 	editor
 	{
@@ -556358,7 +556357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4470.73 -2222.17 82.5697"
 	editor
 	{
@@ -556398,7 +556397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4468.81 -2222.17 85.9387"
 	editor
 	{
@@ -556438,7 +556437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4466.99 -2222.17 82.4426"
 	editor
 	{
@@ -556478,7 +556477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4462.76 -2222.17 82.6226"
 	editor
 	{
@@ -556518,7 +556517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4473.23 -2210.57 65.3596"
 	editor
 	{
@@ -556558,7 +556557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4498.3 -2214.21 80.3076"
 	editor
 	{
@@ -556598,7 +556597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4494.99 -2214.21 65.4286"
 	editor
 	{
@@ -556638,7 +556637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4500.65 -2214.21 50.0716"
 	editor
 	{
@@ -556678,7 +556677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4510.39 -2212.58 34.6834"
 	editor
 	{
@@ -556718,7 +556717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4502.24 -2211.11 34.7794"
 	editor
 	{
@@ -556758,7 +556757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4494.5 -2212.59 34.7794"
 	editor
 	{
@@ -556798,7 +556797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4459.28 -2218.85 50.3527"
 	editor
 	{
@@ -556838,7 +556837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4463.26 -2213.58 50.3527"
 	editor
 	{
@@ -556878,7 +556877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4455.28 -2213.85 50.3527"
 	editor
 	{
@@ -556918,7 +556917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4462.15 -2212.41 35.3004"
 	editor
 	{
@@ -556958,7 +556957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4454 -2210.94 35.3974"
 	editor
 	{
@@ -556998,7 +556997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4373.72 -2076.05 18.6996"
 	editor
 	{
@@ -557038,7 +557037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4381.67 -2076.21 18.6996"
 	editor
 	{
@@ -557078,7 +557077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4381.8 -2085.59 12.5076"
 	editor
 	{
@@ -557118,7 +557117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4390.09 -2078.97 18.5716"
 	editor
 	{
@@ -557158,7 +557157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4399.09 -2077.26 18.6936"
 	editor
 	{
@@ -557198,7 +557197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4398.76 -2081.13 18.6936"
 	editor
 	{
@@ -557238,7 +557237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4419.15 -2075.8 18.6756"
 	editor
 	{
@@ -557278,7 +557277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4412.86 -2083.71 12.6166"
 	editor
 	{
@@ -557318,7 +557317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4413.55 -2081.96 35.0376"
 	editor
 	{
@@ -557358,7 +557357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4403.91 -2080.58 35.0376"
 	editor
 	{
@@ -557398,7 +557397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4399.11 -2079 35.0376"
 	editor
 	{
@@ -557438,7 +557437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4389.18 -2084.44 35.0376"
 	editor
 	{
@@ -557478,7 +557477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4381.18 -2080.2 54.9112"
 	editor
 	{
@@ -557518,7 +557517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4381.83 -2064.71 75.4108"
 	editor
 	{
@@ -557558,7 +557557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4360.2 -2064.94 75.6814"
 	editor
 	{
@@ -557598,7 +557597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4395.94 -2066.62 75.4108"
 	editor
 	{
@@ -557638,7 +557637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4399.03 -2079.81 54.9342"
 	editor
 	{
@@ -557678,7 +557677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4409.81 -2079.56 54.9342"
 	editor
 	{
@@ -557718,7 +557717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4382.46 -2065.09 34.7748"
 	editor
 	{
@@ -557758,7 +557757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4400.31 -2064.7 34.7977"
 	editor
 	{
@@ -557798,7 +557797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4411.09 -2064.45 34.7977"
 	editor
 	{
@@ -557838,7 +557837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4315.44 -2085.97 13.3274"
 	editor
 	{
@@ -557878,7 +557877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4326.11 -2086 13.3274"
 	editor
 	{
@@ -557918,7 +557917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4336.81 -2081.09 13.3274"
 	editor
 	{
@@ -557958,7 +557957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4346.81 -2084.97 13.3274"
 	editor
 	{
@@ -557998,7 +557997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4357.71 -2083.87 13.3274"
 	editor
 	{
@@ -558038,7 +558037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4362.04 -2069.02 14.2764"
 	editor
 	{
@@ -558078,7 +558077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4357.54 -2064.15 14.2764"
 	editor
 	{
@@ -558118,7 +558117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4350.02 -2063.96 14.2764"
 	editor
 	{
@@ -558158,7 +558157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4346.5 -2069.2 14.2764"
 	editor
 	{
@@ -558198,7 +558197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4342.63 -2064.29 14.2764"
 	editor
 	{
@@ -558238,7 +558237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4333.15 -2070.02 14.2764"
 	editor
 	{
@@ -558278,7 +558277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4325.83 -2069.22 14.2764"
 	editor
 	{
@@ -558318,7 +558317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4318.95 -2069 14.2764"
 	editor
 	{
@@ -558358,7 +558357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4321.76 -2063.16 14.2764"
 	editor
 	{
@@ -558398,7 +558397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4328.64 -2063.39 14.2764"
 	editor
 	{
@@ -558438,7 +558437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4323.73 -2066.08 22.9704"
 	editor
 	{
@@ -558478,7 +558477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.81 -2077.97 35.5684"
 	editor
 	{
@@ -558518,7 +558517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4318.5 -2077.54 35.5684"
 	editor
 	{
@@ -558558,7 +558557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4322.82 -2080.57 35.5684"
 	editor
 	{
@@ -558598,7 +558597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4327.96 -2084.61 35.5684"
 	editor
 	{
@@ -558638,7 +558637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4332.81 -2077.97 35.5684"
 	editor
 	{
@@ -558678,7 +558677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4332.7 -2084.59 35.5684"
 	editor
 	{
@@ -558718,7 +558717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4336.94 -2083.25 35.5684"
 	editor
 	{
@@ -558758,7 +558757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4341.38 -2079.66 35.5684"
 	editor
 	{
@@ -558798,7 +558797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4346.6 -2076.82 35.5684"
 	editor
 	{
@@ -558838,7 +558837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4350.93 -2079.85 35.5684"
 	editor
 	{
@@ -558878,7 +558877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4355.87 -2083.25 35.5684"
 	editor
 	{
@@ -558918,7 +558917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4360.61 -2083.23 35.5684"
 	editor
 	{
@@ -558958,7 +558957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4360.72 -2076.61 35.5684"
 	editor
 	{
@@ -558998,7 +558997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.41 -2070.9 61.7514"
 	editor
 	{
@@ -559038,7 +559037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4323.2 -2071.3 61.7514"
 	editor
 	{
@@ -559078,7 +559077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4333.47 -2069.44 61.7694"
 	editor
 	{
@@ -559118,7 +559117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4333.8 -2065.57 61.7694"
 	editor
 	{
@@ -559158,7 +559157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4319.7 -2062.99 55.6924"
 	editor
 	{
@@ -559198,7 +559197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4342.47 -2067.73 61.6474"
 	editor
 	{
@@ -559238,7 +559237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4342.29 -2063.59 61.5853"
 	editor
 	{
@@ -559278,7 +559277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4350.89 -2070.49 61.7754"
 	editor
 	{
@@ -559318,7 +559317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4358.84 -2070.65 61.7754"
 	editor
 	{
@@ -559358,7 +559357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4358.71 -2061.27 55.5834"
 	editor
 	{
@@ -559398,7 +559397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4350.76 -2061.11 55.5834"
 	editor
 	{
@@ -559438,7 +559437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4334.6 -2069.93 75.6814"
 	editor
 	{
@@ -559478,7 +559477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4346.09 -2063.03 75.6814"
 	editor
 	{
@@ -559518,7 +559517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.6 -2070.45 75.6814"
 	editor
 	{
@@ -559558,7 +559557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4319.35 -2061.76 75.6814"
 	editor
 	{
@@ -559598,7 +559597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4355.59 -2080.11 75.6814"
 	editor
 	{
@@ -559638,7 +559637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4361.09 -2083.51 75.6814"
 	editor
 	{
@@ -559678,7 +559677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4337.96 -2084.68 75.6814"
 	editor
 	{
@@ -559718,7 +559717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4343.57 -2084.64 75.6814"
 	editor
 	{
@@ -559758,7 +559757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4349.54 -2085.35 75.6814"
 	editor
 	{
@@ -559798,7 +559797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4333.11 -2083.4 75.6814"
 	editor
 	{
@@ -559838,7 +559837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4328.32 -2085.36 75.6814"
 	editor
 	{
@@ -559878,7 +559877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4323.51 -2083.78 75.6814"
 	editor
 	{
@@ -559918,7 +559917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4309.01 -2084.39 75.6814"
 	editor
 	{
@@ -559958,7 +559957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.81 -2085.97 75.6814"
 	editor
 	{
@@ -559998,7 +559997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4296.65 -2062.21 75.6814"
 	editor
 	{
@@ -560038,7 +560037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4295.62 -2083.73 75.6814"
 	editor
 	{
@@ -560078,7 +560077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4278.38 -2071.02 75.6814"
 	editor
 	{
@@ -560118,7 +560117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4255.85 -2063.45 75.6814"
 	editor
 	{
@@ -560158,7 +560157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4267.29 -2067.59 75.6814"
 	editor
 	{
@@ -560198,7 +560197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4284.17 -2079.59 75.6814"
 	editor
 	{
@@ -560238,7 +560237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4273.09 -2076.16 75.6814"
 	editor
 	{
@@ -560278,7 +560277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4260.53 -2081.14 75.6814"
 	editor
 	{
@@ -560318,7 +560317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.64 -2081.01 75.6814"
 	editor
 	{
@@ -560358,7 +560357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4254.81 -2084.97 75.6814"
 	editor
 	{
@@ -560398,7 +560397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4237.67 -2081.38 75.6814"
 	editor
 	{
@@ -560438,7 +560437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4232.11 -2085.42 75.6814"
 	editor
 	{
@@ -560478,7 +560477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4227.1 -2081.06 75.6814"
 	editor
 	{
@@ -560518,7 +560517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4216.86 -2077.25 75.6814"
 	editor
 	{
@@ -560558,7 +560557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4206.36 -2076.33 75.6814"
 	editor
 	{
@@ -560598,7 +560597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4202.83 -2081.42 75.6814"
 	editor
 	{
@@ -560638,7 +560637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4242.46 -2062.79 75.6814"
 	editor
 	{
@@ -560678,7 +560677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4237.65 -2061.21 75.6814"
 	editor
 	{
@@ -560718,7 +560717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4232.59 -2064.78 75.6814"
 	editor
 	{
@@ -560758,7 +560757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4227.95 -2063.4 75.6814"
 	editor
 	{
@@ -560798,7 +560797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4223.15 -2061.82 75.6814"
 	editor
 	{
@@ -560838,7 +560837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.82 -2082.34 13.8274"
 	editor
 	{
@@ -560878,7 +560877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.82 -2082.35 16.3784"
 	editor
 	{
@@ -560918,7 +560917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4253.76 -2064.8 13.1424"
 	editor
 	{
@@ -560958,7 +560957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4253.76 -2064.79 15.8654"
 	editor
 	{
@@ -560998,7 +560997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4253.64 -2064.79 18.6764"
 	editor
 	{
@@ -561038,7 +561037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4261.81 -2064.8 13.2074"
 	editor
 	{
@@ -561078,7 +561077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4261.81 -2064.79 15.7594"
 	editor
 	{
@@ -561118,7 +561117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4264.44 -2081.85 13.1424"
 	editor
 	{
@@ -561158,7 +561157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4269.91 -2064.84 13.1424"
 	editor
 	{
@@ -561198,7 +561197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4273.5 -2082.34 13.2074"
 	editor
 	{
@@ -561238,7 +561237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4273.5 -2082.35 15.7594"
 	editor
 	{
@@ -561278,7 +561277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4281.55 -2082.34 13.1424"
 	editor
 	{
@@ -561318,7 +561317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4277.96 -2064.84 13.2074"
 	editor
 	{
@@ -561358,7 +561357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4277.95 -2064.83 16.0884"
 	editor
 	{
@@ -561398,7 +561397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4289.65 -2082.38 13.2074"
 	editor
 	{
@@ -561438,7 +561437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4289.65 -2082.39 15.7594"
 	editor
 	{
@@ -561478,7 +561477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4289.77 -2082.39 18.2144"
 	editor
 	{
@@ -561518,7 +561517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4287.02 -2065.33 13.1424"
 	editor
 	{
@@ -561558,7 +561557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4295.07 -2065.33 13.2074"
 	editor
 	{
@@ -561598,7 +561597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4295.07 -2065.31 15.8724"
 	editor
 	{
@@ -561638,7 +561637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4294.96 -2065.31 18.6364"
 	editor
 	{
@@ -561678,7 +561677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4297.7 -2082.38 13.1424"
 	editor
 	{
@@ -561718,7 +561717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4302.64 -2064.84 13.8274"
 	editor
 	{
@@ -561758,7 +561757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4236.09 -2066.18 12.9474"
 	editor
 	{
@@ -561798,7 +561797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4236.02 -2061.36 12.9474"
 	editor
 	{
@@ -561838,7 +561837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4225.35 -2061.33 12.9474"
 	editor
 	{
@@ -561878,7 +561877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4214.65 -2066.24 12.9474"
 	editor
 	{
@@ -561918,7 +561917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4204.65 -2062.36 12.9474"
 	editor
 	{
@@ -561958,7 +561957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4228.14 -2068.8 55.0014"
 	editor
 	{
@@ -561998,7 +561997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4241.92 -2062.97 54.8644"
 	editor
 	{
@@ -562038,7 +562037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4221.65 -2064.21 54.8644"
 	editor
 	{
@@ -562078,7 +562077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4202.65 -2060.21 55.2764"
 	editor
 	{
@@ -562118,7 +562117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4218.22 -2069.26 75.6814"
 	editor
 	{
@@ -562158,7 +562157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4212.28 -2068.33 75.6814"
 	editor
 	{
@@ -562198,7 +562197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4213.51 -2062.5 75.6814"
 	editor
 	{
@@ -562238,7 +562237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4201.92 -2061.83 75.6814"
 	editor
 	{
@@ -562278,7 +562277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4239.77 -2077.66 14.2764"
 	editor
 	{
@@ -562318,7 +562317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4236.95 -2083.49 14.2764"
 	editor
 	{
@@ -562358,7 +562357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4229.56 -2083.82 14.2764"
 	editor
 	{
@@ -562398,7 +562397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4225.49 -2077.76 14.2764"
 	editor
 	{
@@ -562438,7 +562437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4222.68 -2083.6 14.2764"
 	editor
 	{
@@ -562478,7 +562477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4218.1 -2078.09 14.2764"
 	editor
 	{
@@ -562518,7 +562517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4208.62 -2083.82 14.2764"
 	editor
 	{
@@ -562558,7 +562557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4201.31 -2082.03 59.4104"
 	editor
 	{
@@ -562598,7 +562597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4205.78 -2081.04 55.9473"
 	editor
 	{
@@ -562638,7 +562637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4238.06 -2080.87 55.9324"
 	editor
 	{
@@ -562678,7 +562677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4271.43 -2062.84 55.6224"
 	editor
 	{
@@ -562718,7 +562717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4282.09 -2067.03 55.4364"
 	editor
 	{
@@ -562758,7 +562757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4284.09 -2084.03 55.6224"
 	editor
 	{
@@ -562798,7 +562797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4292.09 -2078.03 55.5714"
 	editor
 	{
@@ -562838,7 +562837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4297.47 -2084.41 55.3653"
 	editor
 	{
@@ -562878,7 +562877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4299.15 -2069.2 55.6404"
 	editor
 	{
@@ -562918,7 +562917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4252.32 -2077.97 55.6404"
 	editor
 	{
@@ -562958,7 +562957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4265.09 -2068.03 55.8133"
 	editor
 	{
@@ -562998,7 +562997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4275.39 -2077.97 55.8274"
 	editor
 	{
@@ -563038,7 +563037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4254 -2062.77 55.3653"
 	editor
 	{
@@ -563078,7 +563077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4253.65 -2069.2 55.5714"
 	editor
 	{
@@ -563118,7 +563117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4260.88 -1907.22 74.8277"
 	editor
 	{
@@ -563158,7 +563157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4250.43 -1902.21 74.6917"
 	editor
 	{
@@ -563198,7 +563197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4231.31 -1900.8 74.7056"
 	editor
 	{
@@ -563238,7 +563237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4220.18 -1906.28 74.9787"
 	editor
 	{
@@ -563278,7 +563277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4208.24 -1923.39 75.1057"
 	editor
 	{
@@ -563318,7 +563317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4201.36 -1923.16 75.1057"
 	editor
 	{
@@ -563358,7 +563357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4204.29 -1921.26 83.8006"
 	editor
 	{
@@ -563398,7 +563397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4226.44 -1920.09 74.6517"
 	editor
 	{
@@ -563438,7 +563437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4226.31 -1920.09 77.8987"
 	editor
 	{
@@ -563478,7 +563477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4234.2 -1920.03 74.6517"
 	editor
 	{
@@ -563518,7 +563517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4234.07 -1920.03 77.8987"
 	editor
 	{
@@ -563558,7 +563557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4242 -1920 74.6517"
 	editor
 	{
@@ -563598,7 +563597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4230.4 -1919.17 81.1637"
 	editor
 	{
@@ -563638,7 +563637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4254.88 -1914.71 54.8837"
 	editor
 	{
@@ -563678,7 +563677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4275.69 -1918.84 54.8837"
 	editor
 	{
@@ -563718,7 +563717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4270.13 -1922.88 54.8837"
 	editor
 	{
@@ -563758,7 +563757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4314.42 -1914.7 54.9437"
 	editor
 	{
@@ -563798,7 +563797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4301.89 -1919.04 54.9437"
 	editor
 	{
@@ -563838,7 +563837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4296.17 -1922.87 54.9437"
 	editor
 	{
@@ -563878,7 +563877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4290 -1918.91 54.9437"
 	editor
 	{
@@ -563918,7 +563917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4325.12 -1905.76 54.8477"
 	editor
 	{
@@ -563958,7 +563957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4318.95 -1901.8 54.8477"
 	editor
 	{
@@ -563998,7 +563997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.23 -1905.63 54.8477"
 	editor
 	{
@@ -564038,7 +564037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4300.7 -1909.97 54.8477"
 	editor
 	{
@@ -564078,7 +564077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4345.02 -1901.56 55.0397"
 	editor
 	{
@@ -564118,7 +564117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4339.43 -1905.83 54.7876"
 	editor
 	{
@@ -564158,7 +564157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4360.24 -1909.96 54.7876"
 	editor
 	{
@@ -564198,7 +564197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4358.16 -1922.32 74.7867"
 	editor
 	{
@@ -564238,7 +564237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4380.43 -1917.17 73.847"
 	editor
 	{
@@ -564278,7 +564277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4387.53 -1922.74 73.7101"
 	editor
 	{
@@ -564318,7 +564317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4419.2 -1919.82 73.983"
 	editor
 	{
@@ -564358,7 +564357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4380.31 -1903.4 54.2162"
 	editor
 	{
@@ -564398,7 +564397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4384.81 -1908.27 54.2162"
 	editor
 	{
@@ -564438,7 +564437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4395.85 -1903.22 54.2162"
 	editor
 	{
@@ -564478,7 +564477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4392.33 -1908.46 54.2162"
 	editor
 	{
@@ -564518,7 +564517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4399.72 -1908.13 54.2162"
 	editor
 	{
@@ -564558,7 +564557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4413.71 -1909.03 54.2162"
 	editor
 	{
@@ -564598,7 +564597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4415.19 -1904.76 34.6672"
 	editor
 	{
@@ -564638,7 +564637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4415.26 -1909.58 34.6672"
 	editor
 	{
@@ -564678,7 +564677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4404.52 -1904.73 34.6672"
 	editor
 	{
@@ -564718,7 +564717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4393.82 -1909.64 34.6672"
 	editor
 	{
@@ -564758,7 +564757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4383.82 -1905.76 34.6672"
 	editor
 	{
@@ -564798,7 +564797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4420.58 -1922.36 34.1438"
 	editor
 	{
@@ -564838,7 +564837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4407.2 -1921.98 34.4008"
 	editor
 	{
@@ -564878,7 +564877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4398.5 -1918.92 34.6058"
 	editor
 	{
@@ -564918,7 +564917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4375.43 -1918.92 34.4189"
 	editor
 	{
@@ -564958,7 +564957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4359.76 -1917.69 35.8457"
 	editor
 	{
@@ -564998,7 +564997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4348.34 -1919.87 54.9516"
 	editor
 	{
@@ -565038,7 +565037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4348.34 -1919.86 57.7337"
 	editor
 	{
@@ -565078,7 +565077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4348.21 -1919.86 60.5697"
 	editor
 	{
@@ -565118,7 +565117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4340.29 -1919.87 54.8866"
 	editor
 	{
@@ -565158,7 +565157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4340.29 -1919.86 57.6687"
 	editor
 	{
@@ -565198,7 +565197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4332.19 -1919.83 54.9516"
 	editor
 	{
@@ -565238,7 +565237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4324.14 -1919.83 54.8866"
 	editor
 	{
@@ -565278,7 +565277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4324.14 -1919.82 57.6687"
 	editor
 	{
@@ -565318,7 +565317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4212.33 -1922.95 55.0497"
 	editor
 	{
@@ -565358,7 +565357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4240.96 -1922.31 55.0727"
 	editor
 	{
@@ -565398,7 +565397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4230.18 -1922.56 55.0727"
 	editor
 	{
@@ -565438,7 +565437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4215.63 -1923.06 75.1057"
 	editor
 	{
@@ -565478,7 +565477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4266.78 -1904.8 54.8557"
 	editor
 	{
@@ -565518,7 +565517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4266.78 -1904.81 57.4077"
 	editor
 	{
@@ -565558,7 +565557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4274.83 -1904.8 54.7907"
 	editor
 	{
@@ -565598,7 +565597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4274.83 -1904.81 57.3417"
 	editor
 	{
@@ -565638,7 +565637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4274.96 -1904.81 59.7977"
 	editor
 	{
@@ -565678,7 +565677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4282.93 -1904.84 54.8557"
 	editor
 	{
@@ -565718,7 +565717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4290.98 -1904.84 54.7907"
 	editor
 	{
@@ -565758,7 +565757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4290.98 -1904.85 57.3417"
 	editor
 	{
@@ -565798,7 +565797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4261.45 -1919.71 20.5957"
 	editor
 	{
@@ -565838,7 +565837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4269.9 -1913.49 19.5127"
 	editor
 	{
@@ -565878,7 +565877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4286.64 -1922.95 12.6467"
 	editor
 	{
@@ -565918,7 +565917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4282.65 -1916.35 12.5597"
 	editor
 	{
@@ -565958,7 +565957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4297.05 -1905.05 35.0257"
 	editor
 	{
@@ -565998,7 +565997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4293.55 -1905.79 20.5767"
 	editor
 	{
@@ -566038,7 +566037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4253.35 -1905.79 20.0727"
 	editor
 	{
@@ -566078,7 +566077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4239.21 -1900.61 35.7297"
 	editor
 	{
@@ -566118,7 +566117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4243.85 -1906.98 35.9357"
 	editor
 	{
@@ -566158,7 +566157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4232.58 -1906.98 35.9207"
 	editor
 	{
@@ -566198,7 +566197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4221.45 -1906.98 35.8477"
 	editor
 	{
@@ -566238,7 +566237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4205.3 -1900.61 35.8277"
 	editor
 	{
@@ -566278,7 +566277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4202.87 -1900.77 54.6827"
 	editor
 	{
@@ -566318,7 +566317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4207.51 -1902.15 54.6827"
 	editor
 	{
@@ -566358,7 +566357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4212.32 -1903.73 54.6827"
 	editor
 	{
@@ -566398,7 +566397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4211.9 -1911.87 20.0267"
 	editor
 	{
@@ -566438,7 +566437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4225.65 -1911.87 20.2797"
 	editor
 	{
@@ -566478,7 +566477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4225.05 -1914.32 19.9047"
 	editor
 	{
@@ -566518,7 +566517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4295.87 -1914.8 40.8667"
 	editor
 	{
@@ -566558,7 +566557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4289.58 -1922.71 34.8087"
 	editor
 	{
@@ -566598,7 +566597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4286.08 -1914.4 40.8667"
 	editor
 	{
@@ -566638,7 +566637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4275.81 -1916.26 40.8847"
 	editor
 	{
@@ -566678,7 +566677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4275.48 -1920.13 40.8847"
 	editor
 	{
@@ -566718,7 +566717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4328.48 -1901.72 12.5507"
 	editor
 	{
@@ -566758,7 +566757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4320.26 -1907.83 12.5507"
 	editor
 	{
@@ -566798,7 +566797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4316.45 -1905 35.0257"
 	editor
 	{
@@ -566838,7 +566837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4317.2 -1914.79 20.0767"
 	editor
 	{
@@ -566878,7 +566877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4353.39 -1904.93 20.4997"
 	editor
 	{
@@ -566918,7 +566917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4345.14 -1911.87 19.4167"
 	editor
 	{
@@ -566958,7 +566957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4343.7 -1913.87 19.3367"
 	editor
 	{
@@ -566998,7 +566997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4348.45 -1919.8 19.9327"
 	editor
 	{
@@ -567038,7 +567037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4382.82 -1919.99 12.0405"
 	editor
 	{
@@ -567078,7 +567077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4397.13 -1922.82 12.0405"
 	editor
 	{
@@ -567118,7 +567117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4410.19 -1921.4 12.0405"
 	editor
 	{
@@ -567158,7 +567157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4386.22 -1909.6 74.3662"
 	editor
 	{
@@ -567198,7 +567197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4385.92 -1906.03 74.3662"
 	editor
 	{
@@ -567238,7 +567237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4386.33 -1902.98 74.3662"
 	editor
 	{
@@ -567278,7 +567277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4390.96 -1909.58 74.3662"
 	editor
 	{
@@ -567318,7 +567317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4395.76 -1902.53 74.3662"
 	editor
 	{
@@ -567358,7 +567357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4400.08 -1905.56 74.3662"
 	editor
 	{
@@ -567398,7 +567397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4409.96 -1909.58 74.3662"
 	editor
 	{
@@ -567438,7 +567437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4362.33 -2080.45 54.5167"
 	editor
 	{
@@ -567478,7 +567477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4309.78 -2083.62 54.2437"
 	editor
 	{
@@ -567518,7 +567517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4323.56 -2077.8 54.3807"
 	editor
 	{
@@ -567558,7 +567557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4330.66 -2083.37 54.2437"
 	editor
 	{
@@ -567598,7 +567597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4349.05 -2086.39 54.6557"
 	editor
 	{
@@ -567638,7 +567637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4346.69 -2077.53 54.5167"
 	editor
 	{
@@ -567678,7 +567677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4242.63 -2068.61 34.9477"
 	editor
 	{
@@ -567718,7 +567717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4243.04 -2065.56 34.9477"
 	editor
 	{
@@ -567758,7 +567757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4242.74 -2061.99 34.9477"
 	editor
 	{
@@ -567798,7 +567797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4238 -2062.01 34.9477"
 	editor
 	{
@@ -567838,7 +567837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4233.2 -2069.06 34.9477"
 	editor
 	{
@@ -567878,7 +567877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4228.88 -2066.03 34.9477"
 	editor
 	{
@@ -567918,7 +567917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4223.33 -2065.45 34.9477"
 	editor
 	{
@@ -567958,7 +567957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4200.77 -2066.75 34.9477"
 	editor
 	{
@@ -567998,7 +567997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4205.1 -2069.78 34.9477"
 	editor
 	{
@@ -568038,7 +568037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4210.32 -2066.94 34.9477"
 	editor
 	{
@@ -568078,7 +568077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4214.76 -2063.35 34.9477"
 	editor
 	{
@@ -568118,7 +568117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4219 -2062.01 34.9477"
 	editor
 	{
@@ -568158,7 +568157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4309.2 -2084.03 34.9477"
 	editor
 	{
@@ -568198,7 +568197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4313.94 -2084.01 34.9477"
 	editor
 	{
@@ -568238,7 +568237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4300.14 -2084.03 34.8587"
 	editor
 	{
@@ -568278,7 +568277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4296.14 -2084.39 34.8587"
 	editor
 	{
@@ -568318,7 +568317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4303.8 -2069.27 34.8587"
 	editor
 	{
@@ -568358,7 +568357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4303.8 -2065.27 34.8587"
 	editor
 	{
@@ -568398,7 +568397,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4291.8 -2065.63 34.8587"
 	editor
 	{
@@ -568438,7 +568437,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4291.8 -2060.99 34.8587"
 	editor
 	{
@@ -568478,7 +568477,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4295.8 -2060.63 34.8587"
 	editor
 	{
@@ -568518,7 +568517,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4299.8 -2060.99 34.8587"
 	editor
 	{
@@ -568558,7 +568557,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4271.8 -2070.27 34.8587"
 	editor
 	{
@@ -568598,7 +568597,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4267.8 -2066.63 34.8587"
 	editor
 	{
@@ -568638,7 +568637,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4271.8 -2066.27 34.8587"
 	editor
 	{
@@ -568678,7 +568677,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4271.8 -2061.63 34.8587"
 	editor
 	{
@@ -568718,7 +568717,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4275.8 -2061.99 34.8587"
 	editor
 	{
@@ -568758,7 +568757,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4279.8 -2061.63 34.8587"
 	editor
 	{
@@ -568798,7 +568797,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4283.8 -2065.63 34.8587"
 	editor
 	{
@@ -568838,7 +568837,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4284.14 -2079.39 34.8587"
 	editor
 	{
@@ -568878,7 +568877,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4280.14 -2084.39 34.8587"
 	editor
 	{
@@ -568918,7 +568917,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4276.14 -2084.03 34.8587"
 	editor
 	{
@@ -568958,7 +568957,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4272.14 -2084.39 34.8587"
 	editor
 	{
@@ -568998,7 +568997,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4268.14 -2080.39 34.8587"
 	editor
 	{
@@ -569038,7 +569037,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4264.14 -2076.75 34.8587"
 	editor
 	{
@@ -569078,7 +569077,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4260.14 -2085.03 34.8587"
 	editor
 	{
@@ -569118,7 +569117,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4260.14 -2076.39 34.8587"
 	editor
 	{
@@ -569158,7 +569157,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.14 -2085.39 34.8587"
 	editor
 	{
@@ -569198,7 +569197,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4252.14 -2085.03 34.8587"
 	editor
 	{
@@ -569238,7 +569237,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.14 -2080.75 34.8587"
 	editor
 	{
@@ -569278,7 +569277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4248.14 -2076.75 34.8587"
 	editor
 	{
@@ -569318,7 +569317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4251.8 -2061.99 34.8587"
 	editor
 	{
@@ -569357,7 +569356,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1811.64 -739.606 -72.3563"
 	editor
 	{
@@ -570365,7 +570364,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1983.64 -714.606 -72.3563"
 	editor
 	{
@@ -570404,7 +570403,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1862.64 -817.606 -72.3563"
 	editor
 	{
@@ -571356,7 +571355,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1899.62 -1708.56 -30.3256"
 	editor
 	{
@@ -571396,7 +571395,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1893.62 -1705.56 -30.3256"
 	editor
 	{
@@ -571435,7 +571434,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1843.72 -1383.77 -70.314"
 	editor
 	{
@@ -571511,7 +571510,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2086.64 -1212.6 -72.3563"
 	editor
 	{
@@ -571550,7 +571549,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2034.31 -1364.1 -72.3214"
 	editor
 	{
@@ -571589,7 +571588,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1767.77 -1355.8 -71.6307"
 	editor
 	{
@@ -571631,7 +571630,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1977 -589.811 9.50798"
 	editor
 	{
@@ -571670,7 +571669,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1992.26 -1447.27 -72.3214"
 	editor
 	{
@@ -571709,7 +571708,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2034.64 -792.606 -72.3563"
 	editor
 	{
@@ -571788,7 +571787,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2091.64 -1103.6 -72.3563"
 	editor
 	{
@@ -571827,7 +571826,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.64 -1167.6 -72.3563"
 	editor
 	{
@@ -571866,7 +571865,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1826.64 -1064.6 -72.3563"
 	editor
 	{
@@ -571905,7 +571904,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1775.64 -986.606 -72.3563"
 	editor
 	{
@@ -571944,7 +571943,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1974.67 -995.606 -72.3563"
 	editor
 	{
@@ -572278,7 +572277,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1872.62 -1707.56 -30.3256"
 	editor
 	{
@@ -572318,7 +572317,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1804.62 -1712.56 -11.9796"
 	editor
 	{
@@ -572358,7 +572357,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1880.62 -1709.56 -30.3256"
 	editor
 	{
@@ -572400,7 +572399,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2135.09 -725.384 2.44098"
 	editor
 	{
@@ -572442,7 +572441,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2027.67 -1597.56 -30.1486"
 	editor
 	{
@@ -574277,7 +574276,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2039.62 -1590.56 -30.3036"
 	editor
 	{
@@ -574319,7 +574318,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2039.61 -1590.56 -29.0196"
 	editor
 	{
@@ -574361,7 +574360,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2038.67 -1590.56 -27.3256"
 	editor
 	{
@@ -574403,7 +574402,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2027.69 -1575.6 -29.4293"
 	editor
 	{
@@ -574445,7 +574444,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1828.62 -1551.56 -29.8256"
 	editor
 	{
@@ -574487,7 +574486,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1822.62 -1563.52 -29.8256"
 	editor
 	{
@@ -574525,7 +574524,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1864.62 -1557.56 -30.8256"
 	editor
 	{
@@ -574563,7 +574562,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1871.62 -1560.56 -30.8256"
 	editor
 	{
@@ -574601,7 +574600,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1909.62 -1557.56 -30.8256"
 	editor
 	{
@@ -574639,7 +574638,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1916.62 -1560.56 -30.8256"
 	editor
 	{
@@ -575986,7 +575985,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1829.64 -1021.51 -35.3827"
 	editor
 	{
@@ -576024,7 +576023,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1865.64 -774.521 -35.3827"
 	editor
 	{
@@ -576062,7 +576061,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2037.64 -749.521 -35.3827"
 	editor
 	{
@@ -576121,7 +576120,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1805.14 -1394.15 -34.648"
 	editor
 	{
@@ -576159,7 +576158,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2031.07 -1428.32 -35.3477"
 	editor
 	{
@@ -576199,7 +576198,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1859.62 -1709.56 -11.9796"
 	editor
 	{
@@ -576239,7 +576238,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1855.62 -1712.56 -11.9796"
 	editor
 	{
@@ -576279,7 +576278,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1846.62 -1709.56 -11.9796"
 	editor
 	{
@@ -576319,7 +576318,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1840.62 -1705.56 -11.9796"
 	editor
 	{
@@ -576359,7 +576358,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1829.62 -1709.56 -11.9796"
 	editor
 	{
@@ -576399,7 +576398,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1833.62 -1708.56 -11.9796"
 	editor
 	{
@@ -576439,7 +576438,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1858.62 -1706.56 -30.3256"
 	editor
 	{
@@ -576479,7 +576478,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1835.62 -1709.56 -30.3256"
 	editor
 	{
@@ -576519,7 +576518,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1853.62 -1710.56 -65.3256"
 	editor
 	{
@@ -576559,7 +576558,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1834.62 -1710.56 -65.3256"
 	editor
 	{
@@ -576599,7 +576598,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1785.62 -1710.56 -47.5246"
 	editor
 	{
@@ -576639,7 +576638,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1784.62 -1712.56 -30.3256"
 	editor
 	{
@@ -576679,7 +576678,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1788.62 -1708.56 -30.3256"
 	editor
 	{
@@ -576719,7 +576718,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1790.62 -1712.56 -30.3256"
 	editor
 	{
@@ -576759,7 +576758,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1812.62 -1709.56 -30.3256"
 	editor
 	{
@@ -576799,7 +576798,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1791.62 -1708.56 -11.9796"
 	editor
 	{
@@ -579685,7 +579684,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1772 -622 -71.9861"
 	editor
 	{
@@ -583093,8 +583092,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-5793.55 -214.692 179.05]"
-		"look" "[-5532.53 -163.003 166.036]"
+		"position" "[-1934.05 -1236.13 -2.1826]"
+		"look" "[-1851.85 -1489.11 -17.055]"
 	}
 }
 cordon
