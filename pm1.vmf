@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "52"
+	"mapversion" "53"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "52"
+	"mapversion" "53"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM1_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm1"
@@ -547865,7 +547865,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5432.92 -227.706 132.317"
 	editor
 	{
@@ -547907,7 +547907,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5439.92 -239.657 132.166"
 	editor
 	{
@@ -547949,7 +547949,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5439.92 -239.647 133.45"
 	editor
 	{
@@ -547991,7 +547991,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5439.92 -238.706 135.144"
 	editor
 	{
@@ -583092,8 +583092,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1934.05 -1236.13 -2.1826]"
-		"look" "[-1851.85 -1489.11 -17.055]"
+		"position" "[-5449.2 -207.565 147.944]"
+		"look" "[-5305.46 -391.533 19.5977]"
 	}
 }
 cordon
