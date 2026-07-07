@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "120"
+	"mapversion" "122"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "120"
+	"mapversion" "122"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub2"
 	"detailmaterial" "detail/detailsprites"
@@ -145498,9 +145498,9 @@ entity
 		{
 			"id" "9372"
 			"plane" "(-6144 2560 194) (-6144 2560 50) (-6152 2560 50)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "CONCRETE/CORRIDOR_WALL_B"
+			"uaxis" "[1 0 0 -2] 0.25"
+			"vaxis" "[0 0 -1 85] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -584059,8 +584059,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1874.23 -1558.53 12.3407]"
-		"look" "[-1853.9 -1822.73 40.1911]"
+		"position" "[-6238.87 2349.95 161.394]"
+		"look" "[-6181.05 2604.45 107.82]"
 	}
 }
 cordon
