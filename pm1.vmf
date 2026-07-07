@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "53"
+	"mapversion" "54"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "53"
+	"mapversion" "54"
 	"classname" "worldspawn"
 	"briefing" "#P3_PM1_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from pm1"
@@ -550208,7 +550208,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/poster_08"
 	"RenderOrder" "0"
-	"sides" ""
+	"sides" "1567"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-45.7019 -48.25 0"
@@ -550459,7 +550459,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/poster_01"
 	"RenderOrder" "0"
-	"sides" "775"
+	"sides" "1567"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-41.4038 -42.5 0"
@@ -583092,8 +583092,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-5449.2 -207.565 147.944]"
-		"look" "[-5305.46 -391.533 19.5977]"
+		"position" "[-5617.16 -147.687 187.684]"
+		"look" "[-5689.57 104.819 143.253]"
 	}
 }
 cordon
