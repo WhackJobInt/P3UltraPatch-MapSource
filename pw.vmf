@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "67"
+	"mapversion" "68"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "67"
+	"mapversion" "68"
 	"classname" "worldspawn"
 	"briefing" "#P3_PW_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from pw"
@@ -281558,7 +281558,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/graffiti_tagjumble1"
 	"RenderOrder" "0"
-	"sides" "13717"
+	"sides" "13717 641"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-66.9999 -44 0"
@@ -312612,13 +312612,59 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "869819"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 0 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_default"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_default"
+	"targetname" "MedBox1"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "1197.43 -823 -72"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-37.9223 -47.5359 -32.2297]"
-		"look" "[154.874 -41.8505 -215.971]"
+		"position" "[1310.03 -609.457 -56.1875]"
+		"look" "[1085.48 -752.459 -65.5307]"
 	}
 }
 cordon
