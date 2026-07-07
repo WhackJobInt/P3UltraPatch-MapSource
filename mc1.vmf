@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "45"
+	"mapversion" "46"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "45"
+	"mapversion" "46"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from mc1"
 	"detailmaterial" "detail/detailsprites"
@@ -556149,7 +556149,7 @@ entity
 	"shot_damage_effect_duration" "1"
 	"shot_destroy_effect_duration" "1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4478.11 -2221.59 82.5405"
 	editor
 	{
@@ -582680,8 +582680,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-3965.36 -1805.5 112.056]"
-		"look" "[-4197.96 -1914.96 42.2132]"
+		"position" "[-6055.86 2867.96 103.728]"
+		"look" "[-6072.07 3125.47 37.4809]"
 	}
 }
 cordon
