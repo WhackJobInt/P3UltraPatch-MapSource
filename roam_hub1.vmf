@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "39"
+	"mapversion" "40"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "39"
+	"mapversion" "40"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub1"
 	"detailmaterial" "detail/detailsprites"
@@ -324455,7 +324455,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "3687.88 345 18.089"
 	editor
 	{
@@ -324482,7 +324482,7 @@ entity
 	"model" "models/garbage/puddle_11.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "3209 121 16"
 	editor
 	{
@@ -352057,7 +352057,7 @@ entity
 	"model" "models/signs/need_logo.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "4666 4732 584"
 	editor
 	{
@@ -353045,7 +353045,7 @@ entity
 	"model" "models/nature/flower_01c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2128 404 188"
 	editor
 	{
@@ -353072,7 +353072,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2164 408 188"
 	editor
 	{
@@ -353099,7 +353099,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2192 408 188"
 	editor
 	{
@@ -353126,7 +353126,7 @@ entity
 	"model" "models/nature/flower_01c.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2244 408 188"
 	editor
 	{
@@ -353153,7 +353153,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2212 408 188"
 	editor
 	{
@@ -353180,7 +353180,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2248 800 188"
 	editor
 	{
@@ -353207,7 +353207,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2204 804 188"
 	editor
 	{
@@ -353234,7 +353234,7 @@ entity
 	"model" "models/nature/flower_01b.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2169.6 803.805 188"
 	editor
 	{
@@ -353261,7 +353261,7 @@ entity
 	"model" "models/nature/flower_01b.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2144 804 188"
 	editor
 	{
@@ -353288,7 +353288,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2068.06 1016.74 188"
 	editor
 	{
@@ -353315,7 +353315,7 @@ entity
 	"model" "models/nature/flower_01a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2070.15 980.794 188"
 	editor
 	{
