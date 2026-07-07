@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "23"
+	"mapversion" "24"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "24"
 	"classname" "worldspawn"
 	"briefing" "#P3_DCR_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.0 from dcr"
@@ -369762,6 +369762,7 @@ entity
 	"spawnflags" "1547"
 	"StartDisabled" "0"
 	"StartState" "prop_default"
+	"targetname" "MedBox1"
 	"TwoHandledAnimationType" "0"
 	"Type" "0"
 	"origin" "2720 -1592 60"
@@ -369807,6 +369808,7 @@ entity
 	"spawnflags" "1547"
 	"StartDisabled" "0"
 	"StartState" "prop_default"
+	"targetname" "MedBox2"
 	"TwoHandledAnimationType" "0"
 	"Type" "0"
 	"origin" "1288 -1269 232"
@@ -369823,8 +369825,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2703.02 -1635.47 71.7539]"
-		"look" "[2799.28 -1387.29 62.4582]"
+		"position" "[2703.5 -1626.48 80.0541]"
+		"look" "[2800.46 -1391.23 1.29042]"
 	}
 }
 cordon
