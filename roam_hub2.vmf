@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "119"
+	"mapversion" "120"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "119"
+	"mapversion" "120"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_hub2"
 	"detailmaterial" "detail/detailsprites"
@@ -534816,7 +534816,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2135.19 -724.901 2.43266"
 	editor
 	{
@@ -536238,7 +536238,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1977.1 -589.328 9.49966"
 	editor
 	{
@@ -558177,7 +558177,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.35 2494.07 91.5989"
 	editor
 	{
@@ -558604,7 +558604,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.35 2640.07 92.5989"
 	editor
 	{
@@ -558646,7 +558646,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "3"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.35 2948.07 93.5989"
 	editor
 	{
@@ -558688,7 +558688,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5740.35 2794.07 93.5989"
 	editor
 	{
@@ -584059,8 +584059,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-6274.36 2251.59 103.997]"
-		"look" "[-6407.11 2021.66 126.292]"
+		"position" "[-1874.23 -1558.53 12.3407]"
+		"look" "[-1853.9 -1822.73 40.1911]"
 	}
 }
 cordon
