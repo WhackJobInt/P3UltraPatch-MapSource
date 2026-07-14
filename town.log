@@ -1,0 +1,899 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Postal III UP A\p3\materials
+Loading D:\SteamLibrary\steamapps\common\town.vmf
+material "models/props_interiors/metalfence007a" not found.
+Material not found!: MODELS/PROPS_INTERIORS/METALFENCE007A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/metalwall069a" not found.
+Material not found!: METAL/METALWALL069A
+Error! Variable "%keywords" is multiply defined in material "trims/wall_trim_01"!
+material "bricks/brick_wall_01_a" not found.
+Material not found!: BRICKS/BRICK_WALL_01_A
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_05"!
+material "nature/water_lowdirty001" not found.
+Material not found!: NATURE/WATER_LOWDIRTY001
+Error! Variable "%keywords" is multiply defined in material "floors/floor_tile_06"!
+Error! Variable "%keywords" is multiply defined in material "trims/wooden_desk_01"!
+material "composite/tile_shelf_01" not found.
+Material not found!: COMPOSITE/TILE_SHELF_01
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_07"!
+material "nature/blendsandrock004a" not found.
+Material not found!: NATURE/BLENDSANDROCK004A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 1019.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 500.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7395: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2065.0 1170.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 197.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1153.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2082.0 1098.0 199.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 760.0 199.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: Brush 7430: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4188 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing D:\SteamLibrary\steamapps\common\town.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2183420 bytes)
+Error loading studio model "models/objects_city/roof_device_02.mdl"!
+Error! prop_static using model "models/furniture/hallstand_01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/hallstand_01.mdl"!
+Static prop models/garbage/puddle_07.mdl outside the map (-1170.14, 3296.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1188.14, 3236.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1146.14, 3220.00, 14.15)
+Error! prop_static using model "models/furniture/shelving_01_b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_b.mdl"!
+Error! prop_static using model "models/furniture/shelving_01_a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10314 texinfos to 6816
+Reduced 173 texdatas to 130 (5102 bytes to 4067)
+Writing D:\SteamLibrary\steamapps\common\town.bsp
+25 seconds elapsed
+
+
+
+2 threads
+reading d:\steamlibrary\steamapps\common\town.bsp
+reading d:\steamlibrary\steamapps\common\town.prt
+3251 portalclusters
+9920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 541843 visible clusters (0.00%)
+Total clusters visible: 8073482
+Average clusters visible: 2483
+Building PAS...
+Average clusters audible: 3242
+visdatasize:2576251  compressed from 2652816
+writing d:\steamlibrary\steamapps\common\town.bsp
+10 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Postal III UP A\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\town.bsp
+19009 faces
+19 degenerate faces
+619250 square feet [89172032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+18990 patches before subdivision
+90866 patches after subdivision
+153 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26327559, max 3368
+transfer lists: 200.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(210219, 155379, 99186)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41184, 32496, 20180)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11766, 9713, 5753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4040, 3390, 1861)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1499, 1249, 626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(580, 475, 216)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(229, 182, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(92, 71, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 28, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(15, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2372 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 163/1024         7824/49152    (15.9%) 
+brushes               6310/8192        75720/98304    (77.0%) 
+brushsides           51095/65536      408760/524288   (78.0%) 
+planes               28686/65536      573720/1310720  (43.8%) 
+vertexes             32317/65536      387804/786432   (49.3%) 
+nodes                 7119/65536      227808/2097152  (10.9%) 
+texinfos              6816/12288      490752/884736   (55.5%) 
+texdata                130/2048         4160/65536    ( 6.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                19009/65536     1064504/3670016  (29.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            15410/65536      862960/3670016  (23.5%) 
+leaves                7283/65536      233056/2097152  (11.1%) 
+leaffaces            27424/65536       54848/131072   (41.8%) 
+leafbrushes          17581/65536       35162/131072   (26.8%) 
+areas                   17/256           136/2048     ( 6.6%) 
+surfedges           148977/512000     595908/2048000  (29.1%) 
+edges                90894/256000     363576/1024000  (35.5%) 
+LDR worldlights        153/8192        13464/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1746/32768       17460/327680   ( 5.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         34029/65536       68058/131072   (51.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4111260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2576251/16777216 (15.4%) 
+entdata               [variable]     1454983/393216   (370.0%) VERY FULL!
+LDR ambient table     7283/65536       29132/262144   (11.1%) 
+HDR ambient table     7283/65536       29132/262144   (11.1%) 
+LDR leaf ambient     23228/65536      650384/1835008  (35.4%) 
+HDR leaf ambient      7283/65536      203924/1835008  (11.1%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons       12/0             144/0        ( 0.0%) 
+occluder vert ind       48/0             192/0        ( 0.0%) 
+detail props          [variable]           1/803872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/85374    ( 0.0%) 
+pakfile               [variable]      186502/0        ( 0.0%) 
+physics               [variable]     2183420/4194304  (52.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 50507
+Writing d:\steamlibrary\steamapps\common\town.bsp
+7 minutes, 42 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Postal III UP A\p3\materials
+Loading D:\SteamLibrary\steamapps\common\town.vmf
+material "models/props_interiors/metalfence007a" not found.
+Material not found!: MODELS/PROPS_INTERIORS/METALFENCE007A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/metalwall069a" not found.
+Material not found!: METAL/METALWALL069A
+Error! Variable "%keywords" is multiply defined in material "trims/wall_trim_01"!
+material "bricks/brick_wall_01_a" not found.
+Material not found!: BRICKS/BRICK_WALL_01_A
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_05"!
+material "nature/water_lowdirty001" not found.
+Material not found!: NATURE/WATER_LOWDIRTY001
+Error! Variable "%keywords" is multiply defined in material "floors/floor_tile_06"!
+Error! Variable "%keywords" is multiply defined in material "trims/wooden_desk_01"!
+material "composite/tile_shelf_01" not found.
+Material not found!: COMPOSITE/TILE_SHELF_01
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_07"!
+material "nature/blendsandrock004a" not found.
+Material not found!: NATURE/BLENDSANDROCK004A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 1019.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 500.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7395: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2065.0 1170.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 197.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1153.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2082.0 1098.0 199.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 760.0 199.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: Brush 7430: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (3)
+Find Visible Detail Sides...
+Merged 4188 detail faces...done (6)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (6)
+writing D:\SteamLibrary\steamapps\common\town.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (6) (2183420 bytes)
+Error! prop_static using model "models/furniture/hallstand_01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/hallstand_01.mdl"!
+Static prop models/garbage/puddle_07.mdl outside the map (-1170.14, 3296.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1188.14, 3236.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1146.14, 3220.00, 14.15)
+Error! prop_static using model "models/furniture/shelving_01_b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_b.mdl"!
+Error! prop_static using model "models/furniture/shelving_01_a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10314 texinfos to 6816
+Reduced 173 texdatas to 130 (5102 bytes to 4067)
+Writing D:\SteamLibrary\steamapps\common\town.bsp
+1 minute, 57 seconds elapsed
+
+
+
+2 threads
+reading d:\steamlibrary\steamapps\common\town.bsp
+reading d:\steamlibrary\steamapps\common\town.prt
+3251 portalclusters
+9920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 541843 visible clusters (0.00%)
+Total clusters visible: 8073482
+Average clusters visible: 2483
+Building PAS...
+Average clusters audible: 3242
+visdatasize:2576251  compressed from 2652816
+writing d:\steamlibrary\steamapps\common\town.bsp
+1 minute, 41 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Postal III UP A\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\town.bsp
+19009 faces
+19 degenerate faces
+619250 square feet [89172032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+18990 patches before subdivision
+90866 patches after subdivision
+153 direct lights
+0...1...2...3...4...5...6...7...8...9...100.
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Postal III UP A\p3\materials
+Loading D:\SteamLibrary\steamapps\common\town.vmf
+material "models/props_interiors/metalfence007a" not found.
+Material not found!: MODELS/PROPS_INTERIORS/METALFENCE007A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/metalwall069a" not found.
+Material not found!: METAL/METALWALL069A
+Error! Variable "%keywords" is multiply defined in material "trims/wall_trim_01"!
+material "bricks/brick_wall_01_a" not found.
+Material not found!: BRICKS/BRICK_WALL_01_A
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_05"!
+material "nature/water_lowdirty001" not found.
+Material not found!: NATURE/WATER_LOWDIRTY001
+Error! Variable "%keywords" is multiply defined in material "floors/floor_tile_06"!
+Error! Variable "%keywords" is multiply defined in material "trims/wooden_desk_01"!
+material "composite/tile_shelf_01" not found.
+Material not found!: COMPOSITE/TILE_SHELF_01
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_07"!
+material "nature/blendsandrock004a" not found.
+Material not found!: NATURE/BLENDSANDROCK004A
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 1019.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 500.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7395: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2065.0 1170.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 197.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1153.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2082.0 1098.0 199.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 760.0 199.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: Brush 7430: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (2)
+Find Visible Detail Sides...
+Merged 4188 detail faces...done (10)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (10)
+writing D:\SteamLibrary\steamapps\common\town.prt...Building visibility clusters...
+done (4)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (2183420 bytes)
+Error! prop_static using model "models/furniture/hallstand_01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/hallstand_01.mdl"!
+Static prop models/garbage/puddle_07.mdl outside the map (-1170.14, 3296.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1188.14, 3236.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1146.14, 3220.00, 14.15)
+Error! prop_static using model "models/furniture/shelving_01_b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_b.mdl"!
+Error! prop_static using model "models/furniture/shelving_01_a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10314 texinfos to 6816
+Reduced 173 texdatas to 130 (5102 bytes to 4067)
+Writing D:\SteamLibrary\steamapps\common\town.bsp
+1 minute, 51 seconds elapsed
+
+
+
+2 threads
+reading d:\steamlibrary\steamapps\common\town.bsp
+reading d:\steamlibrary\steamapps\common\town.prt
+3251 portalclusters
+9920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 541843 visible clusters (0.00%)
+Total clusters visible: 8073482
+Average clusters visible: 2483
+Building PAS...
+Average clusters audible: 3242
+visdatasize:2576251  compressed from 2652816
+writing d:\steamlibrary\steamapps\common\town.bsp
+22 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Postal III UP A\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\town.bsp
+19009 faces
+19 degenerate faces
+619250 square feet [89172032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+18990 patches before subdivision
+90866 patches after subdivision
+153 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26231508, max 3386
+transfer lists: 200.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(209777, 155207, 99104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41128, 32475, 20171)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11758, 9709, 5751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4038, 3388, 1860)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1498, 1249, 626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(580, 475, 216)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(229, 182, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(92, 71, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 28, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(15, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0443 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5.
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Postal III UP A\p3\materials
+Loading D:\SteamLibrary\steamapps\common\town.vmf
+.material "models/props_interiors/metalfence007a" not found.
+Material not found!: MODELS/PROPS_INTERIORS/METALFENCE007A
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+.material "metal/metalwall069a" not found.
+Material not found!: METAL/METALWALL069A
+6Error! Variable "%keywords" is multiply defined in material "trims/wall_trim_01"!
+material "bricks/brick_wall_01_a" not found.
+Material not found!: BRICKS/BRICK_WALL_01_A
+.Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_05"!
+material "nature/water_lowdirty001" not found.
+Material not found!: NATURE/WATER_LOWDIRTY001
+Error! Variable "%keywords" is multiply defined in material "floors/floor_tile_06"!
+Error! Variable "%keywords" is multiply defined in material "trims/wooden_desk_01"!
+material "composite/tile_shelf_01" not found.
+Material not found!: COMPOSITE/TILE_SHELF_01
+Error! Variable "%keywords" is multiply defined in material "floors/floor_trim_07"!
+material "nature/blendsandrock004a" not found.
+Material not found!: NATURE/BLENDSANDROCK004A
+.fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 1019.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1808.0 500.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7395: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2065.0 1170.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 197.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1081.0 205.4)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 1153.0 200.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2082.0 1098.0 199.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 760.0 199.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 7388: Brush 7430: 
+
+*** Suppressing further FindPortalSide errors.... ***
+0...1....2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...7
+Merged 4188 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+.PruneNodes...
+WriteBSP...
+..8done (3)
+writing D:\SteamLibrary\steamapps\common\town.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sunset_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2183420 bytes)
+...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 163/1024         7824/49152    (15.9%) 
+brushes               6310/8192        75720/98304    (77.0%) 
+brushsides           51095/65536      408760/524288   (78.0%) 
+planes               28686/65536      573720/1310720  (43.8%) 
+vertexes             32317/65536      387804/786432   (49.3%) 
+nodes                 7119/65536      227808/2097152  (10.9%) 
+texinfos              6816/12288      490752/884736   (55.5%) 
+texdata                130/2048         4160/65536    ( 6.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                19009/65536     1064504/3670016  (29.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            15410/65536      862960/3670016  (23.5%) 
+leaves                7283/65536      233056/2097152  (11.1%) 
+leaffaces            27424/65536       54848/131072   (41.8%) 
+leafbrushes          17581/65536       35162/131072   (26.8%) 
+areas                   17/256           136/2048     ( 6.6%) 
+surfedges           148977/512000     595908/2048000  (29.1%) 
+edges                90894/256000     363576/1024000  (35.5%) 
+LDR worldlights        153/8192        13464/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1746/32768       17460/327680   ( 5.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         34029/65536       68058/131072   (51.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4111260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2576251/16777216 (15.4%) 
+entdata               [variable]     1454988/393216   (370.0%) VERY FULL!
+LDR ambient table     7283/65536       29132/262144   (11.1%) 
+HDR ambient table     7283/65536       29132/262144   (11.1%) 
+LDR leaf ambient     23232/65536      650496/1835008  (35.4%) 
+HDR leaf ambient      7283/65536      203924/1835008  (11.1%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons       12/0             144/0        ( 0.0%) 
+occluder vert ind       48/0             192/0        ( 0.0%) 
+detail props          [variable]           1/803872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/85810    ( 0.0%) 
+pakfile               [variable]      186502/0        ( 0.0%) 
+physics               [variable]     2183420/4194304  (52.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 50507
+Writing d:\steamlibrary\steamapps\common\town.bsp
+7 minutes, 5 seconds elapsed
+Error! prop_static using model "models/furniture/hallstand_01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/hallstand_01.mdl"!
+Static prop models/garbage/puddle_07.mdl outside the map (-1170.14, 3296.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1188.14, 3236.00, 14.15)
+Static prop models/garbage/puddle_07.mdl outside the map (-1146.14, 3220.00, 14.15)
+Error! prop_static using model "models/furniture/shelving_01_b.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_b.mdl"!
+Error! prop_static using model "models/furniture/shelving_01_a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/furniture/shelving_01_a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10314 texinfos to 6816
+Reduced 173 texdatas to 130 (5102 bytes to 4067)
+Writing D:\SteamLibrary\steamapps\common\town.bsp
+26 seconds elapsed
+
+
+
+2 threads
+reading d:\steamlibrary\steamapps\common\town.bsp
+reading d:\steamlibrary\steamapps\common\town.prt
+3251 portalclusters
+9920 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 541843 visible clusters (0.00%)
+Total clusters visible: 8073482
+Average clusters visible: 2483
+Building PAS...
+Average clusters audible: 3242
+visdatasize:2576251  compressed from 2652816
+writing d:\steamlibrary\steamapps\common\town.bsp
+10 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file D:\SteamLibrary\steamapps\common\Postal III UP A\bin\lights.rad.
+Loading d:\steamlibrary\steamapps\common\town.bsp
+19009 faces
+19 degenerate faces
+619250 square feet [89172032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+18990 patches before subdivision
+90866 patches after subdivision
+153 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26231508, max 3386
+transfer lists: 200.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(209777, 155207, 99104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41128, 32475, 20171)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11758, 9709, 5751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4038, 3388, 1860)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1498, 1249, 626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(580, 475, 216)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(229, 182, 75)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(92, 71, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 28, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(15, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0401 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 163/1024         7824/49152    (15.9%) 
+brushes               6310/8192        75720/98304    (77.0%) 
+brushsides           51095/65536      408760/524288   (78.0%) 
+planes               28686/65536      573720/1310720  (43.8%) 
+vertexes             32317/65536      387804/786432   (49.3%) 
+nodes                 7119/65536      227808/2097152  (10.9%) 
+texinfos              6816/12288      490752/884736   (55.5%) 
+texdata                130/2048         4160/65536    ( 6.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                19009/65536     1064504/3670016  (29.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            15410/65536      862960/3670016  (23.5%) 
+leaves                7283/65536      233056/2097152  (11.1%) 
+leaffaces            27424/65536       54848/131072   (41.8%) 
+leafbrushes          17581/65536       35162/131072   (26.8%) 
+areas                   17/256           136/2048     ( 6.6%) 
+surfedges           148977/512000     595908/2048000  (29.1%) 
+edges                90894/256000     363576/1024000  (35.5%) 
+LDR worldlights        153/8192        13464/720896   ( 1.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1746/32768       17460/327680   ( 5.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         34029/65536       68058/131072   (51.9%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4111260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2576251/16777216 (15.4%) 
+entdata               [variable]     1454988/393216   (370.0%) VERY FULL!
+LDR ambient table     7283/65536       29132/262144   (11.1%) 
+HDR ambient table     7283/65536       29132/262144   (11.1%) 
+LDR leaf ambient     23232/65536      650496/1835008  (35.4%) 
+HDR leaf ambient      7283/65536      203924/1835008  (11.1%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons       12/0             144/0        ( 0.0%) 
+occluder vert ind       48/0             192/0        ( 0.0%) 
+detail props          [variable]           1/803872   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/85810    ( 0.0%) 
+pakfile               [variable]      186502/0        ( 0.0%) 
+physics               [variable]     2183420/4194304  (52.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 50507
+Writing d:\steamlibrary\steamapps\common\town.bsp
+6 minutes, 21 seconds elapsed
