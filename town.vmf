@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -281926,78 +281926,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-7768 5500]"
-	}
-}
-entity
-{
-	"id" "1498437"
-	"classname" "item_ammo_pistol"
-	"angles" "0 0 0"
-	"disableshadows" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"origin" "-1194 1869 8.00001"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7768 6000]"
-	}
-}
-entity
-{
-	"id" "1498446"
-	"classname" "item_ammo_pistol"
-	"angles" "0 0 0"
-	"disableshadows" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"origin" "-1202 1869 8.00001"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7768 6500]"
-	}
-}
-entity
-{
-	"id" "1498448"
-	"classname" "item_ammo_pistol"
-	"angles" "0 0 0"
-	"disableshadows" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"origin" "-1210 1869 8.00001"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7768 7000]"
-	}
-}
-entity
-{
-	"id" "1498450"
-	"classname" "item_ammo_pistol"
-	"angles" "0 0 0"
-	"disableshadows" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"origin" "-1217 1869 8.00001"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-7768 7500]"
 	}
 }
 entity
@@ -641030,8 +640958,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1286.09 -286.19 140.98]"
-		"look" "[-1346.7 -534.044 64.4538]"
+		"position" "[-1174.41 2023.49 120.39]"
+		"look" "[-1167.73 1761.15 74.6131]"
 	}
 }
 cordon
