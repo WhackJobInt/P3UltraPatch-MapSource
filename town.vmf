@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "10"
+	"mapversion" "13"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,13 +32,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "2"
+	"nGridSpacing" "1"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "13"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -131318,7 +131318,7 @@ world
 		side
 		{
 			"id" "12096"
-			"plane" "(-532 -1296 330) (-532 -1296 0) (-544 -1296 0)"
+			"plane" "(-532 -1296 0) (-544 -1296 0) (-544 -1296 704)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131329,7 +131329,7 @@ world
 		side
 		{
 			"id" "12097"
-			"plane" "(-544 -736 330) (-544 -736 0) (-532 -736 0)"
+			"plane" "(-544 -736 0) (-532 -736 0) (-532 -736 704)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131340,7 +131340,7 @@ world
 		side
 		{
 			"id" "12098"
-			"plane" "(-544 -736 0) (-544 -1296 0) (-532 -1296 0)"
+			"plane" "(-532 -736 0) (-544 -736 0) (-544 -1296 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -131351,7 +131351,7 @@ world
 		side
 		{
 			"id" "12099"
-			"plane" "(-544 -1296 330) (-544 -736 330) (-532 -736 330)"
+			"plane" "(-532 -1296 704) (-544 -1296 704) (-544 -736 704)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -131362,7 +131362,7 @@ world
 		side
 		{
 			"id" "12100"
-			"plane" "(-544 -1296 330) (-544 -1296 0) (-544 -736 0)"
+			"plane" "(-544 -1296 704) (-544 -1296 0) (-544 -736 0)"
 			"material" "TOOLS/TOOLSHINT"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131373,7 +131373,7 @@ world
 		side
 		{
 			"id" "12101"
-			"plane" "(-532 -736 330) (-532 -736 0) (-532 -1296 0)"
+			"plane" "(-532 -736 704) (-532 -736 0) (-532 -1296 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131470,7 +131470,7 @@ world
 		side
 		{
 			"id" "12110"
-			"plane" "(-2314 -736 376) (-2314 -736 0) (-2314 -728 0)"
+			"plane" "(-2314 -737 704) (-2314 -737 0) (-2314 -729 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131481,7 +131481,7 @@ world
 		side
 		{
 			"id" "12111"
-			"plane" "(-464 -728 376) (-464 -728 0) (-464 -736 0)"
+			"plane" "(-440 -729 704) (-440 -729 0) (-440 -737 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131492,7 +131492,7 @@ world
 		side
 		{
 			"id" "12112"
-			"plane" "(-464 -736 376) (-464 -736 0) (-2314 -736 0)"
+			"plane" "(-440 -737 704) (-440 -737 0) (-2314 -737 0)"
 			"material" "TOOLS/TOOLSHINT"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131503,7 +131503,7 @@ world
 		side
 		{
 			"id" "12113"
-			"plane" "(-2314 -728 376) (-2314 -728 0) (-464 -728 0)"
+			"plane" "(-2314 -729 704) (-2314 -729 0) (-440 -729 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -131514,7 +131514,7 @@ world
 		side
 		{
 			"id" "12114"
-			"plane" "(-2314 -728 0) (-2314 -736 0) (-464 -736 0)"
+			"plane" "(-2314 -729 0) (-2314 -737 0) (-440 -737 0)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -131525,7 +131525,7 @@ world
 		side
 		{
 			"id" "12115"
-			"plane" "(-2314 -736 376) (-2314 -728 376) (-464 -728 376)"
+			"plane" "(-2314 -737 704) (-2314 -729 704) (-440 -729 704)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -132610,7 +132610,7 @@ world
 		side
 		{
 			"id" "12215"
-			"plane" "(-2148 -1730 208) (-2148 -1730 192) (-2148 2121 192)"
+			"plane" "(-2148 -1730 207) (-2148 -1730 193) (-2148 2121 193)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -132621,7 +132621,7 @@ world
 		side
 		{
 			"id" "12216"
-			"plane" "(1857 2121 208) (1857 2121 192) (1857 -1730 192)"
+			"plane" "(1857 2121 207) (1857 2121 193) (1857 -1730 193)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -132632,7 +132632,7 @@ world
 		side
 		{
 			"id" "12217"
-			"plane" "(1857 -1730 208) (1857 -1730 192) (-2148 -1730 192)"
+			"plane" "(1857 -1730 207) (1857 -1730 193) (-2148 -1730 193)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -132643,7 +132643,7 @@ world
 		side
 		{
 			"id" "12218"
-			"plane" "(-2148 2121 208) (-2148 2121 192) (1857 2121 192)"
+			"plane" "(-2148 2121 207) (-2148 2121 193) (1857 2121 193)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -132654,7 +132654,7 @@ world
 		side
 		{
 			"id" "12219"
-			"plane" "(-2148 2121 192) (-2148 -1730 192) (1857 -1730 192)"
+			"plane" "(-2148 2121 193) (-2148 -1730 193) (1857 -1730 193)"
 			"material" "TOOLS/TOOLSHINT"
 			"uaxis" "[-1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -132665,7 +132665,7 @@ world
 		side
 		{
 			"id" "12220"
-			"plane" "(-2148 -1730 208) (-2148 2121 208) (1857 2121 208)"
+			"plane" "(-2148 -1730 207) (-2148 2121 207) (1857 2121 207)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -168476,7 +168476,7 @@ world
 		side
 		{
 			"id" "47318"
-			"plane" "(-470 1774 26) (-470 1712 26) (-476 1712 26)"
+			"plane" "(-480 1774 26) (-470 1774 26) (-470 1712 26)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -168487,7 +168487,7 @@ world
 		side
 		{
 			"id" "47319"
-			"plane" "(-462 1712 24) (-462 1774 24) (-484 1774 24)"
+			"plane" "(-488 1712 24) (-462 1712 24) (-462 1774 24)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -168498,7 +168498,7 @@ world
 		side
 		{
 			"id" "47320"
-			"plane" "(-476 1712 26) (-484 1712 24) (-484 1774 24)"
+			"plane" "(-488 1774 24) (-480 1774 26) (-480 1712 26)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -168509,7 +168509,7 @@ world
 		side
 		{
 			"id" "47321"
-			"plane" "(-462 1712 24) (-470 1712 26) (-470 1774 26)"
+			"plane" "(-470 1774 26) (-462 1774 24) (-462 1712 24)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -168520,7 +168520,7 @@ world
 		side
 		{
 			"id" "47322"
-			"plane" "(-476 1774 26) (-484 1774 24) (-462 1774 24)"
+			"plane" "(-462 1774 24) (-470 1774 26) (-480 1774 26)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -168531,7 +168531,7 @@ world
 		side
 		{
 			"id" "47323"
-			"plane" "(-484 1712 24) (-476 1712 26) (-470 1712 26)"
+			"plane" "(-488 1712 24) (-480 1712 26) (-470 1712 26)"
 			"material" "TOOLS/TOOLSCLIP"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -629268,23 +629268,34 @@ entity
 entity
 {
 	"id" "47815"
-	"classname" "prop_static"
+	"classname" "prop_dynamic"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
+	"disablereceiveshadows" "0"
 	"disableshadows" "0"
-	"disablevertexlighting" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"ignorenormals" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
 	"model" "models/furniture/hallstand_01.mdl"
-	"screenspacefade" "0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
 	"skin" "0"
 	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
 	"origin" "-213 787.573 15.6661"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-6268 2500]"
@@ -630568,23 +630579,34 @@ entity
 entity
 {
 	"id" "47867"
-	"classname" "prop_static"
+	"classname" "prop_dynamic"
 	"angles" "0 180.5 0"
-	"disableselfshadowing" "0"
+	"disablereceiveshadows" "0"
 	"disableshadows" "0"
-	"disablevertexlighting" "0"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"ignorenormals" "0"
+	"MaxAnimTime" "10"
+	"MinAnimTime" "5"
 	"model" "models/furniture/hallstand_01.mdl"
-	"screenspacefade" "0"
+	"PerformanceMode" "0"
+	"pressuredelay" "0"
+	"RandomAnimation" "0"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"renderfx" "0"
+	"rendermode" "0"
+	"SetBodyGroup" "0"
 	"skin" "0"
 	"solid" "6"
+	"spawnflags" "0"
+	"StartDisabled" "0"
 	"origin" "-52 999.744 208.151"
 	editor
 	{
-		"color" "255 255 0"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-6268 -4268]"
@@ -641067,8 +641089,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-411.866 -881.465 259.294]"
-		"look" "[-665.645 -920.111 188.127]"
+		"position" "[-1285.21 -827.533 330.086]"
+		"look" "[-1044.67 -728.39 272.883]"
 	}
 }
 cordon
