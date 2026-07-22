@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "15"
+	"mapversion" "18"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "15"
+	"mapversion" "18"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -171322,7 +171322,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "362 757 0.289823"
 	editor
 	{
@@ -171359,7 +171359,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "149 653 0.289823"
 	editor
 	{
@@ -171396,7 +171396,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1371.31 1062.55 0"
 	editor
 	{
@@ -171433,7 +171433,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1368.75 876.166 0"
 	editor
 	{
@@ -171470,7 +171470,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1480 1157 0"
 	editor
 	{
@@ -171507,7 +171507,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1449 1161 0"
 	editor
 	{
@@ -171544,7 +171544,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "167 672 0"
 	editor
 	{
@@ -171581,7 +171581,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1227 -299 0"
 	editor
 	{
@@ -171618,7 +171618,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1364 948 0"
 	editor
 	{
@@ -171648,7 +171648,7 @@ entity
 	"physdamagescale" "0.1"
 	"pressuredelay" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1363 623 0"
 	editor
 	{
@@ -171855,7 +171855,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1379 3034 0"
 	editor
 	{
@@ -171892,7 +171892,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-950.442 3009.81 0"
 	editor
 	{
@@ -171929,7 +171929,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-942 3468 0"
 	editor
 	{
@@ -171966,7 +171966,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1372.27 3492.83 0"
 	editor
 	{
@@ -172003,7 +172003,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1583.91 2573.02 0"
 	editor
 	{
@@ -172040,7 +172040,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1935.37 3049.37 0"
 	editor
 	{
@@ -172077,7 +172077,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1710.77 3822.68 0"
 	editor
 	{
@@ -172114,7 +172114,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1139.35 4042.97 0"
 	editor
 	{
@@ -172151,7 +172151,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-171 3845 0"
 	editor
 	{
@@ -172188,7 +172188,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "25.1854 2824.46 0"
 	editor
 	{
@@ -172225,7 +172225,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-362.488 3231.12 0"
 	editor
 	{
@@ -172629,7 +172629,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "224 25 3"
 	editor
 	{
@@ -172811,7 +172811,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1963.8 1680.71 0.289823"
 	editor
 	{
@@ -172848,7 +172848,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2005.8 1678.71 0.289823"
 	editor
 	{
@@ -173592,7 +173592,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "64 504 0"
 	editor
 	{
@@ -173629,7 +173629,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "19 515 0"
 	editor
 	{
@@ -173741,7 +173741,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "163.824 925.933 0.289823"
 	editor
 	{
@@ -173778,7 +173778,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "153 961 0.289823"
 	editor
 	{
@@ -174090,7 +174090,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "320 758 0.289823"
 	editor
 	{
@@ -174127,7 +174127,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1216 -328 0.289823"
 	editor
 	{
@@ -174164,7 +174164,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1204 -363 0.289823"
 	editor
 	{
@@ -174201,7 +174201,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1205 -301 0.289823"
 	editor
 	{
@@ -174238,7 +174238,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1208 -242 0"
 	editor
 	{
@@ -174275,7 +174275,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1369 -349 0"
 	editor
 	{
@@ -174327,7 +174327,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1292 -600 0"
 	editor
 	{
@@ -174364,7 +174364,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1321.74 -592.416 0.289823"
 	editor
 	{
@@ -174401,7 +174401,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1350 -581 0.289823"
 	editor
 	{
@@ -174498,7 +174498,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1388 156 1"
 	editor
 	{
@@ -174535,7 +174535,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1447 178 13"
 	editor
 	{
@@ -175556,7 +175556,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "163.824 926.02 0.578939"
 	editor
 	{
@@ -175583,7 +175583,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "149 653.087 0.578939"
 	editor
 	{
@@ -175620,7 +175620,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "19 515.087 0.289116"
 	editor
 	{
@@ -175647,7 +175647,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "362 757.087 0.578939"
 	editor
 	{
@@ -175674,7 +175674,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1321.74 -592.329 0.578939"
 	editor
 	{
@@ -175701,7 +175701,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1205 -300.913 0.578939"
 	editor
 	{
@@ -175728,7 +175728,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1204 -362.913 0.578939"
 	editor
 	{
@@ -175755,7 +175755,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1480 1157.09 0.289116"
 	editor
 	{
@@ -175792,7 +175792,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "575 -1208 0.289823"
 	editor
 	{
@@ -175829,7 +175829,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "659.7 -1063.3 0.289823"
 	editor
 	{
@@ -175856,7 +175856,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "659.613 -1063.3 0.578939"
 	editor
 	{
@@ -175893,7 +175893,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "663 -1033 0.289823"
 	editor
 	{
@@ -176010,7 +176010,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "610.613 -1207.3 0.578939"
 	editor
 	{
@@ -176047,7 +176047,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "610.7 -1207.3 0.289823"
 	editor
 	{
@@ -176084,7 +176084,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "257"
+	"spawnflags" "1"
 	"origin" "662 -473 1"
 	editor
 	{
@@ -176110,7 +176110,7 @@ entity
 	"model" "models/objects_city/trash_bag_01.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "257"
+	"spawnflags" "1"
 	"origin" "577 -1165 1"
 	editor
 	{
@@ -176147,7 +176147,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "634 -1033 0"
 	editor
 	{
@@ -176184,7 +176184,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "631 -473 0"
 	editor
 	{
@@ -176221,7 +176221,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "606 -795 0"
 	editor
 	{
@@ -176337,7 +176337,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "668 -194 0"
 	editor
 	{
@@ -176374,7 +176374,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "257"
+	"spawnflags" "1"
 	"origin" "660 -166 1"
 	editor
 	{
@@ -176441,7 +176441,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "630 -503 0"
 	editor
 	{
@@ -176548,7 +176548,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "145 -59 2"
 	editor
 	{
@@ -176585,7 +176585,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-173 -35 2"
 	editor
 	{
@@ -176817,7 +176817,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "435 -914 0"
 	editor
 	{
@@ -176854,7 +176854,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "466 -919 0"
 	editor
 	{
@@ -176881,7 +176881,7 @@ entity
 	"model" "models/objects_city/trash_bag_01.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "433 -917 69"
 	editor
 	{
@@ -176918,7 +176918,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "390 -919 0"
 	editor
 	{
@@ -177080,7 +177080,7 @@ entity
 	"model" "models/objects_city/refuse_bin_02_cover.mdl"
 	"physdamagescale" "0.1"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-116.261 -1066.61 0.578939"
 	editor
 	{
@@ -177117,7 +177117,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-116.174 -1066.61 0.289823"
 	editor
 	{
@@ -177154,7 +177154,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-151.874 -1067.31 0.289823"
 	editor
 	{
@@ -177191,7 +177191,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "73 -920 0"
 	editor
 	{
@@ -177228,7 +177228,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-83 -1065 0"
 	editor
 	{
@@ -177444,7 +177444,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-153 -916 0.289823"
 	editor
 	{
@@ -177651,7 +177651,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-397 -1034 0.289823"
 	editor
 	{
@@ -177734,7 +177734,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "502 -134 3"
 	editor
 	{
@@ -179280,7 +179280,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1539 438 4.3042"
 	editor
 	{
@@ -179317,7 +179317,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1435 449.795 4.3042"
 	editor
 	{
@@ -180342,7 +180342,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "17 1778 59.0989"
 	editor
 	{
@@ -180379,7 +180379,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-34 1793 25"
 	editor
 	{
@@ -180416,7 +180416,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "12 1796 25"
 	editor
 	{
@@ -183519,7 +183519,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "84 876 15.5528"
 	editor
 	{
@@ -183700,7 +183700,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "27 798 15.4661"
 	editor
 	{
@@ -183741,7 +183741,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-17.6054 1049.22 55"
 	editor
 	{
@@ -183754,8 +183754,10 @@ entity
 entity
 {
 	"id" "828436"
-	"classname" "prop_dynamic"
+	"classname" "prop_physics"
 	"angles" "0 91 0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
@@ -183763,23 +183765,24 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"MaxAnimTime" "10"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"massScale" "0"
 	"maxdxlevel" "0"
-	"MinAnimTime" "5"
 	"mindxlevel" "0"
+	"minhealthdmg" "0"
 	"model" "models/electrical_devices/tv_01.mdl"
+	"nodamageforces" "0"
 	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
 	"pressuredelay" "0"
-	"RandomAnimation" "0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
-	"SetBodyGroup" "0"
+	"shadowcastdist" "0"
 	"skin" "0"
-	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-14 806 43.6111"
 	editor
 	{
@@ -183835,7 +183838,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-685 1215 15"
 	editor
 	{
@@ -183876,7 +183879,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-428 821 15.5528"
 	editor
 	{
@@ -184031,7 +184034,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-740 791 16.4558"
 	editor
 	{
@@ -184072,7 +184075,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-713 722 16.4558"
 	editor
 	{
@@ -184113,7 +184116,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-677 724 16.4558"
 	editor
 	{
@@ -184231,7 +184234,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-712 820 51"
 	editor
 	{
@@ -184272,7 +184275,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-699 800 50.6811"
 	editor
 	{
@@ -184313,7 +184316,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-717 797 51"
 	editor
 	{
@@ -184585,7 +184588,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-51.9143 781.155 97.3265"
 	editor
 	{
@@ -184626,7 +184629,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-49.6054 1047.22 16.4558"
 	editor
 	{
@@ -184834,7 +184837,7 @@ entity
 entity
 {
 	"id" "842469"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "0 90 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -184843,11 +184846,12 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
 	"mindxlevel" "0"
-	"model" "models/furniture/tv_stand_01.mdl"
+	"model" "models/furniture/tv_stand_02.mdl"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
 	"RandomAnimation" "0"
@@ -184859,7 +184863,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-13.7119 804 15.8216"
 	editor
 	{
@@ -184930,7 +184933,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-601 900.008 246.06"
 	editor
 	{
@@ -184971,7 +184974,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-748 901 247.06"
 	editor
 	{
@@ -185113,7 +185116,7 @@ entity
 entity
 {
 	"id" "847178"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "0 271 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -185122,11 +185125,12 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
 	"mindxlevel" "0"
-	"model" "models/furniture/tv_stand_02.mdl"
+	"model" "models/furniture/tv_stand_01.mdl"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
 	"RandomAnimation" "0"
@@ -185138,7 +185142,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-670 1210 209.717"
 	editor
 	{
@@ -185151,8 +185154,10 @@ entity
 entity
 {
 	"id" "847191"
-	"classname" "prop_dynamic"
+	"classname" "prop_physics"
 	"angles" "0 271 0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
@@ -185160,23 +185165,24 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"MaxAnimTime" "10"
+	"forcetoenablemotion" "0"
+	"inertiaScale" "1.0"
+	"massScale" "0"
 	"maxdxlevel" "0"
-	"MinAnimTime" "5"
 	"mindxlevel" "0"
+	"minhealthdmg" "0"
 	"model" "models/electrical_devices/tv_02.mdl"
+	"nodamageforces" "0"
 	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
 	"pressuredelay" "0"
-	"RandomAnimation" "0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"renderfx" "0"
 	"rendermode" "0"
-	"SetBodyGroup" "0"
+	"shadowcastdist" "0"
 	"skin" "0"
-	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-662 1205.49 226.298"
 	editor
 	{
@@ -185217,7 +185223,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-554 1053.39 208.098"
 	editor
 	{
@@ -185258,7 +185264,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-520.249 1210 207.335"
 	editor
 	{
@@ -185299,7 +185305,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-811 1077 208.098"
 	editor
 	{
@@ -185340,7 +185346,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-452.46 1044 252"
 	editor
 	{
@@ -185400,7 +185406,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-708 1210 208"
 	editor
 	{
@@ -185513,7 +185519,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-758 573 246.06"
 	editor
 	{
@@ -185554,7 +185560,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-606.921 575 246.06"
 	editor
 	{
@@ -185671,7 +185677,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-483 844 207.084"
 	editor
 	{
@@ -185712,7 +185718,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-452.46 730.005 251.77"
 	editor
 	{
@@ -185889,7 +185895,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-8.44897 798 246.06"
 	editor
 	{
@@ -185949,7 +185955,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-66 802 208.098"
 	editor
 	{
@@ -186028,7 +186034,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "4 806 246.06"
 	editor
 	{
@@ -186069,7 +186075,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-472 735 251.628"
 	editor
 	{
@@ -186110,7 +186116,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-725 1132 237"
 	editor
 	{
@@ -186151,7 +186157,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-160 806.03 60.1119"
 	editor
 	{
@@ -186192,7 +186198,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-703 762 50.6051"
 	editor
 	{
@@ -186233,7 +186239,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-75.587 905 207.963"
 	editor
 	{
@@ -187602,7 +187608,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-502 1211 15"
 	editor
 	{
@@ -187735,7 +187741,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-712 909 19.8457"
 	editor
 	{
@@ -187776,7 +187782,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-760 913.717 19.8457"
 	editor
 	{
@@ -187817,7 +187823,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-544 945.717 61.8457"
 	editor
 	{
@@ -187858,7 +187864,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-787 953.717 61.8457"
 	editor
 	{
@@ -187899,7 +187905,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-796 919.717 21.8457"
 	editor
 	{
@@ -188016,7 +188022,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-755 952.717 61.8457"
 	editor
 	{
@@ -193627,7 +193633,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1767 1094 4"
 	editor
 	{
@@ -193868,7 +193874,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1948 655 49.7016"
 	editor
 	{
@@ -193909,7 +193915,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1959 708 49.5433"
 	editor
 	{
@@ -193950,7 +193956,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1946.6 735 17.5294"
 	editor
 	{
@@ -193991,7 +193997,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1980 731 17.5294"
 	editor
 	{
@@ -194032,7 +194038,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1980 786.389 17.6074"
 	editor
 	{
@@ -194073,7 +194079,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1975 697 82.1897"
 	editor
 	{
@@ -194114,7 +194120,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1946 735.685 82.1117"
 	editor
 	{
@@ -194155,7 +194161,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1976.92 748.918 82.1117"
 	editor
 	{
@@ -194196,7 +194202,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1946 786.805 49.6487"
 	editor
 	{
@@ -194237,7 +194243,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1949 793 114"
 	editor
 	{
@@ -194278,7 +194284,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1954 771 114"
 	editor
 	{
@@ -194319,7 +194325,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1949 748 115"
 	editor
 	{
@@ -194360,7 +194366,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1974 761 115"
 	editor
 	{
@@ -194401,7 +194407,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1949 766 81.9869"
 	editor
 	{
@@ -194442,7 +194448,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1976 653 115"
 	editor
 	{
@@ -194483,7 +194489,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 635.447 49.7264"
 	editor
 	{
@@ -194524,7 +194530,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824 772.208 17.6508"
 	editor
 	{
@@ -194565,7 +194571,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1827 611.148 50.1573"
 	editor
 	{
@@ -194606,7 +194612,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1827 555.926 83.0706"
 	editor
 	{
@@ -194647,7 +194653,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 579.28 82.6397"
 	editor
 	{
@@ -194688,7 +194694,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1823 830 114"
 	editor
 	{
@@ -194729,7 +194735,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1828 808.508 114.013"
 	editor
 	{
@@ -194770,7 +194776,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1993.51 550.911 103.582"
 	editor
 	{
@@ -194811,7 +194817,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2017.78 545.265 88.8907"
 	editor
 	{
@@ -194852,7 +194858,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1870 531 103.582"
 	editor
 	{
@@ -199881,7 +199887,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "0 1477 258"
 	editor
 	{
@@ -199922,7 +199928,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "1 1447.74 290.259"
 	editor
 	{
@@ -199963,7 +199969,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "0 1392 290.384"
 	editor
 	{
@@ -200004,7 +200010,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2 1476 225.542"
 	editor
 	{
@@ -200045,7 +200051,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-7 1455 323.272"
 	editor
 	{
@@ -200086,7 +200092,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-7 1475 332"
 	editor
 	{
@@ -200127,7 +200133,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2 1478.33 322.013"
 	editor
 	{
@@ -200168,7 +200174,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1 1396.12 257.86"
 	editor
 	{
@@ -200209,7 +200215,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1 1372 290"
 	editor
 	{
@@ -200250,7 +200256,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4 1343 289.741"
 	editor
 	{
@@ -200291,7 +200297,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2.04025 1342 225.797"
 	editor
 	{
@@ -200332,7 +200338,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-5 1343 323"
 	editor
 	{
@@ -200373,7 +200379,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "0.501679 1362.59 322.259"
 	editor
 	{
@@ -200414,7 +200420,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2 1381 322.259"
 	editor
 	{
@@ -200455,7 +200461,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2 1375 257.484"
 	editor
 	{
@@ -200496,7 +200502,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2.04024 1396.27 225.665"
 	editor
 	{
@@ -200537,7 +200543,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1 1456 257.741"
 	editor
 	{
@@ -200578,7 +200584,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2 1372 339"
 	editor
 	{
@@ -200619,7 +200625,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "94.5017 1480 339"
 	editor
 	{
@@ -200660,7 +200666,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "94.5017 1471 322.259"
 	editor
 	{
@@ -200701,7 +200707,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "92 1489.41 322.259"
 	editor
 	{
@@ -200742,7 +200748,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "93.5017 1524.94 290.549"
 	editor
 	{
@@ -200783,7 +200789,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "92.5017 1506.89 290.495"
 	editor
 	{
@@ -200824,7 +200830,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "93.5017 1471.15 257.86"
 	editor
 	{
@@ -200865,7 +200871,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "93.5017 1491.4 257.743"
 	editor
 	{
@@ -200906,7 +200912,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "94.5419 1525.27 225.797"
 	editor
 	{
@@ -200947,7 +200953,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "94.5419 1471 225.665"
 	editor
 	{
@@ -200988,7 +200994,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-134 1334 208.682"
 	editor
 	{
@@ -201029,7 +201035,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-154 1336 208.682"
 	editor
 	{
@@ -201096,7 +201102,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "1 1732 25"
 	editor
 	{
@@ -201133,7 +201139,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-12 1761 25"
 	editor
 	{
@@ -201170,7 +201176,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "12 1702 25"
 	editor
 	{
@@ -201211,7 +201217,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "11.6631 1638.22 102.856"
 	editor
 	{
@@ -201252,7 +201258,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-15 1601 102.659"
 	editor
 	{
@@ -201293,7 +201299,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "7.66312 1624.73 135.918"
 	editor
 	{
@@ -201334,7 +201340,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "10.6631 1677.41 134.659"
 	editor
 	{
@@ -201375,7 +201381,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "12.6631 1673.73 103.043"
 	editor
 	{
@@ -201416,7 +201422,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "11.6631 1657.61 70.4015"
 	editor
 	{
@@ -201457,7 +201463,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "11.6631 1677.85 70.5185"
 	editor
 	{
@@ -201498,7 +201504,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "10.6229 1678 38.3235"
 	editor
 	{
@@ -201539,7 +201545,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "10.6229 1623.73 38.4555"
 	editor
 	{
@@ -201618,7 +201624,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-458.894 1692.82 70.601"
 	editor
 	{
@@ -201697,7 +201703,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-398.892 1600.41 70.484"
 	editor
 	{
@@ -201738,7 +201744,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-459.934 1692.97 38.406"
 	editor
 	{
@@ -201779,7 +201785,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-459.934 1638.7 38.538"
 	editor
 	{
@@ -201820,7 +201826,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-458.894 1653.19 102.939"
 	editor
 	{
@@ -201861,7 +201867,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-459.894 1632.7 102.741"
 	editor
 	{
@@ -201902,7 +201908,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-457.894 1688.7 103.125"
 	editor
 	{
@@ -201943,7 +201949,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-459.894 1692.38 134.741"
 	editor
 	{
@@ -201984,7 +201990,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-415.514 1598.39 135"
 	editor
 	{
@@ -202967,7 +202973,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1236 2635 3"
 	editor
 	{
@@ -203004,7 +203010,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1936 3095 3"
 	editor
 	{
@@ -203041,7 +203047,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1441 3436 3"
 	editor
 	{
@@ -203078,7 +203084,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-901 3090 3"
 	editor
 	{
@@ -203115,7 +203121,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1094 4038 3"
 	editor
 	{
@@ -203152,7 +203158,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-131 3810 3"
 	editor
 	{
@@ -203189,7 +203195,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "10 2786 3"
 	editor
 	{
@@ -203226,7 +203232,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "145 -17 2"
 	editor
 	{
@@ -203263,7 +203269,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "181 -44 2"
 	editor
 	{
@@ -203300,7 +203306,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "121 -98 2"
 	editor
 	{
@@ -203337,7 +203343,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "98 -73 2"
 	editor
 	{
@@ -203374,7 +203380,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "111 -38 2"
 	editor
 	{
@@ -203411,7 +203417,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-206 -23 2"
 	editor
 	{
@@ -203448,7 +203454,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-219 -58 2"
 	editor
 	{
@@ -203485,7 +203491,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-196 -83 2"
 	editor
 	{
@@ -203522,7 +203528,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-172 -2 2"
 	editor
 	{
@@ -203559,7 +203565,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-136 -29 2"
 	editor
 	{
@@ -203596,7 +203602,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "807 313 -7.76112"
 	editor
 	{
@@ -203633,7 +203639,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "35 -254 2"
 	editor
 	{
@@ -203670,7 +203676,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "8 -259 2"
 	editor
 	{
@@ -203707,7 +203713,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-17 -261 2"
 	editor
 	{
@@ -203744,7 +203750,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-40 -261 2"
 	editor
 	{
@@ -203781,7 +203787,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "817 183.787 -7.76112"
 	editor
 	{
@@ -204204,7 +204210,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824 772 27.8679"
 	editor
 	{
@@ -204245,7 +204251,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.95 795 27.8679"
 	editor
 	{
@@ -204286,7 +204292,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1825 795.201 17.6508"
 	editor
 	{
@@ -204327,7 +204333,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1826 819 27.8679"
 	editor
 	{
@@ -204368,7 +204374,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1826 817 17.6508"
 	editor
 	{
@@ -204409,7 +204415,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1856 622 -0.851619"
 	editor
 	{
@@ -204450,7 +204456,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2000 588 -0.851619"
 	editor
 	{
@@ -204491,7 +204497,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2056 844 23.4557"
 	editor
 	{
@@ -204532,7 +204538,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1823 825 49.9016"
 	editor
 	{
@@ -204573,7 +204579,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1823 824.001 82.1221"
 	editor
 	{
@@ -204614,7 +204620,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1823 696 49.9016"
 	editor
 	{
@@ -204655,7 +204661,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1951 681 49.9016"
 	editor
 	{
@@ -204696,7 +204702,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2050.63 635.34 0.0981498"
 	editor
 	{
@@ -204737,7 +204743,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2050.63 635.304 20.5311"
 	editor
 	{
@@ -204778,7 +204784,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2050.63 635.149 40.9192"
 	editor
 	{
@@ -204819,7 +204825,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.9 654.568 40.9192"
 	editor
 	{
@@ -204860,7 +204866,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.9 654.722 20.5311"
 	editor
 	{
@@ -204901,7 +204907,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2040 654 0.0981498"
 	editor
 	{
@@ -204942,7 +204948,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1908.55 545.472 103.098"
 	editor
 	{
@@ -204983,7 +204989,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046.42 693.879 20.5311"
 	editor
 	{
@@ -205024,7 +205030,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046.42 693.915 0.0981498"
 	editor
 	{
@@ -205065,7 +205071,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046.42 693.725 40.9192"
 	editor
 	{
@@ -205106,7 +205112,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.16 674.306 40.9192"
 	editor
 	{
@@ -205147,7 +205153,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2045.51 674.46 20.51"
 	editor
 	{
@@ -205188,7 +205194,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.16 674.497 0.0981498"
 	editor
 	{
@@ -205229,7 +205235,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.16 673.845 82"
 	editor
 	{
@@ -205270,7 +205276,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1934.99 545 103.375"
 	editor
 	{
@@ -205311,7 +205317,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2043.17 713.497 40.9192"
 	editor
 	{
@@ -205352,7 +205358,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046 713.964 20.5311"
 	editor
 	{
@@ -205393,7 +205399,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046 714 0.0981498"
 	editor
 	{
@@ -205434,7 +205440,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2044 736 20.5607"
 	editor
 	{
@@ -205475,7 +205481,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046 733.687 0.127767"
 	editor
 	{
@@ -205516,7 +205522,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2049 614 0.382564"
 	editor
 	{
@@ -205557,7 +205563,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2049.01 613.964 20.8155"
 	editor
 	{
@@ -205598,7 +205604,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 626.004 114.508"
 	editor
 	{
@@ -205639,7 +205645,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1952 699 82.1897"
 	editor
 	{
@@ -205680,7 +205686,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1948 670 82.1897"
 	editor
 	{
@@ -205721,7 +205727,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1976 669 82.1897"
 	editor
 	{
@@ -205762,7 +205768,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1952 685.862 92.1198"
 	editor
 	{
@@ -205803,7 +205809,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2045 900 40.9192"
 	editor
 	{
@@ -205844,7 +205850,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.84 908.279 20.5311"
 	editor
 	{
@@ -205885,7 +205891,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2048.84 908.315 0.0981498"
 	editor
 	{
@@ -205926,7 +205932,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2050.57 888.897 0.0981498"
 	editor
 	{
@@ -205967,7 +205973,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2050.57 888.86 20.5311"
 	editor
 	{
@@ -206008,7 +206014,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2045.69 674 61.3654"
 	editor
 	{
@@ -206049,7 +206055,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2045.22 647.561 61.0885"
 	editor
 	{
@@ -206090,7 +206096,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2044 529 88.8907"
 	editor
 	{
@@ -206131,7 +206137,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2047.94 528 99.4738"
 	editor
 	{
@@ -206172,7 +206178,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2044.38 529 115.976"
 	editor
 	{
@@ -206213,7 +206219,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2046.09 532 126.027"
 	editor
 	{
@@ -206254,7 +206260,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1823 806 50"
 	editor
 	{
@@ -206295,7 +206301,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1826 776.395 93.3267"
 	editor
 	{
@@ -206336,7 +206342,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1825.8 776.449 83.1096"
 	editor
 	{
@@ -206377,7 +206383,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1825.74 744.085 82"
 	editor
 	{
@@ -206418,7 +206424,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 744 89.4284"
 	editor
 	{
@@ -206459,7 +206465,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 723 90"
 	editor
 	{
@@ -206500,7 +206506,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1825.74 723.085 82.5716"
 	editor
 	{
@@ -206541,7 +206547,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1827.99 707 122"
 	editor
 	{
@@ -206582,7 +206588,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1828 707.814 114.572"
 	editor
 	{
@@ -206623,7 +206629,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1824.93 723 98"
 	editor
 	{
@@ -206664,7 +206670,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1956 714 115"
 	editor
 	{
@@ -206705,7 +206711,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1950 687 115"
 	editor
 	{
@@ -206746,7 +206752,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2037 948 86"
 	editor
 	{
@@ -206787,7 +206793,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-2039 945 108"
 	editor
 	{
@@ -206828,7 +206834,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1986 831 113.529"
 	editor
 	{
@@ -206869,7 +206875,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1986.63 832 103.312"
 	editor
 	{
@@ -206910,7 +206916,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1938.94 831 103.488"
 	editor
 	{
@@ -207021,7 +207027,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-52.7667 -575.311 4.3042"
 	editor
 	{
@@ -207080,7 +207086,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "471 -504 4.3042"
 	editor
 	{
@@ -207117,7 +207123,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-96 -542 4.3042"
 	editor
 	{
@@ -207130,7 +207136,7 @@ entity
 entity
 {
 	"id" "1051457"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "30 60 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -207139,6 +207145,7 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
@@ -207155,7 +207162,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "22 -547 117"
 	editor
 	{
@@ -207168,7 +207174,7 @@ entity
 entity
 {
 	"id" "1051564"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "30 150 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -207177,6 +207183,7 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
@@ -207193,7 +207200,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "483 -538 117"
 	editor
 	{
@@ -207206,39 +207212,25 @@ entity
 entity
 {
 	"id" "1051697"
-	"classname" "prop_physics"
+	"classname" "prop_static"
 	"angles" "0 90 0"
-	"damagetoenablemotion" "0"
-	"Damagetype" "0"
-	"disablereceiveshadows" "0"
+	"disableselfshadowing" "0"
 	"disableshadows" "0"
-	"ExplodeDamage" "0"
-	"ExplodeRadius" "0"
+	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"forcetoenablemotion" "0"
-	"inertiaScale" "1.0"
-	"massScale" "0"
+	"ignorenormals" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"minhealthdmg" "0"
 	"model" "models/electrical_devices/coffee_machine_01.mdl"
-	"nodamageforces" "0"
-	"PerformanceMode" "0"
-	"physdamagescale" "0.1"
-	"pressuredelay" "0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"shadowcastdist" "0"
+	"screenspacefade" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"solid" "6"
 	"origin" "314.216 -715.152 44.6722"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[8500 -9768]"
@@ -207271,7 +207263,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "393 -565 3"
 	editor
 	{
@@ -207308,7 +207300,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4 -546 3"
 	editor
 	{
@@ -207345,7 +207337,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "364 -307 3"
 	editor
 	{
@@ -210874,7 +210866,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1977 734 50"
 	editor
 	{
@@ -211331,7 +211323,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-4 1344 300"
 	editor
 	{
@@ -215931,7 +215923,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1430.41 1076 15.2393"
 	editor
 	{
@@ -215972,7 +215964,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1430.15 1061.65 5.02222"
 	editor
 	{
@@ -216013,7 +216005,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1430 1075 24.7264"
 	editor
 	{
@@ -216093,7 +216085,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1704.25 1107.98 106.431"
 	editor
 	{
@@ -216134,7 +216126,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1681.69 1108.26 106.431"
 	editor
 	{
@@ -217969,7 +217961,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1599 1072 3.68459"
 	editor
 	{
@@ -219180,7 +219172,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1771 948.917 90.8215"
 	editor
 	{
@@ -219221,7 +219213,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1710.59 1108.26 124.816"
 	editor
 	{
@@ -219262,7 +219254,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1428.98 1003 3.68459"
 	editor
 	{
@@ -219303,7 +219295,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1429.77 1025.8 3.68459"
 	editor
 	{
@@ -219344,7 +219336,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1434 1015.42 21.9407"
 	editor
 	{
@@ -220750,7 +220742,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1432 1084 5.02222"
 	editor
 	{
@@ -221337,7 +221329,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1422.6 961.561 79.2188"
 	editor
 	{
@@ -224264,7 +224256,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1433.14 712.653 5.02222"
 	editor
 	{
@@ -224305,7 +224297,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1433.41 727 15.2393"
 	editor
 	{
@@ -224346,7 +224338,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1433 726 24.7264"
 	editor
 	{
@@ -224387,7 +224379,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1435 735 5.02222"
 	editor
 	{
@@ -224428,7 +224420,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1424.78 677 3.68459"
 	editor
 	{
@@ -224469,7 +224461,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1430 652 3.68459"
 	editor
 	{
@@ -224510,7 +224502,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1429.01 666.624 21.4128"
 	editor
 	{
@@ -224551,7 +224543,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1427 622 4.7786"
 	editor
 	{
@@ -224592,7 +224584,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1452.17 617.744 4.7786"
 	editor
 	{
@@ -224633,7 +224625,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1472 618 4.7786"
 	editor
 	{
@@ -224674,7 +224666,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1451.58 615.96 25.6676"
 	editor
 	{
@@ -224715,7 +224707,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1586 628 5.02222"
 	editor
 	{
@@ -224834,7 +224826,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1457.84 589.277 69.2506"
 	editor
 	{
@@ -235015,7 +235007,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1661.94 970 3.68459"
 	editor
 	{
@@ -235056,7 +235048,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1660.15 948.431 3.68459"
 	editor
 	{
@@ -235097,7 +235089,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1659.01 958.916 22.3672"
 	editor
 	{
@@ -235138,7 +235130,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1460 928.746 3.68459"
 	editor
 	{
@@ -235179,7 +235171,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1485.42 934 3.68459"
 	editor
 	{
@@ -235220,7 +235212,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1466 795 3.68459"
 	editor
 	{
@@ -235261,7 +235253,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1470.7 934 22.1742"
 	editor
 	{
@@ -235302,7 +235294,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1578 806.566 4.63235"
 	editor
 	{
@@ -235343,7 +235335,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1490 912.746 5.02222"
 	editor
 	{
@@ -235384,7 +235376,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1558 804 4.63235"
 	editor
 	{
@@ -235425,7 +235417,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1568 801 25.1311"
 	editor
 	{
@@ -235466,7 +235458,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1600 734 17"
 	editor
 	{
@@ -235507,7 +235499,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1578 734 3.68459"
 	editor
 	{
@@ -235548,7 +235540,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1599 814 4.86768"
 	editor
 	{
@@ -235589,7 +235581,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1556 614 5.02222"
 	editor
 	{
@@ -235669,7 +235661,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1744.23 1076.32 3.68459"
 	editor
 	{
@@ -235710,7 +235702,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1736.29 1055.19 17"
 	editor
 	{
@@ -236687,7 +236679,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1603.97 439.906 106.586"
 	editor
 	{
@@ -236728,7 +236720,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1600.65 438 124.719"
 	editor
 	{
@@ -236769,7 +236761,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1628.19 436.229 106.333"
 	editor
 	{
@@ -236810,7 +236802,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1778.96 735 7.08633"
 	editor
 	{
@@ -236851,7 +236843,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1776 708 7.08633"
 	editor
 	{
@@ -236892,7 +236884,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1776.6 674.682 7.08633"
 	editor
 	{
@@ -236933,7 +236925,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1776.18 586.662 7.08633"
 	editor
 	{
@@ -236974,7 +236966,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1778.52 550.697 7.08633"
 	editor
 	{
@@ -237015,7 +237007,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1777.95 524.003 7.08633"
 	editor
 	{
@@ -237056,7 +237048,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1779 464.002 69.4684"
 	editor
 	{
@@ -237097,7 +237089,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1781.96 491.002 69.4684"
 	editor
 	{
@@ -237138,7 +237130,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1781.36 524.32 69.4684"
 	editor
 	{
@@ -237179,7 +237171,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1780.02 712.117 69.3259"
 	editor
 	{
@@ -237220,7 +237212,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1779 473.547 88.2804"
 	editor
 	{
@@ -237261,7 +237253,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1779 505.005 88.0389"
 	editor
 	{
@@ -238355,7 +238347,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-436 1412 15"
 	editor
 	{
@@ -238396,7 +238388,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-763 1515 15"
 	editor
 	{
@@ -239452,7 +239444,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "1280"
+	"spawnflags" "1024"
 	"origin" "-1529 565 17.6263"
 	editor
 	{
@@ -239493,7 +239485,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "1280"
+	"spawnflags" "1024"
 	"origin" "-1454 552 3.7711"
 	editor
 	{
@@ -239534,7 +239526,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1462 440 2.81463"
 	editor
 	{
@@ -239575,7 +239567,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "1280"
+	"spawnflags" "1024"
 	"origin" "-1477.71 557.92 3.7711"
 	editor
 	{
@@ -239616,7 +239608,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1410 442 13.192"
 	editor
 	{
@@ -239876,7 +239868,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1777.73 950.711 102.835"
 	editor
 	{
@@ -240725,7 +240717,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-118 738.513 14.5395"
 	editor
 	{
@@ -240766,7 +240758,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-146 640 17.4597"
 	editor
 	{
@@ -240807,7 +240799,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "90 749 18.1883"
 	editor
 	{
@@ -240848,7 +240840,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-135 659 16.4413"
 	editor
 	{
@@ -240889,7 +240881,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-132.307 738 25.3156"
 	editor
 	{
@@ -240930,7 +240922,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-81 576 16.4413"
 	editor
 	{
@@ -240971,7 +240963,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-167 743 17.4597"
 	editor
 	{
@@ -241012,7 +241004,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-53.9359 570.548 17.4597"
 	editor
 	{
@@ -241053,7 +241045,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-117 625.015 40.9594"
 	editor
 	{
@@ -241094,7 +241086,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "87.6539 723.695 18.1883"
 	editor
 	{
@@ -241135,7 +241127,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-78.502 577 33.1657"
 	editor
 	{
@@ -241176,7 +241168,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "63.2576 750.153 17.4597"
 	editor
 	{
@@ -241217,7 +241209,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-190.671 652.169 18.1883"
 	editor
 	{
@@ -241258,7 +241250,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "86 572 17.4597"
 	editor
 	{
@@ -241299,7 +241291,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "90 591 16.4413"
 	editor
 	{
@@ -241340,7 +241332,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "62.1865 575.195 17.4597"
 	editor
 	{
@@ -241381,7 +241373,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "34 578 14.5395"
 	editor
 	{
@@ -241422,7 +241414,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "90 692 16.4558"
 	editor
 	{
@@ -241501,7 +241493,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "18 737 16.4558"
 	editor
 	{
@@ -241542,7 +241534,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-232 746 16.4413"
 	editor
 	{
@@ -241583,7 +241575,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-45.957 744.952 93.4514"
 	editor
 	{
@@ -241620,7 +241612,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1336 167 1"
 	editor
 	{
@@ -241657,7 +241649,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1366 149 1"
 	editor
 	{
@@ -241694,7 +241686,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1356 411 1"
 	editor
 	{
@@ -241731,7 +241723,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1152 4 1"
 	editor
 	{
@@ -241768,7 +241760,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1248.51 415.941 1"
 	editor
 	{
@@ -241805,7 +241797,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1257 382 1"
 	editor
 	{
@@ -241842,7 +241834,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1255.23 395.721 1"
 	editor
 	{
@@ -241879,7 +241871,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1268 356 1"
 	editor
 	{
@@ -241916,7 +241908,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1244 386 1"
 	editor
 	{
@@ -241953,7 +241945,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1238 391 1"
 	editor
 	{
@@ -241990,7 +241982,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1210 352 -7.091"
 	editor
 	{
@@ -242027,7 +242019,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1330 909 1"
 	editor
 	{
@@ -242064,7 +242056,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1227 803 1"
 	editor
 	{
@@ -242101,7 +242093,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1339 942 1"
 	editor
 	{
@@ -242138,7 +242130,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1341.65 930.254 1"
 	editor
 	{
@@ -242175,7 +242167,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1266 934 1"
 	editor
 	{
@@ -242212,7 +242204,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1372 788 1"
 	editor
 	{
@@ -242249,7 +242241,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1366 779 1"
 	editor
 	{
@@ -242286,7 +242278,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1234 904 1"
 	editor
 	{
@@ -242323,7 +242315,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1335 806 1"
 	editor
 	{
@@ -242360,7 +242352,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1336 841 1"
 	editor
 	{
@@ -242397,7 +242389,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1318 595 1"
 	editor
 	{
@@ -242434,7 +242426,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1335 1005 1"
 	editor
 	{
@@ -242471,7 +242463,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1346 960 1"
 	editor
 	{
@@ -242508,7 +242500,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1427 1157 1"
 	editor
 	{
@@ -242545,7 +242537,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1430 1178 1"
 	editor
 	{
@@ -242582,7 +242574,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1479 1187 1"
 	editor
 	{
@@ -242619,7 +242611,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1436 1217 1"
 	editor
 	{
@@ -242656,7 +242648,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1448 1183 1"
 	editor
 	{
@@ -242693,7 +242685,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1204 1028 -6.84116"
 	editor
 	{
@@ -242730,7 +242722,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1494 1176 1"
 	editor
 	{
@@ -242767,7 +242759,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1496 1192 1"
 	editor
 	{
@@ -242804,7 +242796,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1519 1279 1"
 	editor
 	{
@@ -242841,7 +242833,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1341 1291 1"
 	editor
 	{
@@ -242878,7 +242870,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1560 1223 1"
 	editor
 	{
@@ -242915,7 +242907,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1523 1210 1"
 	editor
 	{
@@ -242952,7 +242944,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1537 1216 1"
 	editor
 	{
@@ -242989,7 +242981,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1512.46 1209 8.61478"
 	editor
 	{
@@ -243026,7 +243018,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1528 1205 8.61478"
 	editor
 	{
@@ -243063,7 +243055,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1467 1172 8.61478"
 	editor
 	{
@@ -243100,7 +243092,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1430 1169 8.61478"
 	editor
 	{
@@ -243137,7 +243129,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1718 1187 1"
 	editor
 	{
@@ -243174,7 +243166,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1719 1231 1"
 	editor
 	{
@@ -243211,7 +243203,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1704 1238 1"
 	editor
 	{
@@ -243248,7 +243240,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1606 1194 8.61478"
 	editor
 	{
@@ -243285,7 +243277,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1616 1187 1"
 	editor
 	{
@@ -243322,7 +243314,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1633 1158 1"
 	editor
 	{
@@ -243359,7 +243351,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1977 1712 1"
 	editor
 	{
@@ -243396,7 +243388,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1948 1695 1"
 	editor
 	{
@@ -243433,7 +243425,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1944 1684 8.61478"
 	editor
 	{
@@ -243470,7 +243462,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1938 1591 1"
 	editor
 	{
@@ -243507,7 +243499,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1945 1568 1"
 	editor
 	{
@@ -243544,7 +243536,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1951 1554 1"
 	editor
 	{
@@ -243581,7 +243573,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1956 1559 8.61478"
 	editor
 	{
@@ -243618,7 +243610,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1964 1551 8.61478"
 	editor
 	{
@@ -243655,7 +243647,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1982 1541 1"
 	editor
 	{
@@ -243692,7 +243684,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-2014 1518 1"
 	editor
 	{
@@ -243729,7 +243721,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1963 1385 1"
 	editor
 	{
@@ -243766,7 +243758,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1875 1477 1"
 	editor
 	{
@@ -243803,7 +243795,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1725 1431 1"
 	editor
 	{
@@ -243840,7 +243832,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-2070 1846 1"
 	editor
 	{
@@ -243877,7 +243869,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-2030 1846 1"
 	editor
 	{
@@ -243914,7 +243906,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-2032 1838 8.61478"
 	editor
 	{
@@ -243951,7 +243943,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-2022.94 1838.24 8.61478"
 	editor
 	{
@@ -243988,7 +243980,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1982 1799 1"
 	editor
 	{
@@ -244025,7 +244017,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1447 1868 1"
 	editor
 	{
@@ -244062,7 +244054,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1689 1819 1"
 	editor
 	{
@@ -244099,7 +244091,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1272 1325 -6.84116"
 	editor
 	{
@@ -244136,7 +244128,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1284 1318 -6.81341"
 	editor
 	{
@@ -244173,7 +244165,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1302 1318.74 -7.41404"
 	editor
 	{
@@ -244210,7 +244202,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1299 1262 1"
 	editor
 	{
@@ -244247,7 +244239,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1654 1431 -7.43604"
 	editor
 	{
@@ -244284,7 +244276,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1276 821 2.21297"
 	editor
 	{
@@ -244321,7 +244313,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1360 963 8.61478"
 	editor
 	{
@@ -244358,7 +244350,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1290 1238 1"
 	editor
 	{
@@ -244395,7 +244387,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1330 1997 1"
 	editor
 	{
@@ -244432,7 +244424,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1431 1912 1"
 	editor
 	{
@@ -244469,7 +244461,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1539 2007 8.61478"
 	editor
 	{
@@ -244506,7 +244498,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1548 2009 8.61478"
 	editor
 	{
@@ -244543,7 +244535,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1340 1867 1"
 	editor
 	{
@@ -244580,7 +244572,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1606 1960 1"
 	editor
 	{
@@ -244617,7 +244609,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1170 1965 1"
 	editor
 	{
@@ -244654,7 +244646,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1212 1754 -6.81341"
 	editor
 	{
@@ -244691,7 +244683,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1350 1646 -6.81341"
 	editor
 	{
@@ -244728,7 +244720,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-985 1676 -7.22867"
 	editor
 	{
@@ -244765,7 +244757,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1024 1809 -6.81341"
 	editor
 	{
@@ -244802,7 +244794,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1321 1938 1"
 	editor
 	{
@@ -244839,7 +244831,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1332 1943 1"
 	editor
 	{
@@ -244876,7 +244868,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1186 1866 1"
 	editor
 	{
@@ -244913,7 +244905,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-999 2038 1"
 	editor
 	{
@@ -244950,7 +244942,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-774 1592 8.61478"
 	editor
 	{
@@ -244987,7 +244979,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-927 1656 8.61478"
 	editor
 	{
@@ -245024,7 +245016,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-910 1694 1"
 	editor
 	{
@@ -245061,7 +245053,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-825 1756 1"
 	editor
 	{
@@ -245098,7 +245090,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-843 1574 1"
 	editor
 	{
@@ -245135,7 +245127,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1707 1754 1"
 	editor
 	{
@@ -245172,7 +245164,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-903 1789 1"
 	editor
 	{
@@ -245209,7 +245201,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-703 1976 1"
 	editor
 	{
@@ -245246,7 +245238,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-785 1598 1"
 	editor
 	{
@@ -245283,7 +245275,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-788 1771 2"
 	editor
 	{
@@ -245320,7 +245312,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-932 1314 1"
 	editor
 	{
@@ -245357,7 +245349,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-921 1174 1"
 	editor
 	{
@@ -245394,7 +245386,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-935 1235 1"
 	editor
 	{
@@ -245431,7 +245423,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-913 1170 1"
 	editor
 	{
@@ -245468,7 +245460,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-833 1294 1"
 	editor
 	{
@@ -245505,7 +245497,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-883 1135.36 8.68888"
 	editor
 	{
@@ -245542,7 +245534,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-821 1280 1"
 	editor
 	{
@@ -245579,7 +245571,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-838 1386 1"
 	editor
 	{
@@ -245616,7 +245608,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-914 910 1"
 	editor
 	{
@@ -245653,7 +245645,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-979.108 733 -7.43777"
 	editor
 	{
@@ -245690,7 +245682,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-886 141 -6.81341"
 	editor
 	{
@@ -245727,7 +245719,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1238 -339 1"
 	editor
 	{
@@ -245764,7 +245756,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1241 -327 8.61478"
 	editor
 	{
@@ -245801,7 +245793,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1241 -318 1"
 	editor
 	{
@@ -245838,7 +245830,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1259 -391 1"
 	editor
 	{
@@ -245875,7 +245867,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1187 -489 8.61478"
 	editor
 	{
@@ -245912,7 +245904,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1314 -478 1"
 	editor
 	{
@@ -245949,7 +245941,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1358 -426 1"
 	editor
 	{
@@ -245986,7 +245978,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1214 -485 1"
 	editor
 	{
@@ -246023,7 +246015,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1355.76 -340.461 8.61478"
 	editor
 	{
@@ -246060,7 +246052,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1360.17 -330.83 1"
 	editor
 	{
@@ -246097,7 +246089,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1367 -329 8.61478"
 	editor
 	{
@@ -246134,7 +246126,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1247 -357 1"
 	editor
 	{
@@ -246171,7 +246163,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1318 -550 1"
 	editor
 	{
@@ -246208,7 +246200,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1367 -21 1"
 	editor
 	{
@@ -246245,7 +246237,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1375 -14 8.61478"
 	editor
 	{
@@ -246282,7 +246274,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-988 -14 1"
 	editor
 	{
@@ -246319,7 +246311,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-639 92 1"
 	editor
 	{
@@ -246356,7 +246348,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-612 -8.00156 32.7848"
 	editor
 	{
@@ -246393,7 +246385,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-628 42 1"
 	editor
 	{
@@ -246430,7 +246422,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-637 26 1"
 	editor
 	{
@@ -246467,7 +246459,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-632 14 1"
 	editor
 	{
@@ -246504,7 +246496,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-509 46 1"
 	editor
 	{
@@ -246541,7 +246533,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-516 39 1"
 	editor
 	{
@@ -246578,7 +246570,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-532 -32 40"
 	editor
 	{
@@ -246615,7 +246607,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-254 -65 1"
 	editor
 	{
@@ -246652,7 +246644,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-870 -8 1"
 	editor
 	{
@@ -246689,7 +246681,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-828 -29 1"
 	editor
 	{
@@ -246726,7 +246718,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-267 85 1"
 	editor
 	{
@@ -246763,7 +246755,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-257 20 8.61478"
 	editor
 	{
@@ -246800,7 +246792,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-250 74 1"
 	editor
 	{
@@ -246837,7 +246829,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-379 1 1"
 	editor
 	{
@@ -246874,7 +246866,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-849 436 1"
 	editor
 	{
@@ -246911,7 +246903,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-875 829 1"
 	editor
 	{
@@ -246948,7 +246940,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-843 599.254 1"
 	editor
 	{
@@ -246985,7 +246977,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-823 636 1"
 	editor
 	{
@@ -247022,7 +247014,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-1079 -26 1"
 	editor
 	{
@@ -247059,7 +247051,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-111 45 1"
 	editor
 	{
@@ -247096,7 +247088,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-342 -1018 1"
 	editor
 	{
@@ -247133,7 +247125,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-414 -1022 1"
 	editor
 	{
@@ -247170,7 +247162,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-388 -1014 8.61478"
 	editor
 	{
@@ -247207,7 +247199,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-311 -949 1"
 	editor
 	{
@@ -247244,7 +247236,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-304 -903 1"
 	editor
 	{
@@ -247281,7 +247273,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-382 -1020 8.61478"
 	editor
 	{
@@ -247318,7 +247310,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-188 -268 1"
 	editor
 	{
@@ -247355,7 +247347,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-144 -276 8.61478"
 	editor
 	{
@@ -247392,7 +247384,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-135 -274 8.61478"
 	editor
 	{
@@ -247429,7 +247421,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-289 -276 1"
 	editor
 	{
@@ -247466,7 +247458,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-122 -211 1"
 	editor
 	{
@@ -247503,7 +247495,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-146 -55 1"
 	editor
 	{
@@ -247540,7 +247532,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-73 -90 1"
 	editor
 	{
@@ -247577,7 +247569,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-111 29 1"
 	editor
 	{
@@ -247614,7 +247606,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "237 39 1"
 	editor
 	{
@@ -247651,7 +247643,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "218 47 1"
 	editor
 	{
@@ -247688,7 +247680,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "114 90 1"
 	editor
 	{
@@ -247725,7 +247717,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "113 -137 8.61478"
 	editor
 	{
@@ -247762,7 +247754,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-125 30 1"
 	editor
 	{
@@ -247799,7 +247791,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-67 -258 1"
 	editor
 	{
@@ -247836,7 +247828,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "97 -136 1"
 	editor
 	{
@@ -247873,7 +247865,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "106 24 1"
 	editor
 	{
@@ -247910,7 +247902,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "93 14 1"
 	editor
 	{
@@ -247947,7 +247939,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-450 -673 8.61478"
 	editor
 	{
@@ -247984,7 +247976,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-449 -703 1"
 	editor
 	{
@@ -248021,7 +248013,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-287 -990 1"
 	editor
 	{
@@ -248058,7 +248050,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-303 -959 1"
 	editor
 	{
@@ -248095,7 +248087,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "97 -50 1"
 	editor
 	{
@@ -248132,7 +248124,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "361 83 1"
 	editor
 	{
@@ -248169,7 +248161,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "377 134 -7.86225"
 	editor
 	{
@@ -248206,7 +248198,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "364 105 1"
 	editor
 	{
@@ -248243,7 +248235,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "489 -134 1"
 	editor
 	{
@@ -248280,7 +248272,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "513 -135 8.61478"
 	editor
 	{
@@ -248317,7 +248309,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "520 -136 1"
 	editor
 	{
@@ -248354,7 +248346,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "615 111 1"
 	editor
 	{
@@ -248391,7 +248383,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "484 -92 1"
 	editor
 	{
@@ -248428,7 +248420,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "511 -141 8.61478"
 	editor
 	{
@@ -248465,7 +248457,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "446 101 1"
 	editor
 	{
@@ -248502,7 +248494,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "639 -183 1"
 	editor
 	{
@@ -248539,7 +248531,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "637 -172 1"
 	editor
 	{
@@ -248576,7 +248568,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "643 -132 1"
 	editor
 	{
@@ -248613,7 +248605,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "79 485 1"
 	editor
 	{
@@ -248650,7 +248642,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "28 485 1"
 	editor
 	{
@@ -248687,7 +248679,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-445 411 2.21297"
 	editor
 	{
@@ -248724,7 +248716,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-456 407 1"
 	editor
 	{
@@ -248761,7 +248753,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-318 443 1"
 	editor
 	{
@@ -248798,7 +248790,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-415 521 1"
 	editor
 	{
@@ -248835,7 +248827,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-425 507 1"
 	editor
 	{
@@ -248872,7 +248864,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-398 525 8.61478"
 	editor
 	{
@@ -248909,7 +248901,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-869 434 1"
 	editor
 	{
@@ -248946,7 +248938,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-870 407 1"
 	editor
 	{
@@ -248983,7 +248975,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-864 426 8.61478"
 	editor
 	{
@@ -249020,7 +249012,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-55 417 1"
 	editor
 	{
@@ -249057,7 +249049,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "2 504 8.61478"
 	editor
 	{
@@ -249094,7 +249086,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-14 394 1"
 	editor
 	{
@@ -249131,7 +249123,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-288 485 1"
 	editor
 	{
@@ -249168,7 +249160,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-161 517 2.21297"
 	editor
 	{
@@ -249205,7 +249197,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-150 521 1"
 	editor
 	{
@@ -249242,7 +249234,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "7 498 1"
 	editor
 	{
@@ -249279,7 +249271,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "15 498 1"
 	editor
 	{
@@ -249316,7 +249308,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "141 470 1"
 	editor
 	{
@@ -249353,7 +249345,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "159 488 1"
 	editor
 	{
@@ -249390,7 +249382,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "155 552 1"
 	editor
 	{
@@ -249427,7 +249419,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "677 450 1"
 	editor
 	{
@@ -249464,7 +249456,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "318 717 1"
 	editor
 	{
@@ -249501,7 +249493,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "315 740 1"
 	editor
 	{
@@ -249538,7 +249530,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "303 593 1"
 	editor
 	{
@@ -249575,7 +249567,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "317 730 8.61478"
 	editor
 	{
@@ -249612,7 +249604,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "305 769 8.61478"
 	editor
 	{
@@ -249649,7 +249641,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "613 -493 8.61478"
 	editor
 	{
@@ -249686,7 +249678,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "609 -506 8.61478"
 	editor
 	{
@@ -249723,7 +249715,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "596 -456 1"
 	editor
 	{
@@ -249760,7 +249752,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "606 -496 1"
 	editor
 	{
@@ -249797,7 +249789,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "533 -443 1"
 	editor
 	{
@@ -249834,7 +249826,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "618 -1035 8.61478"
 	editor
 	{
@@ -249871,7 +249863,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "624 -1022 8.61478"
 	editor
 	{
@@ -249908,7 +249900,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "615 -1025 1"
 	editor
 	{
@@ -249945,7 +249937,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "558 -1002 1"
 	editor
 	{
@@ -249982,7 +249974,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "444 -939 1"
 	editor
 	{
@@ -250019,7 +250011,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "563 -1153 8.61478"
 	editor
 	{
@@ -250056,7 +250048,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "574 -1153 1"
 	editor
 	{
@@ -250093,7 +250085,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "567.383 -1147.41 1"
 	editor
 	{
@@ -250130,7 +250122,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "369 -921 8.61478"
 	editor
 	{
@@ -250167,7 +250159,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "369.383 -933 1"
 	editor
 	{
@@ -250204,7 +250196,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "376 -938.594 1"
 	editor
 	{
@@ -250241,7 +250233,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "421 -933 8.61478"
 	editor
 	{
@@ -250278,7 +250270,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "235 -904 8.61478"
 	editor
 	{
@@ -250315,7 +250307,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "301 -1001 1"
 	editor
 	{
@@ -250352,7 +250344,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "190.617 -1019.59 1"
 	editor
 	{
@@ -250389,7 +250381,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "180 -1015 1"
 	editor
 	{
@@ -250426,7 +250418,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "56.6904 -939 8.61478"
 	editor
 	{
@@ -250463,7 +250455,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "47.5302 -950.004 8.61478"
 	editor
 	{
@@ -250500,7 +250492,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-88 -963 1"
 	editor
 	{
@@ -250537,7 +250529,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "55 -947 8.61478"
 	editor
 	{
@@ -250574,7 +250566,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "26 -1067 1"
 	editor
 	{
@@ -250611,7 +250603,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "610 -474 1"
 	editor
 	{
@@ -250648,7 +250640,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "542 -1083 1"
 	editor
 	{
@@ -250685,7 +250677,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "310 -1065 1"
 	editor
 	{
@@ -250722,7 +250714,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "183 -913 1"
 	editor
 	{
@@ -250759,7 +250751,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "49 -1072 1"
 	editor
 	{
@@ -250796,7 +250788,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-81 -959 8.61478"
 	editor
 	{
@@ -250833,7 +250825,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-95 -1047 1"
 	editor
 	{
@@ -250870,7 +250862,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-265.737 -903.265 1"
 	editor
 	{
@@ -250907,7 +250899,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-238 -940 1"
 	editor
 	{
@@ -250944,7 +250936,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-256 -900 8.61478"
 	editor
 	{
@@ -250981,7 +250973,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-131 -1050 1"
 	editor
 	{
@@ -251018,7 +251010,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "181 907.222 1"
 	editor
 	{
@@ -251055,7 +251047,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "174 910 8.61478"
 	editor
 	{
@@ -251092,7 +251084,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "165 907 8.61478"
 	editor
 	{
@@ -251129,7 +251121,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "138 746 1"
 	editor
 	{
@@ -251166,7 +251158,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "300 847 1"
 	editor
 	{
@@ -251203,7 +251195,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "200 1054.41 8.61478"
 	editor
 	{
@@ -251240,7 +251232,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "200.499 1068 8.61478"
 	editor
 	{
@@ -251277,7 +251269,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "205.985 1059.12 1"
 	editor
 	{
@@ -251314,7 +251306,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "221 997 1"
 	editor
 	{
@@ -251351,7 +251343,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "229 1047 1"
 	editor
 	{
@@ -251388,7 +251380,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "354 947 1"
 	editor
 	{
@@ -251425,7 +251417,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "340 928 1"
 	editor
 	{
@@ -251462,7 +251454,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "336 1094 1"
 	editor
 	{
@@ -251499,7 +251491,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "322 798 1"
 	editor
 	{
@@ -251536,7 +251528,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "259 1226 1"
 	editor
 	{
@@ -251573,7 +251565,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "237.301 1185.07 1"
 	editor
 	{
@@ -251610,7 +251602,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "190 1167 1"
 	editor
 	{
@@ -251647,7 +251639,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "379 1165 1"
 	editor
 	{
@@ -251684,7 +251676,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "141 1167 8.61478"
 	editor
 	{
@@ -251721,7 +251713,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "335 1426 1"
 	editor
 	{
@@ -251758,7 +251750,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "418 1368 1"
 	editor
 	{
@@ -251795,7 +251787,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "426 1352 1"
 	editor
 	{
@@ -251832,7 +251824,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "201 1048 8.61478"
 	editor
 	{
@@ -251869,7 +251861,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "311 852 1"
 	editor
 	{
@@ -251906,7 +251898,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "64 1781 1"
 	editor
 	{
@@ -251943,7 +251935,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "36.0512 1791.72 1"
 	editor
 	{
@@ -251980,7 +251972,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "234 1775 1"
 	editor
 	{
@@ -252017,7 +252009,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "41.0661 1801.6 1"
 	editor
 	{
@@ -252054,7 +252046,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "217 1866 1"
 	editor
 	{
@@ -252091,7 +252083,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "426 1966 1"
 	editor
 	{
@@ -252128,7 +252120,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "352 1810 1"
 	editor
 	{
@@ -252165,7 +252157,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "141 1396 1"
 	editor
 	{
@@ -252202,7 +252194,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "473 -192 1"
 	editor
 	{
@@ -252239,7 +252231,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "660 424 1"
 	editor
 	{
@@ -252276,7 +252268,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-265 1833 1"
 	editor
 	{
@@ -252313,7 +252305,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-236 1958 1"
 	editor
 	{
@@ -252350,7 +252342,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-284 1833 1"
 	editor
 	{
@@ -252387,7 +252379,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-17 2004 1"
 	editor
 	{
@@ -252424,7 +252416,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-257 2002 1"
 	editor
 	{
@@ -252461,7 +252453,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-704 1990 1"
 	editor
 	{
@@ -252498,7 +252490,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-842 2001 1"
 	editor
 	{
@@ -252535,7 +252527,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-484 1949 1"
 	editor
 	{
@@ -252572,7 +252564,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-663 1766 1"
 	editor
 	{
@@ -252609,7 +252601,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-489 1790 1"
 	editor
 	{
@@ -252646,7 +252638,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-523 1947 1"
 	editor
 	{
@@ -252683,7 +252675,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-510 1945 1"
 	editor
 	{
@@ -252720,7 +252712,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-921 1651 1"
 	editor
 	{
@@ -252757,7 +252749,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-837 1560 1"
 	editor
 	{
@@ -252794,7 +252786,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-239 1972 1"
 	editor
 	{
@@ -252831,7 +252823,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1318 2155 1"
 	editor
 	{
@@ -252868,7 +252860,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1133 2329 1"
 	editor
 	{
@@ -252905,7 +252897,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1217 2626 1"
 	editor
 	{
@@ -252942,7 +252934,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1106 2744 1"
 	editor
 	{
@@ -252979,7 +252971,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-683 2789 1"
 	editor
 	{
@@ -253016,7 +253008,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-3 2803 1"
 	editor
 	{
@@ -253053,7 +253045,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-24 2796 1"
 	editor
 	{
@@ -253090,7 +253082,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-141 3771 1"
 	editor
 	{
@@ -253127,7 +253119,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-401 3305 1"
 	editor
 	{
@@ -253164,7 +253156,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-610 3191 1"
 	editor
 	{
@@ -253201,7 +253193,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1020 3298 1"
 	editor
 	{
@@ -253238,7 +253230,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1060.05 3282 15.6098"
 	editor
 	{
@@ -253275,7 +253267,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1195 3153 15.6098"
 	editor
 	{
@@ -253312,7 +253304,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1048 3282 15.6098"
 	editor
 	{
@@ -253349,7 +253341,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1249 3512.89 0.380166"
 	editor
 	{
@@ -253386,7 +253378,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1392 3400 0.380166"
 	editor
 	{
@@ -253423,7 +253415,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1759 3198 0.380166"
 	editor
 	{
@@ -253460,7 +253452,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1852 1032 1"
 	editor
 	{
@@ -253497,7 +253489,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1844 1030 8.61478"
 	editor
 	{
@@ -253534,7 +253526,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1945 1035 1"
 	editor
 	{
@@ -253571,7 +253563,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1940 1083 1"
 	editor
 	{
@@ -253608,7 +253600,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1006 2460 1"
 	editor
 	{
@@ -253645,7 +253637,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1009 2472 8.61478"
 	editor
 	{
@@ -253682,7 +253674,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1009 2481 1"
 	editor
 	{
@@ -253719,7 +253711,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1027 2486 1"
 	editor
 	{
@@ -253756,7 +253748,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1058 2490 1"
 	editor
 	{
@@ -253793,7 +253785,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1231.98 2650.9 1"
 	editor
 	{
@@ -253830,7 +253822,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1220.09 2647.5 8.61478"
 	editor
 	{
@@ -253867,7 +253859,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1212.29 2643 1"
 	editor
 	{
@@ -253904,7 +253896,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1198.96 2656.09 1"
 	editor
 	{
@@ -253941,7 +253933,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1180 2680.94 1"
 	editor
 	{
@@ -253978,7 +253970,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-951.981 3086.97 1"
 	editor
 	{
@@ -254015,7 +254007,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-940.088 3083.56 8.61478"
 	editor
 	{
@@ -254052,7 +254044,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-932.294 3079.06 1"
 	editor
 	{
@@ -254089,7 +254081,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-918.964 3092.15 1"
 	editor
 	{
@@ -254126,7 +254118,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-900 3117 1"
 	editor
 	{
@@ -254163,7 +254155,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1092 3729 1"
 	editor
 	{
@@ -254200,7 +254192,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1106 4014 8.61478"
 	editor
 	{
@@ -254237,7 +254229,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1088.29 3742.06 1"
 	editor
 	{
@@ -254274,7 +254266,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1225 3730 1"
 	editor
 	{
@@ -254311,7 +254303,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1141 3823 1"
 	editor
 	{
@@ -254348,7 +254340,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1435 3355 1"
 	editor
 	{
@@ -254385,7 +254377,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1426 3423 8.61478"
 	editor
 	{
@@ -254422,7 +254414,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1397.29 3379.06 1"
 	editor
 	{
@@ -254459,7 +254451,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1401.96 3397.15 1"
 	editor
 	{
@@ -254496,7 +254488,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1414 3426 1"
 	editor
 	{
@@ -254533,7 +254525,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1911.98 3038.97 1"
 	editor
 	{
@@ -254570,7 +254562,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1421 3435 8.61478"
 	editor
 	{
@@ -254607,7 +254599,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1879 3028 1"
 	editor
 	{
@@ -254644,7 +254636,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1860 3077 1"
 	editor
 	{
@@ -254681,7 +254673,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1912 3099 1"
 	editor
 	{
@@ -254718,7 +254710,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1906 3107 2"
 	editor
 	{
@@ -254755,7 +254747,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1295.54 3018 1"
 	editor
 	{
@@ -254792,7 +254784,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1307.74 3019.2 1"
 	editor
 	{
@@ -254829,7 +254821,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1292 3051.23 1"
 	editor
 	{
@@ -254866,7 +254858,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1396 3157 0.380166"
 	editor
 	{
@@ -254903,7 +254895,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1193.93 3256 13.8435"
 	editor
 	{
@@ -254940,7 +254932,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1185 3146 13.8435"
 	editor
 	{
@@ -254977,7 +254969,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1433 3263 1"
 	editor
 	{
@@ -255014,7 +255006,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1892 3099 1"
 	editor
 	{
@@ -255051,7 +255043,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1772 2956 1"
 	editor
 	{
@@ -255088,7 +255080,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1660 2844 1"
 	editor
 	{
@@ -255125,7 +255117,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1656 2833 1"
 	editor
 	{
@@ -255162,7 +255154,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1405 2575 1"
 	editor
 	{
@@ -255199,7 +255191,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1115 3113 1"
 	editor
 	{
@@ -255236,7 +255228,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1113 3100.9 1"
 	editor
 	{
@@ -255273,7 +255265,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1148.02 3107.81 1"
 	editor
 	{
@@ -255310,7 +255302,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1099 2975 1"
 	editor
 	{
@@ -255347,7 +255339,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1211 2931 1"
 	editor
 	{
@@ -255384,7 +255376,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1092 2830 1"
 	editor
 	{
@@ -255421,7 +255413,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1921.55 3209.65 2"
 	editor
 	{
@@ -255458,7 +255450,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1933 3221 1"
 	editor
 	{
@@ -255495,7 +255487,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1913 3430 2"
 	editor
 	{
@@ -255532,7 +255524,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1904.88 3416.07 1"
 	editor
 	{
@@ -255569,7 +255561,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1755 3600 2"
 	editor
 	{
@@ -255606,7 +255598,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1721 3559 1"
 	editor
 	{
@@ -255643,7 +255635,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1718 3568 1"
 	editor
 	{
@@ -255680,7 +255672,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1757 3740 1"
 	editor
 	{
@@ -255717,7 +255709,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1771 3754 2"
 	editor
 	{
@@ -255754,7 +255746,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1221 4033 1"
 	editor
 	{
@@ -255791,7 +255783,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-925 3935 1"
 	editor
 	{
@@ -255828,7 +255820,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1457 3853 1"
 	editor
 	{
@@ -255865,7 +255857,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1663 3826 1"
 	editor
 	{
@@ -255902,7 +255894,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-721.66 3842 1"
 	editor
 	{
@@ -255939,7 +255931,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-710 3835.04 1"
 	editor
 	{
@@ -255976,7 +255968,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-813.479 3812.04 1"
 	editor
 	{
@@ -256013,7 +256005,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-591.857 3874.54 1"
 	editor
 	{
@@ -256050,7 +256042,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-591.659 3888.11 1"
 	editor
 	{
@@ -256087,7 +256079,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-520 3810 1"
 	editor
 	{
@@ -256124,7 +256116,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-249 3831.42 1"
 	editor
 	{
@@ -256161,7 +256153,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-248.802 3845 1"
 	editor
 	{
@@ -256198,7 +256190,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-177.143 3766.89 1"
 	editor
 	{
@@ -256235,7 +256227,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-8.46144 3636.74 1"
 	editor
 	{
@@ -256272,7 +256264,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "1 3627 1"
 	editor
 	{
@@ -256309,7 +256301,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-123 3742 1"
 	editor
 	{
@@ -256346,7 +256338,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-123 3786 1"
 	editor
 	{
@@ -256383,7 +256375,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "17.1981 3296.11 1"
 	editor
 	{
@@ -256420,7 +256412,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "17 3282.54 1"
 	editor
 	{
@@ -256457,7 +256449,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "109 3246 1"
 	editor
 	{
@@ -256494,7 +256486,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "115 3252.89 1"
 	editor
 	{
@@ -256531,7 +256523,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "88.8574 3218 1"
 	editor
 	{
@@ -256568,7 +256560,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "28.9354 2901.99 1"
 	editor
 	{
@@ -256605,7 +256597,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "42.0001 2898.28 1"
 	editor
 	{
@@ -256642,7 +256634,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-52 2849.28 1"
 	editor
 	{
@@ -256679,7 +256671,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-19 2808 1"
 	editor
 	{
@@ -256716,7 +256708,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-198 2780 1"
 	editor
 	{
@@ -256753,7 +256745,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-520 2604.01 1"
 	editor
 	{
@@ -256790,7 +256782,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-374 2673.29 1"
 	editor
 	{
@@ -256827,7 +256819,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-341 2632.01 1"
 	editor
 	{
@@ -256864,7 +256856,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-280 2722.29 1"
 	editor
 	{
@@ -256901,7 +256893,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-293.065 2726 1"
 	editor
 	{
@@ -256938,7 +256930,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-815.706 2577.57 1"
 	editor
 	{
@@ -256975,7 +256967,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-723.906 2710.56 1"
 	editor
 	{
@@ -257012,7 +257004,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-674.687 2691.31 1"
 	editor
 	{
@@ -257049,7 +257041,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-667 2800 1"
 	editor
 	{
@@ -257086,7 +257078,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-680.167 2796.68 1"
 	editor
 	{
@@ -257123,7 +257115,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-886.564 2558.09 1"
 	editor
 	{
@@ -257160,7 +257152,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1045.52 2528.96 1"
 	editor
 	{
@@ -257197,7 +257189,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1066.71 2577.38 1"
 	editor
 	{
@@ -257234,7 +257226,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1149 2505.96 1"
 	editor
 	{
@@ -257271,7 +257263,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1137.34 2499 1"
 	editor
 	{
@@ -257308,7 +257300,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-410 3115.34 1"
 	editor
 	{
@@ -257345,7 +257337,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-464.249 2963.12 1"
 	editor
 	{
@@ -257382,7 +257374,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-516.773 2968.97 1"
 	editor
 	{
@@ -257419,7 +257411,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-496.068 2862 1"
 	editor
 	{
@@ -257456,7 +257448,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-484.21 2868.62 1"
 	editor
 	{
@@ -257493,7 +257485,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-506.773 3056.66 1"
 	editor
 	{
@@ -257530,7 +257522,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-452.524 3208.88 1"
 	editor
 	{
@@ -257567,7 +257559,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-400 3203.03 1"
 	editor
 	{
@@ -257604,7 +257596,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-420.705 3310 1"
 	editor
 	{
@@ -257641,7 +257633,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-432.563 3303.38 1"
 	editor
 	{
@@ -257678,7 +257670,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-570.657 3216.23 1"
 	editor
 	{
@@ -257715,7 +257707,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-722.884 3270.48 1"
 	editor
 	{
@@ -257752,7 +257744,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-717.028 3323 1"
 	editor
 	{
@@ -257789,7 +257781,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-824 3302.3 1"
 	editor
 	{
@@ -257826,7 +257818,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-817.382 3290.44 1"
 	editor
 	{
@@ -257863,7 +257855,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-536.283 3422.56 1"
 	editor
 	{
@@ -257900,7 +257892,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-565.415 3581.52 1"
 	editor
 	{
@@ -257937,7 +257929,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-517 3602.71 1"
 	editor
 	{
@@ -257974,7 +257966,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-588.417 3685 1"
 	editor
 	{
@@ -258011,7 +258003,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-595.377 3673.34 1"
 	editor
 	{
@@ -258048,7 +258040,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1168.71 3757.57 1"
 	editor
 	{
@@ -258085,7 +258077,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1077 3881 1"
 	editor
 	{
@@ -258122,7 +258114,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1027.69 3871.31 1"
 	editor
 	{
@@ -258159,7 +258151,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1059.83 4003.32 1"
 	editor
 	{
@@ -258196,7 +258188,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1073 4000 1"
 	editor
 	{
@@ -258233,7 +258225,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1719 3304 1"
 	editor
 	{
@@ -258270,7 +258262,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1738.98 3243.97 1"
 	editor
 	{
@@ -258307,7 +258299,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1402 3147 1"
 	editor
 	{
@@ -258344,7 +258336,7 @@ entity
 	"pressuredelay" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "260"
+	"spawnflags" "4"
 	"origin" "-1575 3185 1"
 	editor
 	{
@@ -259720,7 +259712,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-795 1220 16.4413"
 	editor
 	{
@@ -262958,7 +262950,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "4 1067.07 97"
 	editor
 	{
@@ -262999,7 +262991,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-166 890.895 91"
 	editor
 	{
@@ -263040,7 +263032,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-496.79 843.653 91"
 	editor
 	{
@@ -263081,7 +263073,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-541 851.917 97"
 	editor
 	{
@@ -263122,7 +263114,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-679.673 556.852 97.3265"
 	editor
 	{
@@ -263163,7 +263155,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-264 1213.04 287.923"
 	editor
 	{
@@ -263204,7 +263196,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-229.914 766.083 282"
 	editor
 	{
@@ -263245,7 +263237,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "3"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-386.238 1281 286"
 	editor
 	{
@@ -263286,7 +263278,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-151.427 762.529 286.451"
 	editor
 	{
@@ -263327,7 +263319,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-388.041 936.838 286.451"
 	editor
 	{
@@ -263368,7 +263360,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-50.0258 557.454 286.906"
 	editor
 	{
@@ -263409,7 +263401,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-143.994 1002.76 286.451"
 	editor
 	{
@@ -263450,7 +263442,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "37 1002.76 289"
 	editor
 	{
@@ -263491,7 +263483,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "3"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "3.39424 779.994 289.343"
 	editor
 	{
@@ -263532,7 +263524,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-468.985 713.164 294.094"
 	editor
 	{
@@ -263573,7 +263565,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-603.215 859.636 294.094"
 	editor
 	{
@@ -263614,7 +263606,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-681.345 556.242 294.094"
 	editor
 	{
@@ -263655,7 +263647,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-682.979 876.197 294.094"
 	editor
 	{
@@ -263696,7 +263688,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "2"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-607.218 1227.55 294.094"
 	editor
 	{
@@ -263737,7 +263729,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "1"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-470.841 1032.11 294.094"
 	editor
 	{
@@ -263778,7 +263770,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-494.089 711.922 92.7226"
 	editor
 	{
@@ -264034,7 +264026,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-180.462 -336 31"
 	editor
 	{
@@ -264075,7 +264067,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-180.663 -336.387 29.6259"
 	editor
 	{
@@ -264194,7 +264186,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-188.663 -345.438 28.6517"
 	editor
 	{
@@ -264235,7 +264227,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-194.663 -352.387 29.6259"
 	editor
 	{
@@ -264276,7 +264268,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-199.663 -341 30"
 	editor
 	{
@@ -264317,7 +264309,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-196.663 -392.387 29.6259"
 	editor
 	{
@@ -264358,7 +264350,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-190.663 -381.387 28.6517"
 	editor
 	{
@@ -264477,7 +264469,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-166.663 -390.387 29.6259"
 	editor
 	{
@@ -264518,7 +264510,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-172.663 -378.387 28.6517"
 	editor
 	{
@@ -264559,7 +264551,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-162.663 -380.387 29.6259"
 	editor
 	{
@@ -264600,7 +264592,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-201.663 -402.387 29.6259"
 	editor
 	{
@@ -264641,7 +264633,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-254.663 -565.387 35.794"
 	editor
 	{
@@ -264682,7 +264674,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-263.663 -562.387 35.794"
 	editor
 	{
@@ -264723,7 +264715,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-46.6633 -319.387 29.6259"
 	editor
 	{
@@ -264764,7 +264756,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "101.337 -362.387 30.0304"
 	editor
 	{
@@ -264805,7 +264797,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "104.337 -341.387 30.0304"
 	editor
 	{
@@ -264846,7 +264838,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "107.337 -330.387 30.0304"
 	editor
 	{
@@ -264887,7 +264879,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "108.337 -368.387 30.0304"
 	editor
 	{
@@ -264967,7 +264959,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "98.3367 -393.387 29.0562"
 	editor
 	{
@@ -265125,7 +265117,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "79.3114 -345.438 29.0562"
 	editor
 	{
@@ -265166,7 +265158,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "73.3114 -352.387 30.0304"
 	editor
 	{
@@ -265207,7 +265199,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "68.3114 -341.387 30.0304"
 	editor
 	{
@@ -265248,7 +265240,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "92.3367 -335.387 29.0562"
 	editor
 	{
@@ -265289,7 +265281,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "85.3367 -320.387 29.6259"
 	editor
 	{
@@ -265330,7 +265322,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "402.337 -379.387 29.0562"
 	editor
 	{
@@ -265371,7 +265363,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "404.337 -397.387 30.0304"
 	editor
 	{
@@ -265412,7 +265404,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "411.337 -403.387 30.0304"
 	editor
 	{
@@ -265570,7 +265562,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "449.337 -395.387 29.0562"
 	editor
 	{
@@ -265611,7 +265603,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "442.337 -403.387 30.0304"
 	editor
 	{
@@ -265652,7 +265644,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "433.337 -405.387 30.0304"
 	editor
 	{
@@ -265693,7 +265685,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "461.337 -377.387 29.0562"
 	editor
 	{
@@ -265734,7 +265726,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "468.337 -369.387 30.0304"
 	editor
 	{
@@ -265892,7 +265884,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "475.337 -375.387 30.0304"
 	editor
 	{
@@ -265933,7 +265925,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "485.337 -387.387 29.6259"
 	editor
 	{
@@ -265974,7 +265966,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "382.337 -577.387 41.581"
 	editor
 	{
@@ -266015,7 +266007,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "380.337 -575.387 39.5444"
 	editor
 	{
@@ -266056,7 +266048,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "371.337 -583.387 39.6991"
 	editor
 	{
@@ -266097,7 +266089,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "388.337 -591.387 39.6991"
 	editor
 	{
@@ -266138,7 +266130,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "246.337 -590.387 39.6991"
 	editor
 	{
@@ -266179,7 +266171,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "231.385 -579.387 42.522"
 	editor
 	{
@@ -266220,7 +266212,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "232.332 -579.387 40.8285"
 	editor
 	{
@@ -266261,7 +266253,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "232.337 -579.387 39.5444"
 	editor
 	{
@@ -266302,7 +266294,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "221.337 -574.387 39.6991"
 	editor
 	{
@@ -266343,7 +266335,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "218.337 -580.429 39.6991"
 	editor
 	{
@@ -266384,7 +266376,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "112.337 -581.387 42.522"
 	editor
 	{
@@ -266425,7 +266417,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "113.284 -581.387 40.8285"
 	editor
 	{
@@ -266466,7 +266458,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "113.289 -581.387 39.5444"
 	editor
 	{
@@ -266507,7 +266499,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "101.337 -574.387 39.6991"
 	editor
 	{
@@ -266548,7 +266540,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "98.3367 -580.429 39.6991"
 	editor
 	{
@@ -266589,7 +266581,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "104.337 -592.387 39.6991"
 	editor
 	{
@@ -276810,56 +276802,6 @@ entity
 }
 entity
 {
-	"id" "1453106"
-	"classname" "p3_npc_citizen"
-	"additionalequipment" "0"
-	"AlertHearRange" "960"
-	"AlertViewRange" "960"
-	"AlwaysTransition" "No"
-	"ammoamount" "1"
-	"ammosupply" "SMG1"
-	"angles" "0 89 0"
-	"AreaGroup" "AG_DEFAULT"
-	"citizentype" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"DontPickupWeapons" "1"
-	"DontUseSpeechSemaphore" "0"
-	"expressiontype" "0"
-	"GameEndAlly" "No"
-	"habitatid" "-1"
-	"hintgroup" "idle"
-	"hintlimiting" "0"
-	"ignoreunseenenemies" "0"
-	"model" "models/characters/M_Avg_Suit/M_Avg_Suit.mdl"
-	"ModelTemplate" "Fill that place!"
-	"NeutralHearRange" "960"
-	"NeutralViewRange" "320"
-	"neverleaveplayersquad" "0"
-	"notifynavfailblocked" "0"
-	"physdamagescale" "1.0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"sleepstate" "0"
-	"spawnflags" "262144"
-	"StartWithWeapon" "3"
-	"targetname" "worker_301_cashier"
-	"waitingtorappel" "No"
-	"wakeradius" "0"
-	"wakesquad" "0"
-	"origin" "-599 1067 16"
-	editor
-	{
-		"color" "0 200 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9768 -8268]"
-	}
-}
-entity
-{
 	"id" "1453108"
 	"classname" "p3_npc_citizen"
 	"additionalequipment" "0"
@@ -276956,56 +276898,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[-9768 -7268]"
-	}
-}
-entity
-{
-	"id" "1453112"
-	"classname" "p3_npc_citizen"
-	"additionalequipment" "0"
-	"AlertHearRange" "960"
-	"AlertViewRange" "960"
-	"AlwaysTransition" "No"
-	"ammoamount" "1"
-	"ammosupply" "SMG1"
-	"angles" "0 89 0"
-	"AreaGroup" "AG_DEFAULT"
-	"citizentype" "0"
-	"disablereceiveshadows" "0"
-	"disableshadows" "0"
-	"DontPickupWeapons" "1"
-	"DontUseSpeechSemaphore" "0"
-	"expressiontype" "0"
-	"GameEndAlly" "No"
-	"habitatid" "-1"
-	"hintgroup" "idle"
-	"hintlimiting" "0"
-	"ignoreunseenenemies" "0"
-	"model" "models/characters/M_Avg_Suit/M_Avg_Suit.mdl"
-	"ModelTemplate" "Fill that place!"
-	"NeutralHearRange" "960"
-	"NeutralViewRange" "320"
-	"neverleaveplayersquad" "0"
-	"notifynavfailblocked" "0"
-	"physdamagescale" "1.0"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"renderfx" "0"
-	"rendermode" "0"
-	"sleepstate" "0"
-	"spawnflags" "262144"
-	"StartWithWeapon" "3"
-	"targetname" "worker_301_cashier"
-	"waitingtorappel" "No"
-	"wakeradius" "0"
-	"wakesquad" "0"
-	"origin" "-539 1067 16.101"
-	editor
-	{
-		"color" "0 200 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9768 -6768]"
 	}
 }
 entity
@@ -281245,7 +281137,7 @@ entity
 	"rendermode" "0"
 	"shadowcastdist" "0"
 	"skin" "0"
-	"spawnflags" "256"
+	"spawnflags" "0"
 	"origin" "-184.663 -321 31"
 	editor
 	{
@@ -628410,7 +628302,7 @@ entity
 entity
 {
 	"id" "47815"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "0 0 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -628419,6 +628311,7 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
 	"model" "models/furniture/hallstand_01.mdl"
@@ -628433,7 +628326,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-213 787.573 15.6661"
 	editor
 	{
@@ -629721,7 +629613,7 @@ entity
 entity
 {
 	"id" "47867"
-	"classname" "prop_dynamic"
+	"classname" "prop_dynamic_override"
 	"angles" "0 180.5 0"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
@@ -629730,6 +629622,7 @@ entity
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"health" "0"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
 	"model" "models/furniture/hallstand_01.mdl"
@@ -629744,7 +629637,6 @@ entity
 	"skin" "0"
 	"solid" "6"
 	"spawnflags" "0"
-	"StartDisabled" "0"
 	"origin" "-52 999.744 208.151"
 	editor
 	{
@@ -636809,8 +636701,8 @@ entity
 	"id" "48150"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636819,7 +636711,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1204.14 3175.73 14.1474"
 	editor
 	{
@@ -636834,8 +636726,8 @@ entity
 	"id" "48151"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636844,7 +636736,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1242.14 3192 14.1474"
 	editor
 	{
@@ -636859,8 +636751,8 @@ entity
 	"id" "48152"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636869,7 +636761,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1170.14 3296 14.1474"
 	editor
 	{
@@ -636884,8 +636776,8 @@ entity
 	"id" "48153"
 	"classname" "prop_static"
 	"angles" "0 270 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636894,7 +636786,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1188.14 3236 14.1474"
 	editor
 	{
@@ -636909,8 +636801,8 @@ entity
 	"id" "48154"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636919,7 +636811,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1146.14 3220 14.1474"
 	editor
 	{
@@ -636934,8 +636826,8 @@ entity
 	"id" "48155"
 	"classname" "prop_static"
 	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636944,7 +636836,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1068.14 3296 14.1474"
 	editor
 	{
@@ -636959,8 +636851,8 @@ entity
 	"id" "48156"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636969,7 +636861,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1060.14 3224 14.1474"
 	editor
 	{
@@ -636984,8 +636876,8 @@ entity
 	"id" "48157"
 	"classname" "prop_static"
 	"angles" "0 210 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -636994,7 +636886,7 @@ entity
 	"model" "models/garbage/puddle_09.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1182.14 3340 14.1474"
 	editor
 	{
@@ -637009,8 +636901,8 @@ entity
 	"id" "48158"
 	"classname" "prop_static"
 	"angles" "0 210 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637019,7 +636911,7 @@ entity
 	"model" "models/garbage/puddle_09.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1242.14 3246 14.1474"
 	editor
 	{
@@ -637034,8 +636926,8 @@ entity
 	"id" "48159"
 	"classname" "prop_static"
 	"angles" "0 90 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637044,7 +636936,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1092 3178 16.2148"
 	editor
 	{
@@ -637059,8 +636951,8 @@ entity
 	"id" "48160"
 	"classname" "prop_static"
 	"angles" "0 165.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637069,7 +636961,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1146 3259 16.2148"
 	editor
 	{
@@ -637084,8 +636976,8 @@ entity
 	"id" "48161"
 	"classname" "prop_static"
 	"angles" "0 135 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637094,7 +636986,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1070 3292 16.2148"
 	editor
 	{
@@ -637109,8 +637001,8 @@ entity
 	"id" "48162"
 	"classname" "prop_static"
 	"angles" "0 240.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637119,7 +637011,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1054 3242 16.2148"
 	editor
 	{
@@ -637134,8 +637026,8 @@ entity
 	"id" "48163"
 	"classname" "prop_static"
 	"angles" "0 195.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637144,7 +637036,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1154.52 3358.8 16.2148"
 	editor
 	{
@@ -637159,8 +637051,8 @@ entity
 	"id" "48164"
 	"classname" "prop_static"
 	"angles" "0 165 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637169,7 +637061,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1110.61 3344.96 16.2148"
 	editor
 	{
@@ -637184,8 +637076,8 @@ entity
 	"id" "48165"
 	"classname" "prop_static"
 	"angles" "0 330 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637194,7 +637086,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1206 3342 16.2148"
 	editor
 	{
@@ -637209,8 +637101,8 @@ entity
 	"id" "48166"
 	"classname" "prop_static"
 	"angles" "0 240.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637219,7 +637111,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1181 3262 16.2148"
 	editor
 	{
@@ -637234,8 +637126,8 @@ entity
 	"id" "48167"
 	"classname" "prop_static"
 	"angles" "0 330.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637244,7 +637136,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1236.73 3184.77 16.2148"
 	editor
 	{
@@ -637259,8 +637151,8 @@ entity
 	"id" "48168"
 	"classname" "prop_static"
 	"angles" "0 300 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637269,7 +637161,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1258 3225.6 16.2148"
 	editor
 	{
@@ -637284,8 +637176,8 @@ entity
 	"id" "48169"
 	"classname" "prop_static"
 	"angles" "0 345 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637294,7 +637186,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1215.07 3167.25 16.2148"
 	editor
 	{
@@ -637309,8 +637201,8 @@ entity
 	"id" "48170"
 	"classname" "prop_static"
 	"angles" "0 15.5 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -637319,7 +637211,7 @@ entity
 	"model" "models/garbage/puddle_07.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1178.56 3156 16.2148"
 	editor
 	{
@@ -640202,7 +640094,7 @@ entity
 	"model" "models/objects_interior/bar_neonlight_01.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-698.171 1544.99 121.439"
 	editor
 	{
@@ -640248,8 +640140,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1202.59 1525.33 68.4616]"
-		"look" "[-1442.05 1430.51 0.413929]"
+		"position" "[-216.864 865.586 58.3813]"
+		"look" "[-205.742 600.218 37.9444]"
 	}
 }
 cordon
