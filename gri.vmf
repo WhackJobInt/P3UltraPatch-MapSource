@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "7"
+	"mapversion" "8"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "7"
+	"mapversion" "8"
 	"classname" "worldspawn"
 	"briefing" "#P3_GRI_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.0 from gri"
@@ -98308,6 +98308,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "RonJeremy"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -103004,6 +103005,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -103065,6 +103067,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -103805,6 +103808,7 @@ entity
 	"StartState" "st_jerkoff"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_jerkoff"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -104789,6 +104793,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "64 1937.31 144"
@@ -104843,6 +104848,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "74.591 1808 136"
@@ -104897,6 +104903,7 @@ entity
 	"StartState" "st_fastfood"
 	"StartWithWeapon" "3"
 	"targetname" "fastfood"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "-1870.89 5891.16 40"
@@ -108532,6 +108539,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108581,6 +108589,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108630,6 +108639,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108679,6 +108689,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "police_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108756,6 +108767,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108804,6 +108816,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108852,6 +108865,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108900,6 +108914,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "0"
 	"targetname" "zealot_tmp"
+	"waitingtorappel" "No"
 	connections
 	{
 		"OnUser1" "!self,FireFSMScriptEvent,OnICanLean,0,-1"
@@ -108987,6 +109002,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -109046,6 +109062,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -109107,6 +109124,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -109168,6 +109186,7 @@ entity
 	"StartState" "st_start"
 	"StartWithWeapon" "3"
 	"targetname" "citizen"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -109258,6 +109277,7 @@ entity
 	"StartState" "ev_chair"
 	"StartWithWeapon" "3"
 	"targetname" "citizen_spectator"
+	"waitingtorappel" "No"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	connections
@@ -260544,13 +260564,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -260588,13 +260609,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -260632,13 +260654,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -260676,13 +260699,14 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"forcetoenablemotion" "0"
+	"GiveWeapon" ""
 	"inertiaScale" "1.0"
 	"item_prefab" "0"
 	"massScale" "0"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/weapons/box_grenade/ammo_sniper.mdl"
+	"model" "models/weapons/box_grenade/ammo_Sniper.mdl"
 	"nodamageforces" "0"
 	"OneHandledAnimationType" "0"
 	"PerformanceMode" "0"
@@ -260701,13 +260725,105 @@ entity
 		"logicalpos" "[0 1500]"
 	}
 }
+entity
+{
+	"id" "1245196"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 270 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_init"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_start"
+	"targetname" "MedBox2"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "640 2964 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1245198"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 90 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_init"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_start"
+	"targetname" "MedBox1"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "-2224 6276 91.4886"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-349.435 6896.03 204.598]"
-		"look" "[-520.578 7008.83 34.4836]"
+		"position" "[524.016 2497.6 312.89]"
+		"look" "[678.897 2703.22 244.44]"
 	}
 	camera
 	{

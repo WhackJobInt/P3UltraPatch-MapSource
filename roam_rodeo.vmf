@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "11"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.0 from roam_rodeo"
 	"detailmaterial" "detail/detailsprites"
@@ -259203,13 +259203,105 @@ entity
 		"logicalpos" "[9000 1500]"
 	}
 }
+entity
+{
+	"id" "1193396"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 270 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_init"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_start"
+	"targetname" "MedBox2"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "640 2964 184"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1193398"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 90 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_init"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_start"
+	"targetname" "MedBox1"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "-2224 6276 91.4886"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-803.774 779.346 244.066]"
-		"look" "[-628.382 717.653 53.2726]"
+		"position" "[724.298 2743.11 216.834]"
+		"look" "[641.214 2995.49 197.6]"
 	}
 	camera
 	{
