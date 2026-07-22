@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "23"
+	"mapversion" "25"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "25"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -632543,7 +632543,7 @@ entity
 	"fademindist" "2000"
 	"fadescale" "1"
 	"ignorenormals" "0"
-	"model" "models/architecture_city/stair_02.mdl"
+	"model" "models/architecture_city/stair_02_old.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "6"
@@ -640250,8 +640250,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1194 474.354 44.9108]"
-		"look" "[-1460.01 461.335 50.49]"
+		"position" "[-1273.32 380.791 135.199]"
+		"look" "[-1463.79 201.906 186.937]"
 	}
 }
 cordon
