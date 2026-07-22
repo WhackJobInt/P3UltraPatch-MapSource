@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "13"
+	"mapversion" "14"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "13"
+	"mapversion" "14"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -262813,7 +262813,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/cars/wheel_01.mdl"
+	"model" "models/cars/wheel_01_a.mdl"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -262922,7 +262922,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/cars/wheel_01.mdl"
+	"model" "models/cars/wheel_01_a.mdl"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -262989,7 +262989,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/cars/wheel_01.mdl"
+	"model" "models/cars/wheel_01_a.mdl"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -263056,7 +263056,7 @@ entity
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"minhealthdmg" "0"
-	"model" "models/cars/wheel_01.mdl"
+	"model" "models/cars/wheel_01_a.mdl"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -641089,8 +641089,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1285.21 -827.533 330.086]"
-		"look" "[-1044.67 -728.39 272.883]"
+		"position" "[-1343.23 1626.88 47.0197]"
+		"look" "[-1497.41 1423.75 -29.9748]"
 	}
 }
 cordon
