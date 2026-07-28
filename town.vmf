@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "25"
+	"mapversion" "27"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "27"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -272669,7 +272669,7 @@ entity
 	"hintlimiting" "0"
 	"ignoreunseenenemies" "0"
 	"model" "models/characters/M_Big_TT_Pants/m_big_tt_pants.mdl"
-	"ModelTemplate" "Fill that place!"
+	"ModelTemplate" "pf_M_Big_Worker"
 	"NeutralHearRange" "960"
 	"NeutralViewRange" "320"
 	"neverleaveplayersquad" "0"
@@ -640250,8 +640250,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1273.32 380.791 135.199]"
-		"look" "[-1463.79 201.906 186.937]"
+		"position" "[202.679 -457.248 71.6923]"
+		"look" "[406.644 -612.047 -1.73164]"
 	}
 }
 cordon
