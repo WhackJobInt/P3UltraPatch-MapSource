@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "27"
+	"mapversion" "29"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,13 +38,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "27"
+	"mapversion" "29"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sunset_01"
+	"skyname" "2007_sunset_01"
 	solid
 	{
 		"id" "2"
@@ -640250,8 +640250,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[202.679 -457.248 71.6923]"
-		"look" "[406.644 -612.047 -1.73164]"
+		"position" "[-1140.16 1687 135.997]"
+		"look" "[-1134.59 1421.78 111.854]"
 	}
 }
 cordon
