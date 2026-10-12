@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "23"
+	"mapversion" "25"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "25"
 	"classname" "worldspawn"
 	"briefing" "#P3_KMTD_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from kmtd"
@@ -78876,7 +78876,6 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"health" "0"
-	"lightingorigin" "top_light_06"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
@@ -78919,7 +78918,6 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"health" "0"
-	"lightingorigin" "top_light_06"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
@@ -79670,7 +79668,6 @@ entity
 	"forceclosed" "0"
 	"hardware" "1"
 	"health" "0"
-	"lightingorigin" "ps_doors"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
 	"model" "models/doors_windows/police_station_window_01_door.mdl"
@@ -79705,7 +79702,6 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"health" "0"
-	"lightingorigin" "ps_doors"
 	"MaxAnimTime" "10"
 	"maxdxlevel" "0"
 	"MinAnimTime" "5"
@@ -585606,8 +585602,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1652.93 -1058.43 225.203]"
-		"look" "[-1879.75 -1052.7 85.6167]"
+		"position" "[-1991.08 639.493 35.0361]"
+		"look" "[-2251.75 651.55 -18.529]"
 	}
 }
 cordon
