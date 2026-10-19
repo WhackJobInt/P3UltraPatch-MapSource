@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "3"
+	"mapversion" "4"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "3"
+	"mapversion" "4"
 	"classname" "worldspawn"
 	"briefing" "#P3_BDK_BRIEF"
 	"comment" "Decompiled by BSPSource v1.4.7 from bdk"
@@ -97843,7 +97843,8 @@ entity
 	"id" "1441329"
 	"classname" "info_player_start"
 	"angles" "0 317 0"
-	"origin" "2467.5 1070.02 0"
+	"spawnflags" "0"
+	"origin" "1832 745 0"
 	editor
 	{
 		"color" "0 255 0"
@@ -230553,13 +230554,59 @@ entity
 		"logicalpos" "[3500 5500]"
 	}
 }
+entity
+{
+	"id" "1483951"
+	"classname" "wj_prop_fsmitem"
+	"angles" "0 180 0"
+	"BulkyHandledAnimationType" "0"
+	"damagetoenablemotion" "0"
+	"Damagetype" "0"
+	"disableshadows" "1"
+	"ExplodeDamage" "0"
+	"ExplodeRadius" "0"
+	"Faction" "Interactable"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"forcetoenablemotion" "0"
+	"FSMBehavior" "bh_prop_aidkit"
+	"inertiaScale" "1.0"
+	"InitState" "prop_init"
+	"massScale" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"minhealthdmg" "0"
+	"model" "models/furniture/first_aid_box_01_dynamic.mdl"
+	"nodamageforces" "0"
+	"OneHandledAnimationType" "0"
+	"PerformanceMode" "0"
+	"physdamagescale" "0.1"
+	"pressuredelay" "0"
+	"shadowcastdist" "0"
+	"skin" "0"
+	"spawnflags" "1547"
+	"StartDisabled" "0"
+	"StartState" "prop_start"
+	"targetname" "MedBox2"
+	"TwoHandledAnimationType" "0"
+	"Type" "0"
+	"origin" "2352 136 42.4718"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2936.17 -615.637 109.578]"
-		"look" "[2670.55 -596.126 114.993]"
+		"position" "[1913.18 612.703 73.3816]"
+		"look" "[2144.01 512.807 -14.3801]"
 	}
 }
 cordon
