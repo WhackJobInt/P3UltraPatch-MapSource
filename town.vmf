@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "29"
+	"mapversion" "30"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "29"
+	"mapversion" "30"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -193730,7 +193730,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/doors_windows/wood_door04.mdl"
-	"opendir" "0"
+	"opendir" "1"
 	"returndelay" "0.5"
 	"skin" "0"
 	"spawnflags" "8192"
@@ -640250,8 +640250,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1140.16 1687 135.997]"
-		"look" "[-1134.59 1421.78 111.854]"
+		"position" "[-1885.8 1027.58 69.1881]"
+		"look" "[-1792.78 956.984 -170.228]"
 	}
 }
 cordon
