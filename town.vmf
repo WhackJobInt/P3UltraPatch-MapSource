@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "30"
+	"mapversion" "31"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "30"
+	"mapversion" "31"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.7 from town"
 	"detailmaterial" "detail/detailsprites"
@@ -168779,7 +168779,8 @@ entity
 {
 	"id" "3"
 	"classname" "info_player_start"
-	"angles" "0 0 0"
+	"angles" "0 270 0"
+	"spawnflags" "0"
 	"origin" "-1207 1868 22"
 	editor
 	{
@@ -640250,8 +640251,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1885.8 1027.58 69.1881]"
-		"look" "[-1792.78 956.984 -170.228]"
+		"position" "[-1210.51 1936.03 98.517]"
+		"look" "[-1208.83 1697.44 -19.9235]"
 	}
 }
 cordon
