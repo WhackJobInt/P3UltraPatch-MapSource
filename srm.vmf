@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "18"
+	"mapversion" "19"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "18"
+	"mapversion" "19"
 	"classname" "worldspawn"
 	"briefing" "#P3_SRM_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.4 from srm"
@@ -73979,6 +73979,82 @@ world
 		editor
 		{
 			"color" "0 147 248"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "2706890"
+		side
+		{
+			"id" "44513"
+			"plane" "(-7040 354 46) (-7040 128 50) (-7040 128 60)"
+			"material" "GROUND/ASPHALT_01"
+			"uaxis" "[0 1 0 -8] 0.25"
+			"vaxis" "[0 0 -1 -378] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44512"
+			"plane" "(-7040 128 50) (-7232 128 46) (-7232 128 56)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44511"
+			"plane" "(-7040 354 46) (-7040 354 56) (-7232 354 56)"
+			"material" "CITY/WALL_CITY_TILE05"
+			"uaxis" "[1 0 0 251] 0.25"
+			"vaxis" "[0 0 1 -254] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44510"
+			"plane" "(-7040 128 50) (-7040 354 46) (-7232 354 46)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44509"
+			"plane" "(-7040 354 56) (-7040 128 60) (-7232 128 56)"
+			"material" "GROUND/ASPHALT_01"
+			"uaxis" "[1 0 0 -8] 0.25"
+			"vaxis" "[0 -1 0 -378] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "44508"
+			"plane" "(-7232 128 46) (-7232 354 46) (-7232 354 56)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -196371,94 +196447,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[16000 14000]"
-	}
-}
-entity
-{
-	"id" "13922"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "13923"
-		side
-		{
-			"id" "13924"
-			"plane" "(-7040 354 56) (-7040 354 46) (-7040 128 46)"
-			"material" "GROUND/ASPHALT_01"
-			"uaxis" "[0 1 0 -8] 0.25"
-			"vaxis" "[0 0 -1 -378] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13925"
-			"plane" "(-7040 128 56) (-7040 128 46) (-7232 128 46)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13926"
-			"plane" "(-7232 354 56) (-7232 354 46) (-7040 354 46)"
-			"material" "CITY/WALL_CITY_TILE05"
-			"uaxis" "[1 0 0 251] 0.25"
-			"vaxis" "[0 0 1 -254] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13927"
-			"plane" "(-7232 354 46) (-7232 128 46) (-7040 128 46)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13928"
-			"plane" "(-7232 128 56) (-7232 354 56) (-7040 354 56)"
-			"material" "GROUND/ASPHALT_01"
-			"uaxis" "[1 0 0 -8] 0.25"
-			"vaxis" "[0 -1 0 -378] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13929"
-			"plane" "(-7232 128 56) (-7232 128 46) (-7232 354 46)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[16000 14500]"
 	}
 }
 entity
@@ -570581,35 +570569,6 @@ entity
 }
 entity
 {
-	"id" "45787"
-	"classname" "p3_prop_tree"
-	"angles" "0.5226 237.964 -25.3215"
-	"disableselfshadowing" "1"
-	"disableshadows" "1"
-	"disablevertexlighting" "0"
-	"fademaxdist" "2500"
-	"fademindist" "2000"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"leaves_color" "255 255 255"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/nature/bush_01.mdl"
-	"plant_type" "bush_large"
-	"screenspacefade" "0"
-	"skin" "1"
-	"solid" "0"
-	"origin" "-7048 134 46"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-9768 -3768]"
-	}
-}
-entity
-{
 	"id" "45788"
 	"classname" "p3_prop_tree"
 	"angles" "22.4279 246.498 15.1053"
@@ -585224,13 +585183,42 @@ entity
 		"logicalpos" "[0 -2268]"
 	}
 }
+entity
+{
+	"id" "2706891"
+	"classname" "p3_prop_tree"
+	"angles" "0.5226 237.964 -25.3215"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
+	"disablevertexlighting" "0"
+	"fademaxdist" "2500"
+	"fademindist" "2000"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"leaves_color" "255 255 255"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/nature/bush_01.mdl"
+	"plant_type" "bush_large"
+	"screenspacefade" "0"
+	"skin" "1"
+	"solid" "0"
+	"origin" "-7048 134 52"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[-12268 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2006.3 635.202 28.1625]"
-		"look" "[-2268.54 642.532 -18.0958]"
+		"position" "[-7203.47 302.124 180.401]"
+		"look" "[-7009.39 222.127 16.3961]"
 	}
 }
 cordon
