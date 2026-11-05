@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "5476"
-	"mapversion" "25"
+	"mapversion" "26"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "26"
 	"classname" "worldspawn"
 	"briefing" "#P3_KMTD_MISSION_B"
 	"comment" "Decompiled by BSPSource v1.4.6.1 from kmtd"
@@ -79629,7 +79629,7 @@ entity
 	"id" "369620"
 	"classname" "prop_door_rotating"
 	"ajarangles" "0 0 0"
-	"angles" "0 180 0"
+	"angles" "0 90 0"
 	"axis" "-5024 -1856 36, -5024 -1856 36"
 	"disableshadows" "1"
 	"distance" "90"
@@ -79642,8 +79642,9 @@ entity
 	"returndelay" "3"
 	"skin" "0"
 	"spawnflags" "40960"
-	"spawnpos" "0"
+	"spawnpos" "2"
 	"speed" "100"
+	"targetname" "Alley_Door01"
 	"origin" "-5024 -1856 36"
 	editor
 	{
@@ -86430,7 +86431,7 @@ entity
 	"id" "890081"
 	"classname" "prop_door_rotating"
 	"ajarangles" "0 0 0"
-	"angles" "0 90 0"
+	"angles" "0 0 0"
 	"axis" "-7038 282 70, -7038 282 70"
 	"disableshadows" "1"
 	"distance" "90"
@@ -86443,8 +86444,9 @@ entity
 	"returndelay" "3"
 	"skin" "0"
 	"spawnflags" "40960"
-	"spawnpos" "0"
+	"spawnpos" "2"
 	"speed" "100"
+	"targetname" "Alley_Door02"
 	"origin" "-7038 282 70"
 	editor
 	{
@@ -585602,8 +585604,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1991.08 639.493 35.0361]"
-		"look" "[-2251.75 651.55 -18.529]"
+		"position" "[-6951.84 296.571 182.271]"
+		"look" "[-7183.39 302.424 50.6907]"
 	}
 }
 cordon
